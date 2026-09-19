@@ -1,0 +1,40 @@
+{
+  "name": "mainquest",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A directory of IT companies in Pakistan, filterable by city and industry.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "predev": "node scripts/publish-data.ts && node scripts/publish-map-worker.ts",
+    "build": "next build",
+    "prebuild": "npm run validate && node scripts/publish-data.ts && node scripts/publish-map-worker.ts",
+    "start": "next start",
+    "geocode": "node scripts/geocode.ts",
+    "ingest": "node scripts/ingest/index.ts",
+    "validate": "node scripts/validate.ts",
+    "crosscheck": "node scripts/ingest/crosscheck.ts",
+    "data": "npm run ingest && npm run validate",
+    "test": "node --test \"scripts/tests/*.test.ts\"",
+    "typecheck": "tsc --noEmit",
+    "check:seo": "node scripts/check-seo.ts"
+  },
+  "dependencies": {
+    "csv-parse": "^7.0.2",
+    "maplibre-gl": "^6.9.0",
+    "minisearch": "^7.2.0",
+    "next": "^16.3.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^5.9.3"
+  }
+}
