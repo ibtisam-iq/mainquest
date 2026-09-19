@@ -1,0 +1,287 @@
+[
+  {
+    "id": "it-services-and-it-consulting",
+    "label": "IT Services and IT Consulting",
+    "count": 5447
+  },
+  {
+    "id": "software-development",
+    "label": "Software Development",
+    "count": 2959
+  },
+  {
+    "id": "technology-information-and-internet",
+    "label": "Technology, Information and Internet",
+    "count": 1208
+  },
+  {
+    "id": "information-technology-services",
+    "label": "Information Technology & Services",
+    "count": 793
+  },
+  {
+    "id": "telecommunications",
+    "label": "Telecommunications",
+    "count": 545
+  },
+  {
+    "id": "technology-information-and-media",
+    "label": "Technology, Information and Media",
+    "count": 346
+  },
+  {
+    "id": "it-system-custom-software-development",
+    "label": "IT System Custom Software Development",
+    "count": 340
+  },
+  {
+    "id": "media-production",
+    "label": "Media Production",
+    "count": 308
+  },
+  {
+    "id": "mobile-gaming-apps",
+    "label": "Mobile Gaming Apps",
+    "count": 174
+  },
+  {
+    "id": "information-services",
+    "label": "Information Services",
+    "count": 138
+  },
+  {
+    "id": "broadcast-media-production-and-distribution",
+    "label": "Broadcast Media Production and Distribution",
+    "count": 120
+  },
+  {
+    "id": "internet-marketplace-platforms",
+    "label": "Internet Marketplace Platforms",
+    "count": 91
+  },
+  {
+    "id": "computer-and-network-security",
+    "label": "Computer and Network Security",
+    "count": 85
+  },
+  {
+    "id": "computer-games",
+    "label": "Computer Games",
+    "count": 84
+  },
+  {
+    "id": "book-and-periodical-publishing",
+    "label": "Book and Periodical Publishing",
+    "count": 71
+  },
+  {
+    "id": "animation-and-post-production",
+    "label": "Animation and Post-production",
+    "count": 70
+  },
+  {
+    "id": "online-audio-and-video-media",
+    "label": "Online Audio and Video Media",
+    "count": 70
+  },
+  {
+    "id": "internet-news",
+    "label": "Internet News",
+    "count": 68
+  },
+  {
+    "id": "newspaper-publishing",
+    "label": "Newspaper Publishing",
+    "count": 67
+  },
+  {
+    "id": "digital-accessibility-services",
+    "label": "Digital Accessibility Services",
+    "count": 47
+  },
+  {
+    "id": "internet-publishing",
+    "label": "Internet Publishing",
+    "count": 47
+  },
+  {
+    "id": "social-networking-platforms",
+    "label": "Social Networking Platforms",
+    "count": 38
+  },
+  {
+    "id": "it-system-design-services",
+    "label": "IT System Design Services",
+    "count": 36
+  },
+  {
+    "id": "media-and-telecommunications",
+    "label": "Media and Telecommunications",
+    "count": 36
+  },
+  {
+    "id": "blockchain-services",
+    "label": "Blockchain Services",
+    "count": 30
+  },
+  {
+    "id": "business-content",
+    "label": "Business Content",
+    "count": 26
+  },
+  {
+    "id": "it-system-training-and-support",
+    "label": "IT System Training and Support",
+    "count": 26
+  },
+  {
+    "id": "business-intelligence-platforms",
+    "label": "Business Intelligence Platforms",
+    "count": 25
+  },
+  {
+    "id": "blogs",
+    "label": "Blogs",
+    "count": 23
+  },
+  {
+    "id": "mobile-computing-software-products",
+    "label": "Mobile Computing Software Products",
+    "count": 23
+  },
+  {
+    "id": "computer-networking-products",
+    "label": "Computer Networking Products",
+    "count": 22
+  },
+  {
+    "id": "data-infrastructure-and-analytics",
+    "label": "Data Infrastructure and Analytics",
+    "count": 21
+  },
+  {
+    "id": "book-publishing",
+    "label": "Book Publishing",
+    "count": 18
+  },
+  {
+    "id": "embedded-software-products",
+    "label": "Embedded Software Products",
+    "count": 17
+  },
+  {
+    "id": "movies-videos-and-sound",
+    "label": "Movies, Videos, and Sound",
+    "count": 17
+  },
+  {
+    "id": "online-media",
+    "label": "Online Media",
+    "count": 17
+  },
+  {
+    "id": "it-system-data-services",
+    "label": "IT System Data Services",
+    "count": 16
+  },
+  {
+    "id": "desktop-computing-software-products",
+    "label": "Desktop Computing Software Products",
+    "count": 8
+  },
+  {
+    "id": "animation",
+    "label": "Animation",
+    "count": 7
+  },
+  {
+    "id": "it-system-operations-and-maintenance",
+    "label": "IT System Operations and Maintenance",
+    "count": 7
+  },
+  {
+    "id": "radio-and-television-broadcasting",
+    "label": "Radio and Television Broadcasting",
+    "count": 7
+  },
+  {
+    "id": "it-system-testing-and-evaluation",
+    "label": "IT System Testing and Evaluation",
+    "count": 6
+  },
+  {
+    "id": "data-security-software-products",
+    "label": "Data Security Software Products",
+    "count": 5
+  },
+  {
+    "id": "telecommunications-carriers",
+    "label": "Telecommunications Carriers",
+    "count": 5
+  },
+  {
+    "id": "computer-networking",
+    "label": "Computer Networking",
+    "count": 4
+  },
+  {
+    "id": "industry-not-listed",
+    "label": "Industry not listed",
+    "count": 4
+  },
+  {
+    "id": "climate-data-and-analytics",
+    "label": "Climate Data and Analytics",
+    "count": 3
+  },
+  {
+    "id": "periodical-publishing",
+    "label": "Periodical Publishing",
+    "count": 3
+  },
+  {
+    "id": "wireless-services",
+    "label": "Wireless Services",
+    "count": 3
+  },
+  {
+    "id": "libraries",
+    "label": "Libraries",
+    "count": 2
+  },
+  {
+    "id": "music",
+    "label": "Music",
+    "count": 2
+  },
+  {
+    "id": "satellite-telecommunications",
+    "label": "Satellite Telecommunications",
+    "count": 2
+  },
+  {
+    "id": "business-consulting-and-services",
+    "label": "Business Consulting and Services",
+    "count": 1
+  },
+  {
+    "id": "it-system-installation-and-disposal",
+    "label": "IT System Installation and Disposal",
+    "count": 1
+  },
+  {
+    "id": "market-research",
+    "label": "Market Research",
+    "count": 1
+  },
+  {
+    "id": "sheet-music-publishing",
+    "label": "Sheet Music Publishing",
+    "count": 1
+  },
+  {
+    "id": "sound-recording",
+    "label": "Sound Recording",
+    "count": 1
+  }
+]

@@ -1,0 +1,5607 @@
+[
+  {
+    "id": "web-development",
+    "label": "Web Development",
+    "count": 1085
+  },
+  {
+    "id": "digital-marketing",
+    "label": "Digital Marketing",
+    "count": 793
+  },
+  {
+    "id": "software-development",
+    "label": "Software Development",
+    "count": 705
+  },
+  {
+    "id": "mobile-app-development",
+    "label": "Mobile App Development",
+    "count": 531
+  },
+  {
+    "id": "seo",
+    "label": "SEO",
+    "count": 496
+  },
+  {
+    "id": "custom-software-development",
+    "label": "Custom Software Development",
+    "count": 377
+  },
+  {
+    "id": "social-media-marketing",
+    "label": "Social Media Marketing",
+    "count": 372
+  },
+  {
+    "id": "website-development",
+    "label": "Website Development",
+    "count": 357
+  },
+  {
+    "id": "artificial-intelligence",
+    "label": "Artificial Intelligence",
+    "count": 340
+  },
+  {
+    "id": "graphic-designing",
+    "label": "Graphic Designing",
+    "count": 306
+  },
+  {
+    "id": "ui-ux-design",
+    "label": "UI/UX Design",
+    "count": 301
+  },
+  {
+    "id": "app-development",
+    "label": "App Development",
+    "count": 291
+  },
+  {
+    "id": "wordpress",
+    "label": "Wordpress",
+    "count": 289
+  },
+  {
+    "id": "machine-learning",
+    "label": "Machine Learning",
+    "count": 266
+  },
+  {
+    "id": "ui-ux",
+    "label": "UI/UX",
+    "count": 206
+  },
+  {
+    "id": "content-writing",
+    "label": "Content Writing",
+    "count": 196
+  },
+  {
+    "id": "devops",
+    "label": "DevOps",
+    "count": 193
+  },
+  {
+    "id": "mobile-application-development",
+    "label": "Mobile Application Development",
+    "count": 191
+  },
+  {
+    "id": "shopify",
+    "label": "Shopify",
+    "count": 180
+  },
+  {
+    "id": "search-engine-optimization",
+    "label": "Search Engine Optimization",
+    "count": 174
+  },
+  {
+    "id": "digital-transformation",
+    "label": "Digital Transformation",
+    "count": 171
+  },
+  {
+    "id": "ai",
+    "label": "AI",
+    "count": 169
+  },
+  {
+    "id": "graphic-design",
+    "label": "Graphic Design",
+    "count": 163
+  },
+  {
+    "id": "branding",
+    "label": "Branding",
+    "count": 157
+  },
+  {
+    "id": "game-development",
+    "label": "Game Development",
+    "count": 157
+  },
+  {
+    "id": "blockchain",
+    "label": "Blockchain",
+    "count": 154
+  },
+  {
+    "id": "web-design",
+    "label": "Web Design",
+    "count": 153
+  },
+  {
+    "id": "php",
+    "label": "PHP",
+    "count": 151
+  },
+  {
+    "id": "web-application-development",
+    "label": "Web Application Development",
+    "count": 151
+  },
+  {
+    "id": "e-commerce",
+    "label": "E-Commerce",
+    "count": 143
+  },
+  {
+    "id": "erp",
+    "label": "ERP",
+    "count": 137
+  },
+  {
+    "id": "ecommerce",
+    "label": "Ecommerce",
+    "count": 136
+  },
+  {
+    "id": "python",
+    "label": "Python",
+    "count": 136
+  },
+  {
+    "id": "laravel",
+    "label": "Laravel",
+    "count": 135
+  },
+  {
+    "id": "project-management",
+    "label": "Project Management",
+    "count": 129
+  },
+  {
+    "id": "saas",
+    "label": "SaaS",
+    "count": 129
+  },
+  {
+    "id": "saas-development",
+    "label": "SaaS Development",
+    "count": 129
+  },
+  {
+    "id": "aws",
+    "label": "AWS",
+    "count": 127
+  },
+  {
+    "id": "full-stack-development",
+    "label": "Full Stack Development",
+    "count": 124
+  },
+  {
+    "id": "crm",
+    "label": "CRM",
+    "count": 121
+  },
+  {
+    "id": "react-native",
+    "label": "React Native",
+    "count": 119
+  },
+  {
+    "id": "wordpress-development",
+    "label": "WordPress Development",
+    "count": 119
+  },
+  {
+    "id": "data-science",
+    "label": "Data Science",
+    "count": 118
+  },
+  {
+    "id": "social-media-management",
+    "label": "Social Media Management",
+    "count": 118
+  },
+  {
+    "id": "marketing",
+    "label": "Marketing",
+    "count": 115
+  },
+  {
+    "id": "android",
+    "label": "Android",
+    "count": 112
+  },
+  {
+    "id": "lead-generation",
+    "label": "Lead Generation",
+    "count": 110
+  },
+  {
+    "id": "video-editing",
+    "label": "Video Editing",
+    "count": 110
+  },
+  {
+    "id": "mobile-development",
+    "label": "Mobile Development",
+    "count": 107
+  },
+  {
+    "id": "react",
+    "label": "React",
+    "count": 106
+  },
+  {
+    "id": "staff-augmentation",
+    "label": "Staff Augmentation",
+    "count": 105
+  },
+  {
+    "id": "data-analytics",
+    "label": "Data Analytics",
+    "count": 103
+  },
+  {
+    "id": "flutter",
+    "label": "Flutter",
+    "count": 103
+  },
+  {
+    "id": "ios",
+    "label": "iOS",
+    "count": 103
+  },
+  {
+    "id": "android-development",
+    "label": "Android Development",
+    "count": 102
+  },
+  {
+    "id": "application-development",
+    "label": "Application Development",
+    "count": 102
+  },
+  {
+    "id": "cloud-computing",
+    "label": "Cloud Computing",
+    "count": 102
+  },
+  {
+    "id": "cyber-security",
+    "label": "Cyber Security",
+    "count": 100
+  },
+  {
+    "id": "it-services",
+    "label": "IT Services",
+    "count": 100
+  },
+  {
+    "id": "e-commerce-solutions",
+    "label": "E-commerce Solutions",
+    "count": 96
+  },
+  {
+    "id": "ai-automation",
+    "label": "AI Automation",
+    "count": 95
+  },
+  {
+    "id": "google-ads",
+    "label": "Google Ads",
+    "count": 95
+  },
+  {
+    "id": "it-consulting",
+    "label": "IT Consulting",
+    "count": 95
+  },
+  {
+    "id": "product-development",
+    "label": "Product Development",
+    "count": 94
+  },
+  {
+    "id": "generative-ai",
+    "label": "Generative AI",
+    "count": 93
+  },
+  {
+    "id": "web-designing",
+    "label": "Web Designing",
+    "count": 92
+  },
+  {
+    "id": "iot",
+    "label": "IoT",
+    "count": 89
+  },
+  {
+    "id": "node-js",
+    "label": "Node.js",
+    "count": 89
+  },
+  {
+    "id": "web-app-development",
+    "label": "Web App Development",
+    "count": 89
+  },
+  {
+    "id": "cybersecurity",
+    "label": "Cybersecurity",
+    "count": 86
+  },
+  {
+    "id": "quality-assurance",
+    "label": "Quality Assurance",
+    "count": 85
+  },
+  {
+    "id": "business-intelligence",
+    "label": "Business Intelligence",
+    "count": 84
+  },
+  {
+    "id": "automation",
+    "label": "Automation",
+    "count": 83
+  },
+  {
+    "id": "mobile-apps",
+    "label": "Mobile Apps",
+    "count": 83
+  },
+  {
+    "id": "business-process-automation",
+    "label": "Business Process Automation",
+    "count": 82
+  },
+  {
+    "id": "mobile-applications",
+    "label": "Mobile Applications",
+    "count": 82
+  },
+  {
+    "id": "ios-development",
+    "label": "iOS Development",
+    "count": 81
+  },
+  {
+    "id": "react-js",
+    "label": "React.js",
+    "count": 81
+  },
+  {
+    "id": "ai-agents",
+    "label": "AI Agents",
+    "count": 79
+  },
+  {
+    "id": "customer-support",
+    "label": "Customer Support",
+    "count": 79
+  },
+  {
+    "id": "javascript",
+    "label": "JavaScript",
+    "count": 78
+  },
+  {
+    "id": "web-applications",
+    "label": "Web Applications",
+    "count": 78
+  },
+  {
+    "id": "graphics-designing",
+    "label": "Graphics Designing",
+    "count": 77
+  },
+  {
+    "id": "computer-vision",
+    "label": "Computer Vision",
+    "count": 74
+  },
+  {
+    "id": "java",
+    "label": "Java",
+    "count": 74
+  },
+  {
+    "id": "cloud-services",
+    "label": "Cloud Services",
+    "count": 73
+  },
+  {
+    "id": "business-development",
+    "label": "Business Development",
+    "count": 72
+  },
+  {
+    "id": "cloud-solutions",
+    "label": "Cloud Solutions",
+    "count": 72
+  },
+  {
+    "id": "e-commerce-development",
+    "label": "E-commerce Development",
+    "count": 71
+  },
+  {
+    "id": "angular",
+    "label": "Angular",
+    "count": 69
+  },
+  {
+    "id": "search-engine-optimization-seo",
+    "label": "Search Engine Optimization (SEO)",
+    "count": 67
+  },
+  {
+    "id": "email-marketing",
+    "label": "Email Marketing",
+    "count": 66
+  },
+  {
+    "id": "reactjs",
+    "label": "ReactJS",
+    "count": 65
+  },
+  {
+    "id": "software",
+    "label": "Software",
+    "count": 65
+  },
+  {
+    "id": "data-engineering",
+    "label": "Data Engineering",
+    "count": 64
+  },
+  {
+    "id": "deep-learning",
+    "label": "Deep Learning",
+    "count": 64
+  },
+  {
+    "id": "technology",
+    "label": "Technology",
+    "count": 62
+  },
+  {
+    "id": "it-consultancy",
+    "label": "IT Consultancy",
+    "count": 61
+  },
+  {
+    "id": "nodejs",
+    "label": "NodeJS",
+    "count": 61
+  },
+  {
+    "id": "information-technology",
+    "label": "Information Technology",
+    "count": 60
+  },
+  {
+    "id": "ppc",
+    "label": "PPC",
+    "count": 60
+  },
+  {
+    "id": "mern-stack",
+    "label": "MERN Stack",
+    "count": 59
+  },
+  {
+    "id": "product-design",
+    "label": "Product Design",
+    "count": 59
+  },
+  {
+    "id": "android-app-development",
+    "label": "Android App Development",
+    "count": 57
+  },
+  {
+    "id": "blockchain-development",
+    "label": "Blockchain Development",
+    "count": 57
+  },
+  {
+    "id": "smm",
+    "label": "SMM",
+    "count": 57
+  },
+  {
+    "id": "website-design",
+    "label": "Website Design",
+    "count": 57
+  },
+  {
+    "id": "content-marketing",
+    "label": "Content Marketing",
+    "count": 56
+  },
+  {
+    "id": "ui-ux-designing",
+    "label": "UI/UX Designing",
+    "count": 56
+  },
+  {
+    "id": "azure",
+    "label": "Azure",
+    "count": 55
+  },
+  {
+    "id": "big-data",
+    "label": "Big Data",
+    "count": 55
+  },
+  {
+    "id": "ios-app-development",
+    "label": "iOS App Development",
+    "count": 55
+  },
+  {
+    "id": "content-creation",
+    "label": "Content Creation",
+    "count": 54
+  },
+  {
+    "id": "net",
+    "label": ".Net",
+    "count": 53
+  },
+  {
+    "id": "ecommerce-development",
+    "label": "Ecommerce Development",
+    "count": 52
+  },
+  {
+    "id": "ai-development",
+    "label": "AI Development",
+    "count": 50
+  },
+  {
+    "id": "fintech",
+    "label": "Fintech",
+    "count": 50
+  },
+  {
+    "id": "workflow-automation",
+    "label": "Workflow Automation",
+    "count": 50
+  },
+  {
+    "id": "design",
+    "label": "Design",
+    "count": 49
+  },
+  {
+    "id": "it",
+    "label": "IT",
+    "count": 49
+  },
+  {
+    "id": "software-solutions",
+    "label": "Software Solutions",
+    "count": 49
+  },
+  {
+    "id": "cloud",
+    "label": "Cloud",
+    "count": 48
+  },
+  {
+    "id": "development",
+    "label": "Development",
+    "count": 48
+  },
+  {
+    "id": "ai-ml",
+    "label": "AI/ML",
+    "count": 47
+  },
+  {
+    "id": "ai-solutions",
+    "label": "AI Solutions",
+    "count": 47
+  },
+  {
+    "id": "outsourcing",
+    "label": "Outsourcing",
+    "count": 47
+  },
+  {
+    "id": "mobile-apps-development",
+    "label": "Mobile Apps Development",
+    "count": 46
+  },
+  {
+    "id": "next-js",
+    "label": "Next.js",
+    "count": 45
+  },
+  {
+    "id": "agentic-ai",
+    "label": "Agentic AI",
+    "count": 44
+  },
+  {
+    "id": "backend-development",
+    "label": "Backend Development",
+    "count": 44
+  },
+  {
+    "id": "api-integration",
+    "label": "API Integration",
+    "count": 43
+  },
+  {
+    "id": "logo-design",
+    "label": "Logo Design",
+    "count": 42
+  },
+  {
+    "id": "managed-services",
+    "label": "Managed Services",
+    "count": 42
+  },
+  {
+    "id": "mvp-development",
+    "label": "MVP Development",
+    "count": 42
+  },
+  {
+    "id": "telemarketing",
+    "label": "Telemarketing",
+    "count": 42
+  },
+  {
+    "id": "bpo",
+    "label": "BPO",
+    "count": 41
+  },
+  {
+    "id": "consultancy",
+    "label": "Consultancy",
+    "count": 41
+  },
+  {
+    "id": "shopify-development",
+    "label": "Shopify Development",
+    "count": 41
+  },
+  {
+    "id": "animation",
+    "label": "Animation",
+    "count": 40
+  },
+  {
+    "id": "business-automation",
+    "label": "Business Automation",
+    "count": 40
+  },
+  {
+    "id": "business-process-outsourcing",
+    "label": "Business Process Outsourcing",
+    "count": 40
+  },
+  {
+    "id": "erp-solutions",
+    "label": "ERP Solutions",
+    "count": 40
+  },
+  {
+    "id": "sales",
+    "label": "Sales",
+    "count": 40
+  },
+  {
+    "id": "social-media",
+    "label": "Social Media",
+    "count": 40
+  },
+  {
+    "id": "aso",
+    "label": "ASO",
+    "count": 39
+  },
+  {
+    "id": "cms",
+    "label": "CMS",
+    "count": 39
+  },
+  {
+    "id": "frontend-development",
+    "label": "Frontend Development",
+    "count": 39
+  },
+  {
+    "id": "networking",
+    "label": "Networking",
+    "count": 39
+  },
+  {
+    "id": "software-quality-assurance",
+    "label": "Software Quality Assurance",
+    "count": 39
+  },
+  {
+    "id": "ecommerce-solutions",
+    "label": "Ecommerce Solutions",
+    "count": 38
+  },
+  {
+    "id": "mern",
+    "label": "MERN",
+    "count": 38
+  },
+  {
+    "id": "woocommerce",
+    "label": "WooCommerce",
+    "count": 38
+  },
+  {
+    "id": "data-analysis",
+    "label": "Data Analysis",
+    "count": 37
+  },
+  {
+    "id": "natural-language-processing",
+    "label": "Natural Language Processing",
+    "count": 37
+  },
+  {
+    "id": "ruby-on-rails",
+    "label": "Ruby on Rails",
+    "count": 37
+  },
+  {
+    "id": "system-integration",
+    "label": "System Integration",
+    "count": 37
+  },
+  {
+    "id": "website-design-development",
+    "label": "Website Design & Development",
+    "count": 37
+  },
+  {
+    "id": "advertising",
+    "label": "Advertising",
+    "count": 36
+  },
+  {
+    "id": "ux-ui-design",
+    "label": "UX/UI Design",
+    "count": 36
+  },
+  {
+    "id": "web-hosting",
+    "label": "Web Hosting",
+    "count": 36
+  },
+  {
+    "id": "ai-integration",
+    "label": "AI Integration",
+    "count": 35
+  },
+  {
+    "id": "call-center",
+    "label": "Call Center",
+    "count": 35
+  },
+  {
+    "id": "information-security",
+    "label": "Information Security",
+    "count": 35
+  },
+  {
+    "id": "metaverse",
+    "label": "Metaverse",
+    "count": 35
+  },
+  {
+    "id": "technology-consulting",
+    "label": "Technology Consulting",
+    "count": 35
+  },
+  {
+    "id": "api-development",
+    "label": "API Development",
+    "count": 34
+  },
+  {
+    "id": "css",
+    "label": "CSS",
+    "count": 34
+  },
+  {
+    "id": "front-end-development",
+    "label": "Front End Development",
+    "count": 34
+  },
+  {
+    "id": "graphics-design",
+    "label": "Graphics Design",
+    "count": 34
+  },
+  {
+    "id": "it-solutions",
+    "label": "IT Solutions",
+    "count": 34
+  },
+  {
+    "id": "mobile-application",
+    "label": "Mobile Application",
+    "count": 34
+  },
+  {
+    "id": "vue-js",
+    "label": "Vue.js",
+    "count": 34
+  },
+  {
+    "id": "c",
+    "label": "C#",
+    "count": 33
+  },
+  {
+    "id": "custom-software-solutions",
+    "label": "Custom Software Solutions",
+    "count": 33
+  },
+  {
+    "id": "enterprise-solutions",
+    "label": "Enterprise Solutions",
+    "count": 33
+  },
+  {
+    "id": "mysql",
+    "label": "MySQL",
+    "count": 33
+  },
+  {
+    "id": "node",
+    "label": "Node",
+    "count": 33
+  },
+  {
+    "id": "seo-services",
+    "label": "SEO Services",
+    "count": 33
+  },
+  {
+    "id": "unity",
+    "label": "Unity",
+    "count": 33
+  },
+  {
+    "id": "amazon",
+    "label": "Amazon",
+    "count": 32
+  },
+  {
+    "id": "designing",
+    "label": "Designing",
+    "count": 32
+  },
+  {
+    "id": "medical-billing",
+    "label": "Medical Billing",
+    "count": 32
+  },
+  {
+    "id": "salesforce",
+    "label": "Salesforce",
+    "count": 32
+  },
+  {
+    "id": "video-production",
+    "label": "Video Production",
+    "count": 32
+  },
+  {
+    "id": "web3",
+    "label": "Web3",
+    "count": 32
+  },
+  {
+    "id": "crm-development",
+    "label": "CRM Development",
+    "count": 31
+  },
+  {
+    "id": "django",
+    "label": "Django",
+    "count": 31
+  },
+  {
+    "id": "mobile-games",
+    "label": "Mobile Games",
+    "count": 31
+  },
+  {
+    "id": "virtual-assistant",
+    "label": "Virtual Assistant",
+    "count": 31
+  },
+  {
+    "id": "web-apps",
+    "label": "Web Apps",
+    "count": 31
+  },
+  {
+    "id": "api-development-integration",
+    "label": "API Development & Integration",
+    "count": 30
+  },
+  {
+    "id": "cms-development",
+    "label": "CMS Development",
+    "count": 30
+  },
+  {
+    "id": "consulting",
+    "label": "Consulting",
+    "count": 30
+  },
+  {
+    "id": "facebook-ads",
+    "label": "Facebook Ads",
+    "count": 30
+  },
+  {
+    "id": "meta-ads",
+    "label": "Meta Ads",
+    "count": 30
+  },
+  {
+    "id": "penetration-testing",
+    "label": "Penetration Testing",
+    "count": 30
+  },
+  {
+    "id": "web-design-development",
+    "label": "Web Design & Development",
+    "count": 30
+  },
+  {
+    "id": "agile-development",
+    "label": "Agile Development",
+    "count": 29
+  },
+  {
+    "id": "android-apps",
+    "label": "Android Apps",
+    "count": 29
+  },
+  {
+    "id": "artificial-intelligence-ai",
+    "label": "Artificial Intelligence (AI)",
+    "count": 29
+  },
+  {
+    "id": "brand-identity",
+    "label": "Brand Identity",
+    "count": 29
+  },
+  {
+    "id": "enterprise-software-development",
+    "label": "Enterprise Software Development",
+    "count": 29
+  },
+  {
+    "id": "internet-of-things",
+    "label": "Internet of Things",
+    "count": 29
+  },
+  {
+    "id": "technical-support",
+    "label": "Technical Support",
+    "count": 29
+  },
+  {
+    "id": "data-entry",
+    "label": "Data Entry",
+    "count": 28
+  },
+  {
+    "id": "figma",
+    "label": "Figma",
+    "count": 28
+  },
+  {
+    "id": "html",
+    "label": "HTML",
+    "count": 28
+  },
+  {
+    "id": "mongodb",
+    "label": "MongoDB",
+    "count": 28
+  },
+  {
+    "id": "security",
+    "label": "Security",
+    "count": 28
+  },
+  {
+    "id": "web-application",
+    "label": "Web Application",
+    "count": 28
+  },
+  {
+    "id": "asp-net",
+    "label": "ASP.NET",
+    "count": 27
+  },
+  {
+    "id": "digital-media-marketing",
+    "label": "Digital Media Marketing",
+    "count": 27
+  },
+  {
+    "id": "game-design",
+    "label": "Game Design",
+    "count": 27
+  },
+  {
+    "id": "managed-it-services",
+    "label": "Managed IT Services",
+    "count": 27
+  },
+  {
+    "id": "sap",
+    "label": "SAP",
+    "count": 27
+  },
+  {
+    "id": "virtual-assistance",
+    "label": "Virtual Assistance",
+    "count": 27
+  },
+  {
+    "id": "virtual-reality",
+    "label": "Virtual Reality",
+    "count": 27
+  },
+  {
+    "id": "ai-chatbots",
+    "label": "AI Chatbots",
+    "count": 26
+  },
+  {
+    "id": "custom-development",
+    "label": "Custom Development",
+    "count": 26
+  },
+  {
+    "id": "data-visualization",
+    "label": "Data Visualization",
+    "count": 26
+  },
+  {
+    "id": "erp-implementation",
+    "label": "ERP Implementation",
+    "count": 26
+  },
+  {
+    "id": "healthcare",
+    "label": "Healthcare",
+    "count": 26
+  },
+  {
+    "id": "llm",
+    "label": "LLM",
+    "count": 26
+  },
+  {
+    "id": "resource-augmentation",
+    "label": "Resource Augmentation",
+    "count": 26
+  },
+  {
+    "id": "search-engine-marketing",
+    "label": "Search Engine Marketing",
+    "count": 26
+  },
+  {
+    "id": "software-testing",
+    "label": "Software Testing",
+    "count": 26
+  },
+  {
+    "id": "user-experience-design",
+    "label": "User Experience Design",
+    "count": 26
+  },
+  {
+    "id": "augmented-reality",
+    "label": "Augmented Reality",
+    "count": 25
+  },
+  {
+    "id": "enterprise-software-solutions",
+    "label": "Enterprise Software Solutions",
+    "count": 25
+  },
+  {
+    "id": "gcp",
+    "label": "GCP",
+    "count": 25
+  },
+  {
+    "id": "predictive-analytics",
+    "label": "Predictive Analytics",
+    "count": 25
+  },
+  {
+    "id": "robotics",
+    "label": "Robotics",
+    "count": 25
+  },
+  {
+    "id": "webflow",
+    "label": "Webflow",
+    "count": 25
+  },
+  {
+    "id": "website-designing",
+    "label": "Website Designing",
+    "count": 25
+  },
+  {
+    "id": "websites",
+    "label": "Websites",
+    "count": 25
+  },
+  {
+    "id": "database-management",
+    "label": "Database Management",
+    "count": 24
+  },
+  {
+    "id": "firebase",
+    "label": "Firebase",
+    "count": 24
+  },
+  {
+    "id": "magento",
+    "label": "Magento",
+    "count": 24
+  },
+  {
+    "id": "mern-stack-development",
+    "label": "MERN Stack Development",
+    "count": 24
+  },
+  {
+    "id": "nlp",
+    "label": "NLP",
+    "count": 24
+  },
+  {
+    "id": "performance-marketing",
+    "label": "Performance Marketing",
+    "count": 24
+  },
+  {
+    "id": "pos",
+    "label": "POS",
+    "count": 24
+  },
+  {
+    "id": "user-experience",
+    "label": "User Experience",
+    "count": 24
+  },
+  {
+    "id": "web",
+    "label": "Web",
+    "count": 24
+  },
+  {
+    "id": "3d-modeling",
+    "label": "3D Modeling",
+    "count": 23
+  },
+  {
+    "id": "chatbots",
+    "label": "Chatbots",
+    "count": 23
+  },
+  {
+    "id": "cloud-infrastructure",
+    "label": "Cloud Infrastructure",
+    "count": 23
+  },
+  {
+    "id": "cloud-migration",
+    "label": "Cloud Migration",
+    "count": 23
+  },
+  {
+    "id": "education",
+    "label": "Education",
+    "count": 23
+  },
+  {
+    "id": "kubernetes",
+    "label": "Kubernetes",
+    "count": 23
+  },
+  {
+    "id": "marketing-automation",
+    "label": "Marketing Automation",
+    "count": 23
+  },
+  {
+    "id": "microsoft-azure",
+    "label": "Microsoft Azure",
+    "count": 23
+  },
+  {
+    "id": "network-security",
+    "label": "Network Security",
+    "count": 23
+  },
+  {
+    "id": "odoo",
+    "label": "Odoo",
+    "count": 23
+  },
+  {
+    "id": "vr",
+    "label": "VR",
+    "count": 23
+  },
+  {
+    "id": "cold-calling",
+    "label": "Cold Calling",
+    "count": 22
+  },
+  {
+    "id": "custom-software",
+    "label": "Custom Software",
+    "count": 22
+  },
+  {
+    "id": "flutter-development",
+    "label": "Flutter Development",
+    "count": 22
+  },
+  {
+    "id": "local-seo",
+    "label": "Local SEO",
+    "count": 22
+  },
+  {
+    "id": "nft",
+    "label": "NFT",
+    "count": 22
+  },
+  {
+    "id": "saas-product-development",
+    "label": "SaaS Product Development",
+    "count": 22
+  },
+  {
+    "id": "software-engineering",
+    "label": "Software Engineering",
+    "count": 22
+  },
+  {
+    "id": "accounting",
+    "label": "Accounting",
+    "count": 21
+  },
+  {
+    "id": "custom-web-development",
+    "label": "Custom Web Development",
+    "count": 21
+  },
+  {
+    "id": "digital-marketing-services",
+    "label": "Digital Marketing Services",
+    "count": 21
+  },
+  {
+    "id": "kotlin",
+    "label": "Kotlin",
+    "count": 21
+  },
+  {
+    "id": "mean-stack",
+    "label": "MEAN Stack",
+    "count": 21
+  },
+  {
+    "id": "mlops",
+    "label": "MLOps",
+    "count": 21
+  },
+  {
+    "id": "website",
+    "label": "Website",
+    "count": 21
+  },
+  {
+    "id": "ar",
+    "label": "AR",
+    "count": 20
+  },
+  {
+    "id": "automations",
+    "label": "Automations",
+    "count": 20
+  },
+  {
+    "id": "codeigniter",
+    "label": "CodeIgniter",
+    "count": 20
+  },
+  {
+    "id": "dedicated-teams",
+    "label": "Dedicated Teams",
+    "count": 20
+  },
+  {
+    "id": "desktop-application-development",
+    "label": "Desktop Application Development",
+    "count": 20
+  },
+  {
+    "id": "desktop-applications",
+    "label": "Desktop Applications",
+    "count": 20
+  },
+  {
+    "id": "embedded-systems",
+    "label": "Embedded Systems",
+    "count": 20
+  },
+  {
+    "id": "enterprise-software",
+    "label": "Enterprise Software",
+    "count": 20
+  },
+  {
+    "id": "html5",
+    "label": "HTML5",
+    "count": 20
+  },
+  {
+    "id": "logistics",
+    "label": "Logistics",
+    "count": 20
+  },
+  {
+    "id": "logo-designing",
+    "label": "Logo Designing",
+    "count": 20
+  },
+  {
+    "id": "ml",
+    "label": "ML",
+    "count": 20
+  },
+  {
+    "id": "motion-graphics",
+    "label": "Motion Graphics",
+    "count": 20
+  },
+  {
+    "id": "news",
+    "label": "News",
+    "count": 20
+  },
+  {
+    "id": "photography",
+    "label": "Photography",
+    "count": 20
+  },
+  {
+    "id": "research",
+    "label": "Research",
+    "count": 20
+  },
+  {
+    "id": "sem",
+    "label": "SEM",
+    "count": 20
+  },
+  {
+    "id": "seo-search-engine-optimization",
+    "label": "SEO (Search Engine Optimization)",
+    "count": 20
+  },
+  {
+    "id": "technical-seo",
+    "label": "Technical SEO",
+    "count": 20
+  },
+  {
+    "id": "telecommunications",
+    "label": "Telecommunications",
+    "count": 20
+  },
+  {
+    "id": "training",
+    "label": "Training",
+    "count": 20
+  },
+  {
+    "id": "ux-ui",
+    "label": "UX/UI",
+    "count": 20
+  },
+  {
+    "id": "analytics",
+    "label": "Analytics",
+    "count": 19
+  },
+  {
+    "id": "ar-vr",
+    "label": "AR/VR",
+    "count": 19
+  },
+  {
+    "id": "b2b",
+    "label": "B2B",
+    "count": 19
+  },
+  {
+    "id": "back-end-development",
+    "label": "Back-End Development",
+    "count": 19
+  },
+  {
+    "id": "chatbot-development",
+    "label": "Chatbot Development",
+    "count": 19
+  },
+  {
+    "id": "data-management",
+    "label": "Data Management",
+    "count": 19
+  },
+  {
+    "id": "docker",
+    "label": "Docker",
+    "count": 19
+  },
+  {
+    "id": "erp-development",
+    "label": "ERP Development",
+    "count": 19
+  },
+  {
+    "id": "graphics",
+    "label": "Graphics",
+    "count": 19
+  },
+  {
+    "id": "inventory-management",
+    "label": "Inventory Management",
+    "count": 19
+  },
+  {
+    "id": "ios-apps",
+    "label": "iOS Apps",
+    "count": 19
+  },
+  {
+    "id": "it-support",
+    "label": "IT Support",
+    "count": 19
+  },
+  {
+    "id": "mobile-game-development",
+    "label": "Mobile Game Development",
+    "count": 19
+  },
+  {
+    "id": "swift",
+    "label": "Swift",
+    "count": 19
+  },
+  {
+    "id": "telecommunication",
+    "label": "Telecommunication",
+    "count": 19
+  },
+  {
+    "id": "web-3-0",
+    "label": "Web 3.0",
+    "count": 19
+  },
+  {
+    "id": "ai-consulting",
+    "label": "AI Consulting",
+    "count": 18
+  },
+  {
+    "id": "amazon-web-services",
+    "label": "Amazon Web Services",
+    "count": 18
+  },
+  {
+    "id": "angularjs",
+    "label": "AngularJS",
+    "count": 18
+  },
+  {
+    "id": "copywriting",
+    "label": "Copywriting",
+    "count": 18
+  },
+  {
+    "id": "cross-platform-app-development",
+    "label": "Cross-Platform App Development",
+    "count": 18
+  },
+  {
+    "id": "customer-service",
+    "label": "Customer Service",
+    "count": 18
+  },
+  {
+    "id": "enterprise-resource-planning",
+    "label": "Enterprise Resource Planning",
+    "count": 18
+  },
+  {
+    "id": "freelancing",
+    "label": "Freelancing",
+    "count": 18
+  },
+  {
+    "id": "games",
+    "label": "Games",
+    "count": 18
+  },
+  {
+    "id": "integration",
+    "label": "Integration",
+    "count": 18
+  },
+  {
+    "id": "it-outsourcing",
+    "label": "IT Outsourcing",
+    "count": 18
+  },
+  {
+    "id": "mean",
+    "label": "MEAN",
+    "count": 18
+  },
+  {
+    "id": "mobile-app",
+    "label": "Mobile App",
+    "count": 18
+  },
+  {
+    "id": "n8n",
+    "label": "n8n",
+    "count": 18
+  },
+  {
+    "id": "php-laravel",
+    "label": "PHP Laravel",
+    "count": 18
+  },
+  {
+    "id": "power-bi",
+    "label": "Power BI",
+    "count": 18
+  },
+  {
+    "id": "qa-testing",
+    "label": "QA Testing",
+    "count": 18
+  },
+  {
+    "id": "startups",
+    "label": "Startups",
+    "count": 18
+  },
+  {
+    "id": "brand-development",
+    "label": "Brand Development",
+    "count": 17
+  },
+  {
+    "id": "cctv",
+    "label": "CCTV",
+    "count": 17
+  },
+  {
+    "id": "erp-systems",
+    "label": "ERP Systems",
+    "count": 17
+  },
+  {
+    "id": "financial-services",
+    "label": "Financial Services",
+    "count": 17
+  },
+  {
+    "id": "games-development",
+    "label": "Games Development",
+    "count": 17
+  },
+  {
+    "id": "natural-language-processing-nlp",
+    "label": "Natural Language Processing (NLP)",
+    "count": 17
+  },
+  {
+    "id": "net-development",
+    "label": ".NET Development",
+    "count": 17
+  },
+  {
+    "id": "product-engineering",
+    "label": "Product Engineering",
+    "count": 17
+  },
+  {
+    "id": "software-consultancy",
+    "label": "Software Consultancy",
+    "count": 17
+  },
+  {
+    "id": "sql",
+    "label": "SQL",
+    "count": 17
+  },
+  {
+    "id": "web-solutions",
+    "label": "Web Solutions",
+    "count": 17
+  },
+  {
+    "id": "3d-animation",
+    "label": "3D Animation",
+    "count": 16
+  },
+  {
+    "id": "ai-chatbot-development",
+    "label": "AI Chatbot Development",
+    "count": 16
+  },
+  {
+    "id": "ai-machine-learning",
+    "label": "AI & Machine Learning",
+    "count": 16
+  },
+  {
+    "id": "api-integrations",
+    "label": "API Integrations",
+    "count": 16
+  },
+  {
+    "id": "app-design",
+    "label": "App Design",
+    "count": 16
+  },
+  {
+    "id": "application-modernization",
+    "label": "Application Modernization",
+    "count": 16
+  },
+  {
+    "id": "bootstrap",
+    "label": "Bootstrap",
+    "count": 16
+  },
+  {
+    "id": "business-consultancy",
+    "label": "Business Consultancy",
+    "count": 16
+  },
+  {
+    "id": "cloud-application-development",
+    "label": "Cloud Application Development",
+    "count": 16
+  },
+  {
+    "id": "cloud-engineering",
+    "label": "Cloud Engineering",
+    "count": 16
+  },
+  {
+    "id": "data",
+    "label": "Data",
+    "count": 16
+  },
+  {
+    "id": "flutter-app-development",
+    "label": "Flutter App Development",
+    "count": 16
+  },
+  {
+    "id": "it-consultation",
+    "label": "IT Consultation",
+    "count": 16
+  },
+  {
+    "id": "mobile-applications-development",
+    "label": "Mobile Applications Development",
+    "count": 16
+  },
+  {
+    "id": "oracle",
+    "label": "Oracle",
+    "count": 16
+  },
+  {
+    "id": "php-development",
+    "label": "PHP Development",
+    "count": 16
+  },
+  {
+    "id": "rag",
+    "label": "RAG",
+    "count": 16
+  },
+  {
+    "id": "responsive-web-design",
+    "label": "Responsive Web Design",
+    "count": 16
+  },
+  {
+    "id": "shopify-store-development",
+    "label": "Shopify Store Development",
+    "count": 16
+  },
+  {
+    "id": "sqa",
+    "label": "SQA",
+    "count": 16
+  },
+  {
+    "id": "web-developement",
+    "label": "Web Developement",
+    "count": 16
+  },
+  {
+    "id": "webdevelopment",
+    "label": "webdevelopment",
+    "count": 16
+  },
+  {
+    "id": "wix",
+    "label": "Wix",
+    "count": 16
+  },
+  {
+    "id": "android-games",
+    "label": "Android Games",
+    "count": 15
+  },
+  {
+    "id": "animations",
+    "label": "Animations",
+    "count": 15
+  },
+  {
+    "id": "app-store-optimization",
+    "label": "App Store Optimization",
+    "count": 15
+  },
+  {
+    "id": "apps-development",
+    "label": "Apps Development",
+    "count": 15
+  },
+  {
+    "id": "backend",
+    "label": "Backend",
+    "count": 15
+  },
+  {
+    "id": "business-analysis",
+    "label": "Business Analysis",
+    "count": 15
+  },
+  {
+    "id": "cloud-based-solutions",
+    "label": "Cloud-Based Solutions",
+    "count": 15
+  },
+  {
+    "id": "customer-services",
+    "label": "Customer Services",
+    "count": 15
+  },
+  {
+    "id": "database-development",
+    "label": "Database Development",
+    "count": 15
+  },
+  {
+    "id": "defi",
+    "label": "DeFi",
+    "count": 15
+  },
+  {
+    "id": "it-staff-augmentation",
+    "label": "IT Staff Augmentation",
+    "count": 15
+  },
+  {
+    "id": "laravel-development",
+    "label": "Laravel Development",
+    "count": 15
+  },
+  {
+    "id": "marketplace",
+    "label": "Marketplace",
+    "count": 15
+  },
+  {
+    "id": "mobile-app-development-ios-android",
+    "label": "Mobile App Development (iOS & Android)",
+    "count": 15
+  },
+  {
+    "id": "off-page-seo",
+    "label": "Off Page SEO",
+    "count": 15
+  },
+  {
+    "id": "production",
+    "label": "Production",
+    "count": 15
+  },
+  {
+    "id": "reactnative",
+    "label": "ReactNative",
+    "count": 15
+  },
+  {
+    "id": "retail",
+    "label": "Retail",
+    "count": 15
+  },
+  {
+    "id": "shopify-plus",
+    "label": "Shopify Plus",
+    "count": 15
+  },
+  {
+    "id": "videography",
+    "label": "Videography",
+    "count": 15
+  },
+  {
+    "id": "vuejs",
+    "label": "VueJS",
+    "count": 15
+  },
+  {
+    "id": "affiliate-marketing",
+    "label": "Affiliate Marketing",
+    "count": 14
+  },
+  {
+    "id": "ai-chatbot",
+    "label": "AI Chatbot",
+    "count": 14
+  },
+  {
+    "id": "bookkeeping",
+    "label": "Bookkeeping",
+    "count": 14
+  },
+  {
+    "id": "brand-strategy",
+    "label": "Brand Strategy",
+    "count": 14
+  },
+  {
+    "id": "cloud-architecture",
+    "label": "Cloud Architecture",
+    "count": 14
+  },
+  {
+    "id": "cross-platform-development",
+    "label": "Cross-Platform Development",
+    "count": 14
+  },
+  {
+    "id": "data-mining",
+    "label": "Data Mining",
+    "count": 14
+  },
+  {
+    "id": "ethereum",
+    "label": "Ethereum",
+    "count": 14
+  },
+  {
+    "id": "full-stack-web-development",
+    "label": "Full Stack Web Development",
+    "count": 14
+  },
+  {
+    "id": "gaming",
+    "label": "Gaming",
+    "count": 14
+  },
+  {
+    "id": "guest-posting",
+    "label": "Guest Posting",
+    "count": 14
+  },
+  {
+    "id": "hybrid-app-development",
+    "label": "Hybrid App Development",
+    "count": 14
+  },
+  {
+    "id": "joomla",
+    "label": "Joomla",
+    "count": 14
+  },
+  {
+    "id": "jquery",
+    "label": "jQuery",
+    "count": 14
+  },
+  {
+    "id": "llms",
+    "label": "LLMs",
+    "count": 14
+  },
+  {
+    "id": "mobile",
+    "label": "Mobile",
+    "count": 14
+  },
+  {
+    "id": "net-core",
+    "label": ".Net Core",
+    "count": 14
+  },
+  {
+    "id": "postgresql",
+    "label": "PostgreSQL",
+    "count": 14
+  },
+  {
+    "id": "recruitment",
+    "label": "Recruitment",
+    "count": 14
+  },
+  {
+    "id": "seo-optimization",
+    "label": "SEO Optimization",
+    "count": 14
+  },
+  {
+    "id": "software-house",
+    "label": "Software House",
+    "count": 14
+  },
+  {
+    "id": "team-augmentation",
+    "label": "Team Augmentation",
+    "count": 14
+  },
+  {
+    "id": "ui-design",
+    "label": "UI Design",
+    "count": 14
+  },
+  {
+    "id": "unity3d",
+    "label": "Unity3D",
+    "count": 14
+  },
+  {
+    "id": "web-services",
+    "label": "Web Services",
+    "count": 14
+  },
+  {
+    "id": "ai-software-development",
+    "label": "AI Software Development",
+    "count": 13
+  },
+  {
+    "id": "blockchain-solutions",
+    "label": "Blockchain Solutions",
+    "count": 13
+  },
+  {
+    "id": "bpo-services",
+    "label": "BPO Services",
+    "count": 13
+  },
+  {
+    "id": "business",
+    "label": "business",
+    "count": 13
+  },
+  {
+    "id": "business-solutions",
+    "label": "Business Solutions",
+    "count": 13
+  },
+  {
+    "id": "call-center-services",
+    "label": "Call Center Services",
+    "count": 13
+  },
+  {
+    "id": "cisco",
+    "label": "Cisco",
+    "count": 13
+  },
+  {
+    "id": "compliance",
+    "label": "Compliance",
+    "count": 13
+  },
+  {
+    "id": "content-management-systems-cms",
+    "label": "Content Management Systems (CMS)",
+    "count": 13
+  },
+  {
+    "id": "conversational-ai",
+    "label": "Conversational AI",
+    "count": 13
+  },
+  {
+    "id": "crm-solutions",
+    "label": "CRM Solutions",
+    "count": 13
+  },
+  {
+    "id": "dedicated-development-teams",
+    "label": "Dedicated Development Teams",
+    "count": 13
+  },
+  {
+    "id": "digital-services",
+    "label": "Digital Services",
+    "count": 13
+  },
+  {
+    "id": "digital-solutions",
+    "label": "Digital Solutions",
+    "count": 13
+  },
+  {
+    "id": "hosting",
+    "label": "Hosting",
+    "count": 13
+  },
+  {
+    "id": "internet-marketing",
+    "label": "Internet Marketing",
+    "count": 13
+  },
+  {
+    "id": "iot-solutions",
+    "label": "IoT Solutions",
+    "count": 13
+  },
+  {
+    "id": "market-research",
+    "label": "Market Research",
+    "count": 13
+  },
+  {
+    "id": "microsoft",
+    "label": "Microsoft",
+    "count": 13
+  },
+  {
+    "id": "product-management",
+    "label": "Product Management",
+    "count": 13
+  },
+  {
+    "id": "prototyping",
+    "label": "Prototyping",
+    "count": 13
+  },
+  {
+    "id": "react-native-development",
+    "label": "React Native Development",
+    "count": 13
+  },
+  {
+    "id": "software-architecture",
+    "label": "Software Architecture",
+    "count": 13
+  },
+  {
+    "id": "solidity",
+    "label": "Solidity",
+    "count": 13
+  },
+  {
+    "id": "staffing",
+    "label": "Staffing",
+    "count": 13
+  },
+  {
+    "id": "unity-3d",
+    "label": "Unity 3D",
+    "count": 13
+  },
+  {
+    "id": "web-applications-development",
+    "label": "Web Applications Development",
+    "count": 13
+  },
+  {
+    "id": "web-mobile-app-development",
+    "label": "Web & Mobile App Development",
+    "count": 13
+  },
+  {
+    "id": "website-design-and-development",
+    "label": "Website Design and Development",
+    "count": 13
+  },
+  {
+    "id": "ai-integrations",
+    "label": "AI Integrations",
+    "count": 12
+  },
+  {
+    "id": "ai-product-development",
+    "label": "AI Product Development",
+    "count": 12
+  },
+  {
+    "id": "android-application-development",
+    "label": "Android Application Development",
+    "count": 12
+  },
+  {
+    "id": "appointment-setting",
+    "label": "Appointment Setting",
+    "count": 12
+  },
+  {
+    "id": "artifical-intelligence",
+    "label": "Artifical Intelligence",
+    "count": 12
+  },
+  {
+    "id": "big-data-analytics",
+    "label": "Big Data Analytics",
+    "count": 12
+  },
+  {
+    "id": "block-chain",
+    "label": "Block Chain",
+    "count": 12
+  },
+  {
+    "id": "chatgpt",
+    "label": "ChatGPT",
+    "count": 12
+  },
+  {
+    "id": "css3",
+    "label": "CSS3",
+    "count": 12
+  },
+  {
+    "id": "custom-website-development",
+    "label": "Custom Website Development",
+    "count": 12
+  },
+  {
+    "id": "cybersecurity-solutions",
+    "label": "Cybersecurity Solutions",
+    "count": 12
+  },
+  {
+    "id": "digital-marketing-solutions",
+    "label": "Digital Marketing Solutions",
+    "count": 12
+  },
+  {
+    "id": "digital-transformation-consulting",
+    "label": "Digital Transformation Consulting",
+    "count": 12
+  },
+  {
+    "id": "generative-ai-solutions",
+    "label": "Generative AI Solutions",
+    "count": 12
+  },
+  {
+    "id": "healthtech",
+    "label": "HealthTech",
+    "count": 12
+  },
+  {
+    "id": "influencer-marketing",
+    "label": "Influencer Marketing",
+    "count": 12
+  },
+  {
+    "id": "innovation",
+    "label": "Innovation",
+    "count": 12
+  },
+  {
+    "id": "intelligent-automation",
+    "label": "Intelligent Automation",
+    "count": 12
+  },
+  {
+    "id": "lms",
+    "label": "LMS",
+    "count": 12
+  },
+  {
+    "id": "networking-solutions",
+    "label": "Networking Solutions",
+    "count": 12
+  },
+  {
+    "id": "pakistan",
+    "label": "Pakistan",
+    "count": 12
+  },
+  {
+    "id": "performance-optimization",
+    "label": "Performance Optimization",
+    "count": 12
+  },
+  {
+    "id": "point-of-sale",
+    "label": "Point of Sale",
+    "count": 12
+  },
+  {
+    "id": "qa",
+    "label": "QA",
+    "count": 12
+  },
+  {
+    "id": "smart-contracts",
+    "label": "Smart Contracts",
+    "count": 12
+  },
+  {
+    "id": "smo",
+    "label": "SMO",
+    "count": 12
+  },
+  {
+    "id": "software-company",
+    "label": "Software Company",
+    "count": 12
+  },
+  {
+    "id": "supply-chain",
+    "label": "Supply Chain",
+    "count": 12
+  },
+  {
+    "id": "typescript",
+    "label": "TypeScript",
+    "count": 12
+  },
+  {
+    "id": "ui",
+    "label": "UI",
+    "count": 12
+  },
+  {
+    "id": "web-design-and-development",
+    "label": "Web Design and Development",
+    "count": 12
+  },
+  {
+    "id": "wordpress-website-development",
+    "label": "WordPress Website Development",
+    "count": 12
+  },
+  {
+    "id": "ai-agent-development",
+    "label": "AI Agent Development",
+    "count": 11
+  },
+  {
+    "id": "angular-js",
+    "label": "Angular JS",
+    "count": 11
+  },
+  {
+    "id": "artificial-intelligence-solutions",
+    "label": "Artificial Intelligence Solutions",
+    "count": 11
+  },
+  {
+    "id": "blogging",
+    "label": "Blogging",
+    "count": 11
+  },
+  {
+    "id": "chat-support",
+    "label": "Chat Support",
+    "count": 11
+  },
+  {
+    "id": "ci-cd",
+    "label": "CI/CD",
+    "count": 11
+  },
+  {
+    "id": "cloud-devops",
+    "label": "Cloud & DevOps",
+    "count": 11
+  },
+  {
+    "id": "content-strategy",
+    "label": "Content Strategy",
+    "count": 11
+  },
+  {
+    "id": "conversion-rate-optimization",
+    "label": "Conversion Rate Optimization",
+    "count": 11
+  },
+  {
+    "id": "crm-automation",
+    "label": "CRM Automation",
+    "count": 11
+  },
+  {
+    "id": "crm-integration",
+    "label": "CRM Integration",
+    "count": 11
+  },
+  {
+    "id": "cryptocurrency",
+    "label": "Cryptocurrency",
+    "count": 11
+  },
+  {
+    "id": "custom-web-applications",
+    "label": "Custom Web Applications",
+    "count": 11
+  },
+  {
+    "id": "customer-experience",
+    "label": "Customer Experience",
+    "count": 11
+  },
+  {
+    "id": "data-center",
+    "label": "Data Center",
+    "count": 11
+  },
+  {
+    "id": "database",
+    "label": "Database",
+    "count": 11
+  },
+  {
+    "id": "devops-services",
+    "label": "DevOps Services",
+    "count": 11
+  },
+  {
+    "id": "digital-marketing-strategy",
+    "label": "Digital Marketing Strategy",
+    "count": 11
+  },
+  {
+    "id": "domain-hosting",
+    "label": "Domain & Hosting",
+    "count": 11
+  },
+  {
+    "id": "enterprise-applications",
+    "label": "Enterprise Applications",
+    "count": 11
+  },
+  {
+    "id": "enterprise-mobility",
+    "label": "Enterprise Mobility",
+    "count": 11
+  },
+  {
+    "id": "finance",
+    "label": "Finance",
+    "count": 11
+  },
+  {
+    "id": "gohighlevel",
+    "label": "GoHighLevel",
+    "count": 11
+  },
+  {
+    "id": "graphic-designer",
+    "label": "Graphic Designer",
+    "count": 11
+  },
+  {
+    "id": "industrial-automation",
+    "label": "Industrial Automation",
+    "count": 11
+  },
+  {
+    "id": "integrations",
+    "label": "Integrations",
+    "count": 11
+  },
+  {
+    "id": "it-security",
+    "label": "IT Security",
+    "count": 11
+  },
+  {
+    "id": "java-script",
+    "label": "Java Script",
+    "count": 11
+  },
+  {
+    "id": "linux",
+    "label": "Linux",
+    "count": 11
+  },
+  {
+    "id": "llm-integration",
+    "label": "LLM Integration",
+    "count": 11
+  },
+  {
+    "id": "marketing-strategy",
+    "label": "Marketing Strategy",
+    "count": 11
+  },
+  {
+    "id": "media",
+    "label": "media",
+    "count": 11
+  },
+  {
+    "id": "microsoft-dynamics-365",
+    "label": "Microsoft Dynamics 365",
+    "count": 11
+  },
+  {
+    "id": "on-page-seo",
+    "label": "On-Page SEO",
+    "count": 11
+  },
+  {
+    "id": "product-strategy",
+    "label": "Product Strategy",
+    "count": 11
+  },
+  {
+    "id": "professional-services",
+    "label": "Professional Services",
+    "count": 11
+  },
+  {
+    "id": "programming",
+    "label": "Programming",
+    "count": 11
+  },
+  {
+    "id": "react-development",
+    "label": "React Development",
+    "count": 11
+  },
+  {
+    "id": "real-estate",
+    "label": "Real Estate",
+    "count": 11
+  },
+  {
+    "id": "rpa",
+    "label": "RPA",
+    "count": 11
+  },
+  {
+    "id": "saas-solutions",
+    "label": "SaaS Solutions",
+    "count": 11
+  },
+  {
+    "id": "social-media-marketing-smm",
+    "label": "Social Media Marketing (SMM)",
+    "count": 11
+  },
+  {
+    "id": "software-services",
+    "label": "Software Services",
+    "count": 11
+  },
+  {
+    "id": "strategy",
+    "label": "Strategy",
+    "count": 11
+  },
+  {
+    "id": "support-maintenance",
+    "label": "Support & Maintenance",
+    "count": 11
+  },
+  {
+    "id": "ui-ux-designs",
+    "label": "UI/UX Designs",
+    "count": 11
+  },
+  {
+    "id": "ux-design",
+    "label": "UX Design",
+    "count": 11
+  },
+  {
+    "id": "video-animation",
+    "label": "Video Animation",
+    "count": 11
+  },
+  {
+    "id": "vmware",
+    "label": "VMware",
+    "count": 11
+  },
+  {
+    "id": "website-maintenance",
+    "label": "Website Maintenance",
+    "count": 11
+  },
+  {
+    "id": "3d-animations",
+    "label": "3D Animations",
+    "count": 10
+  },
+  {
+    "id": "blockchain-technology",
+    "label": "Blockchain Technology",
+    "count": 10
+  },
+  {
+    "id": "business-process-outsourcing-bpo",
+    "label": "Business Process Outsourcing (BPO)",
+    "count": 10
+  },
+  {
+    "id": "chatbot",
+    "label": "chatbot",
+    "count": 10
+  },
+  {
+    "id": "cloud-integration",
+    "label": "Cloud Integration",
+    "count": 10
+  },
+  {
+    "id": "content-management",
+    "label": "Content Management",
+    "count": 10
+  },
+  {
+    "id": "data-warehousing",
+    "label": "Data Warehousing",
+    "count": 10
+  },
+  {
+    "id": "digital-media",
+    "label": "Digital Media",
+    "count": 10
+  },
+  {
+    "id": "digital-strategy",
+    "label": "Digital Strategy",
+    "count": 10
+  },
+  {
+    "id": "e-learning",
+    "label": "E-Learning",
+    "count": 10
+  },
+  {
+    "id": "edtech",
+    "label": "EdTech",
+    "count": 10
+  },
+  {
+    "id": "electronics",
+    "label": "Electronics",
+    "count": 10
+  },
+  {
+    "id": "engineering",
+    "label": "Engineering",
+    "count": 10
+  },
+  {
+    "id": "event-management",
+    "label": "Event Management",
+    "count": 10
+  },
+  {
+    "id": "game-art",
+    "label": "Game Art",
+    "count": 10
+  },
+  {
+    "id": "genai",
+    "label": "GenAI",
+    "count": 10
+  },
+  {
+    "id": "gis",
+    "label": "GIS",
+    "count": 10
+  },
+  {
+    "id": "google-cloud",
+    "label": "Google Cloud",
+    "count": 10
+  },
+  {
+    "id": "home-automation",
+    "label": "Home Automation",
+    "count": 10
+  },
+  {
+    "id": "hybrid-apps",
+    "label": "Hybrid Apps",
+    "count": 10
+  },
+  {
+    "id": "inbound",
+    "label": "Inbound",
+    "count": 10
+  },
+  {
+    "id": "infrastructure",
+    "label": "Infrastructure",
+    "count": 10
+  },
+  {
+    "id": "internet-of-things-iot",
+    "label": "Internet of Things (IoT)",
+    "count": 10
+  },
+  {
+    "id": "it-managed-services",
+    "label": "IT Managed Services",
+    "count": 10
+  },
+  {
+    "id": "mobile-app-design",
+    "label": "Mobile App Design",
+    "count": 10
+  },
+  {
+    "id": "native-app-development",
+    "label": "Native App Development",
+    "count": 10
+  },
+  {
+    "id": "network-solutions",
+    "label": "Network Solutions",
+    "count": 10
+  },
+  {
+    "id": "online-marketing",
+    "label": "Online Marketing",
+    "count": 10
+  },
+  {
+    "id": "process-automation",
+    "label": "Process Automation",
+    "count": 10
+  },
+  {
+    "id": "python-development",
+    "label": "Python Development",
+    "count": 10
+  },
+  {
+    "id": "quality-assurance-and-testing",
+    "label": "Quality Assurance and Testing",
+    "count": 10
+  },
+  {
+    "id": "sharepoint",
+    "label": "SharePoint",
+    "count": 10
+  },
+  {
+    "id": "squarespace",
+    "label": "Squarespace",
+    "count": 10
+  },
+  {
+    "id": "startup",
+    "label": "Startup",
+    "count": 10
+  },
+  {
+    "id": "trainings",
+    "label": "Trainings",
+    "count": 10
+  },
+  {
+    "id": "ux",
+    "label": "UX",
+    "count": 10
+  },
+  {
+    "id": "virtual-assistants",
+    "label": "Virtual Assistants",
+    "count": 10
+  },
+  {
+    "id": "web3-0",
+    "label": "Web3.0",
+    "count": 10
+  },
+  {
+    "id": "2d-animation",
+    "label": "2d animation",
+    "count": 9
+  },
+  {
+    "id": "3d-modelling",
+    "label": "3D Modelling",
+    "count": 9
+  },
+  {
+    "id": "agile",
+    "label": "Agile",
+    "count": 9
+  },
+  {
+    "id": "ai-automations",
+    "label": "AI Automations",
+    "count": 9
+  },
+  {
+    "id": "ai-workflow-automation",
+    "label": "AI Workflow Automation",
+    "count": 9
+  },
+  {
+    "id": "android-app",
+    "label": "android app",
+    "count": 9
+  },
+  {
+    "id": "api",
+    "label": "API",
+    "count": 9
+  },
+  {
+    "id": "applications",
+    "label": "Applications",
+    "count": 9
+  },
+  {
+    "id": "artificial-intelligence-ai-solutions",
+    "label": "Artificial Intelligence (AI) Solutions",
+    "count": 9
+  },
+  {
+    "id": "asset-management",
+    "label": "Asset Management",
+    "count": 9
+  },
+  {
+    "id": "business-analytics",
+    "label": "Business Analytics",
+    "count": 9
+  },
+  {
+    "id": "business-applications",
+    "label": "Business Applications",
+    "count": 9
+  },
+  {
+    "id": "business-consulting",
+    "label": "Business Consulting",
+    "count": 9
+  },
+  {
+    "id": "corporate-branding",
+    "label": "Corporate Branding",
+    "count": 9
+  },
+  {
+    "id": "cybersecurity-services",
+    "label": "Cybersecurity Services",
+    "count": 9
+  },
+  {
+    "id": "dapps",
+    "label": "Dapps",
+    "count": 9
+  },
+  {
+    "id": "data-annotation",
+    "label": "Data Annotation",
+    "count": 9
+  },
+  {
+    "id": "data-entry-services",
+    "label": "Data Entry Services",
+    "count": 9
+  },
+  {
+    "id": "data-migration",
+    "label": "Data Migration",
+    "count": 9
+  },
+  {
+    "id": "data-sciences",
+    "label": "Data Sciences",
+    "count": 9
+  },
+  {
+    "id": "data-scraping",
+    "label": "Data Scraping",
+    "count": 9
+  },
+  {
+    "id": "data-security",
+    "label": "Data Security",
+    "count": 9
+  },
+  {
+    "id": "databases",
+    "label": "Databases",
+    "count": 9
+  },
+  {
+    "id": "dedicated-servers",
+    "label": "Dedicated Servers",
+    "count": 9
+  },
+  {
+    "id": "digital-branding",
+    "label": "Digital Branding",
+    "count": 9
+  },
+  {
+    "id": "digital-marketing-agency",
+    "label": "Digital Marketing Agency",
+    "count": 9
+  },
+  {
+    "id": "dropshipping",
+    "label": "Dropshipping",
+    "count": 9
+  },
+  {
+    "id": "drupal",
+    "label": "Drupal",
+    "count": 9
+  },
+  {
+    "id": "entertainment",
+    "label": "Entertainment",
+    "count": 9
+  },
+  {
+    "id": "express-js",
+    "label": "Express.js",
+    "count": 9
+  },
+  {
+    "id": "facebook-marketing",
+    "label": "Facebook Marketing",
+    "count": 9
+  },
+  {
+    "id": "governance",
+    "label": "Governance",
+    "count": 9
+  },
+  {
+    "id": "hardware",
+    "label": "Hardware",
+    "count": 9
+  },
+  {
+    "id": "hosting-services",
+    "label": "Hosting Services",
+    "count": 9
+  },
+  {
+    "id": "hrm",
+    "label": "HRM",
+    "count": 9
+  },
+  {
+    "id": "ios-app",
+    "label": "iOS App",
+    "count": 9
+  },
+  {
+    "id": "ios-games",
+    "label": "iOS Games",
+    "count": 9
+  },
+  {
+    "id": "iot-development",
+    "label": "IoT Development",
+    "count": 9
+  },
+  {
+    "id": "large-language-models",
+    "label": "Large Language Models",
+    "count": 9
+  },
+  {
+    "id": "machine-learning-ml",
+    "label": "Machine Learning (ML)",
+    "count": 9
+  },
+  {
+    "id": "make-com",
+    "label": "Make.com",
+    "count": 9
+  },
+  {
+    "id": "manufacturing",
+    "label": "Manufacturing",
+    "count": 9
+  },
+  {
+    "id": "microservices",
+    "label": "Microservices",
+    "count": 9
+  },
+  {
+    "id": "node-js-development",
+    "label": "Node.js Development",
+    "count": 9
+  },
+  {
+    "id": "office-365",
+    "label": "Office 365",
+    "count": 9
+  },
+  {
+    "id": "online-shopping",
+    "label": "Online Shopping",
+    "count": 9
+  },
+  {
+    "id": "pc-games",
+    "label": "PC Games",
+    "count": 9
+  },
+  {
+    "id": "plugin-development",
+    "label": "Plugin Development",
+    "count": 9
+  },
+  {
+    "id": "process-optimization",
+    "label": "Process Optimization",
+    "count": 9
+  },
+  {
+    "id": "publishing",
+    "label": "Publishing",
+    "count": 9
+  },
+  {
+    "id": "quality-assurance-testing",
+    "label": "Quality Assurance & Testing",
+    "count": 9
+  },
+  {
+    "id": "rag-systems",
+    "label": "RAG Systems",
+    "count": 9
+  },
+  {
+    "id": "robotic-process-automation",
+    "label": "Robotic Process Automation",
+    "count": 9
+  },
+  {
+    "id": "saas-platform-development",
+    "label": "SaaS Platform Development",
+    "count": 9
+  },
+  {
+    "id": "software-consulting",
+    "label": "Software Consulting",
+    "count": 9
+  },
+  {
+    "id": "sports",
+    "label": "Sports",
+    "count": 9
+  },
+  {
+    "id": "supply-chain-management",
+    "label": "Supply Chain Management",
+    "count": 9
+  },
+  {
+    "id": "telecom",
+    "label": "Telecom",
+    "count": 9
+  },
+  {
+    "id": "unity-development",
+    "label": "Unity Development",
+    "count": 9
+  },
+  {
+    "id": "unity-game-development",
+    "label": "Unity Game Development",
+    "count": 9
+  },
+  {
+    "id": "user-experience-ux-design",
+    "label": "User Experience (UX) Design",
+    "count": 9
+  },
+  {
+    "id": "vulnerability-assessment",
+    "label": "Vulnerability Assessment",
+    "count": 9
+  },
+  {
+    "id": "2d-3d-animation",
+    "label": "2D/3D Animation",
+    "count": 8
+  },
+  {
+    "id": "accounting-software",
+    "label": "Accounting Software",
+    "count": 8
+  },
+  {
+    "id": "ai-and-machine-learning",
+    "label": "AI and Machine Learning",
+    "count": 8
+  },
+  {
+    "id": "ai-engineering",
+    "label": "AI Engineering",
+    "count": 8
+  },
+  {
+    "id": "android-apps-development",
+    "label": "Android Apps Development",
+    "count": 8
+  },
+  {
+    "id": "apps",
+    "label": "Apps",
+    "count": 8
+  },
+  {
+    "id": "asp-net-core",
+    "label": "ASP.NET Core",
+    "count": 8
+  },
+  {
+    "id": "auto-insurance",
+    "label": "Auto Insurance",
+    "count": 8
+  },
+  {
+    "id": "bigcommerce",
+    "label": "BigCommerce",
+    "count": 8
+  },
+  {
+    "id": "business-application-development",
+    "label": "Business Application Development",
+    "count": 8
+  },
+  {
+    "id": "business-growth",
+    "label": "Business Growth",
+    "count": 8
+  },
+  {
+    "id": "business-website",
+    "label": "Business Website",
+    "count": 8
+  },
+  {
+    "id": "call-center-solutions",
+    "label": "Call Center Solutions",
+    "count": 8
+  },
+  {
+    "id": "cloud-development",
+    "label": "Cloud Development",
+    "count": 8
+  },
+  {
+    "id": "cloud-security",
+    "label": "Cloud Security",
+    "count": 8
+  },
+  {
+    "id": "communication",
+    "label": "Communication",
+    "count": 8
+  },
+  {
+    "id": "construction",
+    "label": "Construction",
+    "count": 8
+  },
+  {
+    "id": "consultancy-services",
+    "label": "Consultancy Services",
+    "count": 8
+  },
+  {
+    "id": "consultation",
+    "label": "Consultation",
+    "count": 8
+  },
+  {
+    "id": "consulting-services",
+    "label": "Consulting Services",
+    "count": 8
+  },
+  {
+    "id": "content",
+    "label": "Content",
+    "count": 8
+  },
+  {
+    "id": "creative-writing",
+    "label": "Creative Writing",
+    "count": 8
+  },
+  {
+    "id": "crypto",
+    "label": "Crypto",
+    "count": 8
+  },
+  {
+    "id": "custom-ai-solutions",
+    "label": "Custom AI Solutions",
+    "count": 8
+  },
+  {
+    "id": "custom-app-development",
+    "label": "Custom App Development",
+    "count": 8
+  },
+  {
+    "id": "custom-solutions",
+    "label": "Custom Solutions",
+    "count": 8
+  },
+  {
+    "id": "data-centers",
+    "label": "Data Centers",
+    "count": 8
+  },
+  {
+    "id": "database-administration",
+    "label": "Database Administration",
+    "count": 8
+  },
+  {
+    "id": "desktop-application",
+    "label": "Desktop Application",
+    "count": 8
+  },
+  {
+    "id": "devops-automation",
+    "label": "DevOps & Automation",
+    "count": 8
+  },
+  {
+    "id": "devops-ci-cd",
+    "label": "DevOps & CI/CD",
+    "count": 8
+  },
+  {
+    "id": "devops-engineering",
+    "label": "DevOps Engineering",
+    "count": 8
+  },
+  {
+    "id": "digital",
+    "label": "Digital",
+    "count": 8
+  },
+  {
+    "id": "digital-commerce",
+    "label": "Digital Commerce",
+    "count": 8
+  },
+  {
+    "id": "digital-product-development",
+    "label": "Digital Product Development",
+    "count": 8
+  },
+  {
+    "id": "digitalmarketing",
+    "label": "digitalmarketing",
+    "count": 8
+  },
+  {
+    "id": "dynamics-365",
+    "label": "Dynamics 365",
+    "count": 8
+  },
+  {
+    "id": "ebay",
+    "label": "Ebay",
+    "count": 8
+  },
+  {
+    "id": "ehr",
+    "label": "EHR",
+    "count": 8
+  },
+  {
+    "id": "financial-management",
+    "label": "Financial Management",
+    "count": 8
+  },
+  {
+    "id": "fintech-solutions",
+    "label": "FinTech Solutions",
+    "count": 8
+  },
+  {
+    "id": "flask",
+    "label": "Flask",
+    "count": 8
+  },
+  {
+    "id": "frontend",
+    "label": "Frontend",
+    "count": 8
+  },
+  {
+    "id": "google-analytics",
+    "label": "Google Analytics",
+    "count": 8
+  },
+  {
+    "id": "google-cloud-platform",
+    "label": "Google Cloud Platform",
+    "count": 8
+  },
+  {
+    "id": "hr",
+    "label": "HR",
+    "count": 8
+  },
+  {
+    "id": "html-css",
+    "label": "HTML/CSS",
+    "count": 8
+  },
+  {
+    "id": "hubspot",
+    "label": "HubSpot",
+    "count": 8
+  },
+  {
+    "id": "ios-application-development",
+    "label": "iOS Application Development",
+    "count": 8
+  },
+  {
+    "id": "it-infrastructure",
+    "label": "IT Infrastructure",
+    "count": 8
+  },
+  {
+    "id": "it-staffing",
+    "label": "IT Staffing",
+    "count": 8
+  },
+  {
+    "id": "ivr",
+    "label": "IVR",
+    "count": 8
+  },
+  {
+    "id": "leads-generation",
+    "label": "Leads Generation",
+    "count": 8
+  },
+  {
+    "id": "machine-learning-solutions",
+    "label": "Machine Learning Solutions",
+    "count": 8
+  },
+  {
+    "id": "maintenance",
+    "label": "Maintenance",
+    "count": 8
+  },
+  {
+    "id": "maintenance-and-support",
+    "label": "Maintenance and Support",
+    "count": 8
+  },
+  {
+    "id": "microsoft-dynamics",
+    "label": "Microsoft Dynamics",
+    "count": 8
+  },
+  {
+    "id": "mobile-games-development",
+    "label": "Mobile Games Development",
+    "count": 8
+  },
+  {
+    "id": "mvp",
+    "label": "MVP",
+    "count": 8
+  },
+  {
+    "id": "nextjs",
+    "label": "NextJS",
+    "count": 8
+  },
+  {
+    "id": "nosql",
+    "label": "NoSQL",
+    "count": 8
+  },
+  {
+    "id": "offshoring",
+    "label": "Offshoring",
+    "count": 8
+  },
+  {
+    "id": "pay-per-click",
+    "label": "Pay Per Click",
+    "count": 8
+  },
+  {
+    "id": "powerbi",
+    "label": "PowerBI",
+    "count": 8
+  },
+  {
+    "id": "risk-management",
+    "label": "Risk Management",
+    "count": 8
+  },
+  {
+    "id": "ror",
+    "label": "ROR",
+    "count": 8
+  },
+  {
+    "id": "salesforce-development",
+    "label": "Salesforce Development",
+    "count": 8
+  },
+  {
+    "id": "search-engine-marketing-sem",
+    "label": "Search Engine Marketing (SEM)",
+    "count": 8
+  },
+  {
+    "id": "security-solutions",
+    "label": "Security Solutions",
+    "count": 8
+  },
+  {
+    "id": "seo-sem",
+    "label": "SEO/SEM",
+    "count": 8
+  },
+  {
+    "id": "seo-smm",
+    "label": "SEO & SMM",
+    "count": 8
+  },
+  {
+    "id": "server",
+    "label": "Server",
+    "count": 8
+  },
+  {
+    "id": "servers",
+    "label": "Servers",
+    "count": 8
+  },
+  {
+    "id": "skill-development",
+    "label": "Skill Development",
+    "count": 8
+  },
+  {
+    "id": "social-media-handling",
+    "label": "Social Media Handling",
+    "count": 8
+  },
+  {
+    "id": "social-media-optimization",
+    "label": "Social Media Optimization",
+    "count": 8
+  },
+  {
+    "id": "software-developement",
+    "label": "Software Developement",
+    "count": 8
+  },
+  {
+    "id": "software-development-services",
+    "label": "Software Development Services",
+    "count": 8
+  },
+  {
+    "id": "software-outsourcing",
+    "label": "Software Outsourcing",
+    "count": 8
+  },
+  {
+    "id": "software-product-development",
+    "label": "Software Product Development",
+    "count": 8
+  },
+  {
+    "id": "software-testing-qa",
+    "label": "Software Testing & QA",
+    "count": 8
+  },
+  {
+    "id": "solar",
+    "label": "Solar",
+    "count": 8
+  },
+  {
+    "id": "tableau",
+    "label": "Tableau",
+    "count": 8
+  },
+  {
+    "id": "tensorflow",
+    "label": "TensorFlow",
+    "count": 8
+  },
+  {
+    "id": "tvc",
+    "label": "TVC",
+    "count": 8
+  },
+  {
+    "id": "unreal-engine",
+    "label": "unreal engine",
+    "count": 8
+  },
+  {
+    "id": "upwork",
+    "label": "Upwork",
+    "count": 8
+  },
+  {
+    "id": "voice-ai",
+    "label": "Voice AI",
+    "count": 8
+  },
+  {
+    "id": "voip",
+    "label": "VOIP",
+    "count": 8
+  },
+  {
+    "id": "web-app",
+    "label": "Web App",
+    "count": 8
+  },
+  {
+    "id": "web-developer",
+    "label": "Web Developer",
+    "count": 8
+  },
+  {
+    "id": "web-mobile-apps",
+    "label": "Web & Mobile Apps",
+    "count": 8
+  },
+  {
+    "id": "web-scraping",
+    "label": "Web Scraping",
+    "count": 8
+  },
+  {
+    "id": "website-maintenance-support",
+    "label": "Website Maintenance & Support",
+    "count": 8
+  },
+  {
+    "id": "zapier",
+    "label": "Zapier",
+    "count": 8
+  },
+  {
+    "id": "3d-games",
+    "label": "3D Games",
+    "count": 7
+  },
+  {
+    "id": "admin-support",
+    "label": "Admin Support",
+    "count": 7
+  },
+  {
+    "id": "administrative-support",
+    "label": "Administrative Support",
+    "count": 7
+  },
+  {
+    "id": "adobe-photoshop",
+    "label": "Adobe Photoshop",
+    "count": 7
+  },
+  {
+    "id": "agile-software-development",
+    "label": "Agile Software Development",
+    "count": 7
+  },
+  {
+    "id": "ai-development-services",
+    "label": "AI Development Services",
+    "count": 7
+  },
+  {
+    "id": "ai-ml-development",
+    "label": "AI/ML Development",
+    "count": 7
+  },
+  {
+    "id": "ai-powered-solutions",
+    "label": "AI-Powered Solutions",
+    "count": 7
+  },
+  {
+    "id": "amazon-fba",
+    "label": "Amazon FBA",
+    "count": 7
+  },
+  {
+    "id": "android-ios-development",
+    "label": "Android & iOS Development",
+    "count": 7
+  },
+  {
+    "id": "artificial-intelligence-and-machine-learning",
+    "label": "Artificial Intelligence and Machine Learning",
+    "count": 7
+  },
+  {
+    "id": "automation-solutions",
+    "label": "Automation Solutions",
+    "count": 7
+  },
+  {
+    "id": "b2c",
+    "label": "B2C",
+    "count": 7
+  },
+  {
+    "id": "back-office-support",
+    "label": "Back Office Support",
+    "count": 7
+  },
+  {
+    "id": "big-data-solutions",
+    "label": "Big Data Solutions",
+    "count": 7
+  },
+  {
+    "id": "brand-building",
+    "label": "Brand Building",
+    "count": 7
+  },
+  {
+    "id": "ccna",
+    "label": "CCNA",
+    "count": 7
+  },
+  {
+    "id": "cloud-computing-services",
+    "label": "Cloud Computing Services",
+    "count": 7
+  },
+  {
+    "id": "coding",
+    "label": "Coding",
+    "count": 7
+  },
+  {
+    "id": "content-management-system",
+    "label": "Content Management System",
+    "count": 7
+  },
+  {
+    "id": "conversion-rate-optimization-cro",
+    "label": "Conversion Rate Optimization (CRO)",
+    "count": 7
+  },
+  {
+    "id": "copy-writing",
+    "label": "Copy Writing",
+    "count": 7
+  },
+  {
+    "id": "custom-softwares",
+    "label": "Custom Softwares",
+    "count": 7
+  },
+  {
+    "id": "customer-relationship-management",
+    "label": "Customer Relationship Management",
+    "count": 7
+  },
+  {
+    "id": "customer-relationship-management-crm",
+    "label": "Customer Relationship Management (CRM)",
+    "count": 7
+  },
+  {
+    "id": "dashboards",
+    "label": "Dashboards",
+    "count": 7
+  },
+  {
+    "id": "data-analyst",
+    "label": "Data Analyst",
+    "count": 7
+  },
+  {
+    "id": "data-services",
+    "label": "Data Services",
+    "count": 7
+  },
+  {
+    "id": "dev-ops",
+    "label": "Dev Ops",
+    "count": 7
+  },
+  {
+    "id": "devsecops",
+    "label": "DevSecOps",
+    "count": 7
+  },
+  {
+    "id": "digital-transformation-services",
+    "label": "Digital Transformation Services",
+    "count": 7
+  },
+  {
+    "id": "digital-transformation-solutions",
+    "label": "Digital Transformation Solutions",
+    "count": 7
+  },
+  {
+    "id": "discovery-workshop",
+    "label": "Discovery Workshop",
+    "count": 7
+  },
+  {
+    "id": "e-commerce-website-development",
+    "label": "E-Commerce Website Development",
+    "count": 7
+  },
+  {
+    "id": "ecommerce-website",
+    "label": "ecommerce website",
+    "count": 7
+  },
+  {
+    "id": "elementor",
+    "label": "Elementor",
+    "count": 7
+  },
+  {
+    "id": "enterprise-resource-planning-erp",
+    "label": "Enterprise Resource Planning (ERP)",
+    "count": 7
+  },
+  {
+    "id": "enterprise-web-application-development",
+    "label": "Enterprise & Web Application Development",
+    "count": 7
+  },
+  {
+    "id": "entrepreneurship",
+    "label": "entrepreneurship",
+    "count": 7
+  },
+  {
+    "id": "etl",
+    "label": "ETL",
+    "count": 7
+  },
+  {
+    "id": "express",
+    "label": "Express",
+    "count": 7
+  },
+  {
+    "id": "front-end",
+    "label": "Front-end",
+    "count": 7
+  },
+  {
+    "id": "game-designing",
+    "label": "Game Designing",
+    "count": 7
+  },
+  {
+    "id": "gen-ai",
+    "label": "Gen AI",
+    "count": 7
+  },
+  {
+    "id": "growth-marketing",
+    "label": "Growth Marketing",
+    "count": 7
+  },
+  {
+    "id": "healthcare-solutions",
+    "label": "Healthcare Solutions",
+    "count": 7
+  },
+  {
+    "id": "hipaa",
+    "label": "HIPAA",
+    "count": 7
+  },
+  {
+    "id": "incident-response",
+    "label": "Incident Response",
+    "count": 7
+  },
+  {
+    "id": "industry-4-0",
+    "label": "Industry 4.0",
+    "count": 7
+  },
+  {
+    "id": "instagram-ads",
+    "label": "Instagram Ads",
+    "count": 7
+  },
+  {
+    "id": "internet",
+    "label": "Internet",
+    "count": 7
+  },
+  {
+    "id": "it-consulting-services",
+    "label": "IT Consulting Services",
+    "count": 7
+  },
+  {
+    "id": "leadership",
+    "label": "Leadership",
+    "count": 7
+  },
+  {
+    "id": "legacy-system-modernization",
+    "label": "Legacy System Modernization",
+    "count": 7
+  },
+  {
+    "id": "link-building",
+    "label": "Link Building",
+    "count": 7
+  },
+  {
+    "id": "maintenance-support",
+    "label": "Maintenance & Support",
+    "count": 7
+  },
+  {
+    "id": "marketing-services",
+    "label": "Marketing Services",
+    "count": 7
+  },
+  {
+    "id": "marketing-strategies",
+    "label": "Marketing Strategies",
+    "count": 7
+  },
+  {
+    "id": "medicare",
+    "label": "Medicare",
+    "count": 7
+  },
+  {
+    "id": "microservices-architecture",
+    "label": "Microservices Architecture",
+    "count": 7
+  },
+  {
+    "id": "network",
+    "label": "Network",
+    "count": 7
+  },
+  {
+    "id": "network-infrastructure",
+    "label": "Network Infrastructure",
+    "count": 7
+  },
+  {
+    "id": "next-js-development",
+    "label": "Next.js Development",
+    "count": 7
+  },
+  {
+    "id": "paas",
+    "label": "PaaS",
+    "count": 7
+  },
+  {
+    "id": "pcb-design",
+    "label": "PCB Design",
+    "count": 7
+  },
+  {
+    "id": "podcast",
+    "label": "Podcast",
+    "count": 7
+  },
+  {
+    "id": "pos-systems",
+    "label": "POS Systems",
+    "count": 7
+  },
+  {
+    "id": "post-production",
+    "label": "Post Production",
+    "count": 7
+  },
+  {
+    "id": "product-innovation",
+    "label": "Product Innovation",
+    "count": 7
+  },
+  {
+    "id": "prompt-engineering",
+    "label": "Prompt Engineering",
+    "count": 7
+  },
+  {
+    "id": "react-js-development",
+    "label": "React.js Development",
+    "count": 7
+  },
+  {
+    "id": "remote-teams",
+    "label": "Remote Teams",
+    "count": 7
+  },
+  {
+    "id": "reporting",
+    "label": "Reporting",
+    "count": 7
+  },
+  {
+    "id": "reputation-management",
+    "label": "Reputation Management",
+    "count": 7
+  },
+  {
+    "id": "resource-outsourcing",
+    "label": "Resource Outsourcing",
+    "count": 7
+  },
+  {
+    "id": "retrieval-augmented-generation-rag",
+    "label": "Retrieval-Augmented Generation (RAG)",
+    "count": 7
+  },
+  {
+    "id": "revenue-cycle-management",
+    "label": "Revenue Cycle Management",
+    "count": 7
+  },
+  {
+    "id": "scrum",
+    "label": "Scrum",
+    "count": 7
+  },
+  {
+    "id": "shopify-app-development",
+    "label": "Shopify App Development",
+    "count": 7
+  },
+  {
+    "id": "software-as-a-service",
+    "label": "Software as a Service",
+    "count": 7
+  },
+  {
+    "id": "softwaredevelopment",
+    "label": "SoftwareDevelopment",
+    "count": 7
+  },
+  {
+    "id": "softwares",
+    "label": "Softwares",
+    "count": 7
+  },
+  {
+    "id": "sql-server",
+    "label": "SQL Server",
+    "count": 7
+  },
+  {
+    "id": "telesales",
+    "label": "Telesales",
+    "count": 7
+  },
+  {
+    "id": "threat-intelligence",
+    "label": "Threat Intelligence",
+    "count": 7
+  },
+  {
+    "id": "transcription",
+    "label": "Transcription",
+    "count": 7
+  },
+  {
+    "id": "ui-ux-design-prototyping",
+    "label": "UI/UX Design & Prototyping",
+    "count": 7
+  },
+  {
+    "id": "ui-ux-designer",
+    "label": "UI/UX Designer",
+    "count": 7
+  },
+  {
+    "id": "uiux",
+    "label": "UIUX",
+    "count": 7
+  },
+  {
+    "id": "unreal",
+    "label": "Unreal",
+    "count": 7
+  },
+  {
+    "id": "user-experience-and-design",
+    "label": "User Experience and Design",
+    "count": 7
+  },
+  {
+    "id": "video-conferencing",
+    "label": "Video Conferencing",
+    "count": 7
+  },
+  {
+    "id": "virtualization",
+    "label": "Virtualization",
+    "count": 7
+  },
+  {
+    "id": "visual-design",
+    "label": "Visual Design",
+    "count": 7
+  },
+  {
+    "id": "wordpress-developer",
+    "label": "wordpress developer",
+    "count": 7
+  },
+  {
+    "id": "wordpress-theme-development",
+    "label": "WordPress Theme Development",
+    "count": 7
+  },
+  {
+    "id": "wordpress-websites",
+    "label": "WordPress Websites",
+    "count": 7
+  },
+  {
+    "id": "youtube-automation",
+    "label": "YouTube Automation",
+    "count": 7
+  },
+  {
+    "id": "youtube-marketing",
+    "label": "Youtube Marketing",
+    "count": 7
+  },
+  {
+    "id": "youtube-video-editing",
+    "label": "YouTube Video Editing",
+    "count": 7
+  },
+  {
+    "id": "advisory",
+    "label": "Advisory",
+    "count": 6
+  },
+  {
+    "id": "agile-project-management",
+    "label": "Agile Project Management",
+    "count": 6
+  },
+  {
+    "id": "ai-and-ml",
+    "label": "AI and ML",
+    "count": 6
+  },
+  {
+    "id": "ai-machine-learning-solutions",
+    "label": "AI & Machine Learning Solutions",
+    "count": 6
+  },
+  {
+    "id": "android-application",
+    "label": "Android Application",
+    "count": 6
+  },
+  {
+    "id": "appdevelopment",
+    "label": "AppDevelopment",
+    "count": 6
+  },
+  {
+    "id": "architecture",
+    "label": "Architecture",
+    "count": 6
+  },
+  {
+    "id": "b2b-ecommerce",
+    "label": "B2B eCommerce",
+    "count": 6
+  },
+  {
+    "id": "b2b-lead-generation",
+    "label": "B2B Lead Generation",
+    "count": 6
+  },
+  {
+    "id": "bi",
+    "label": "BI",
+    "count": 6
+  },
+  {
+    "id": "brand-identity-design",
+    "label": "Brand Identity Design",
+    "count": 6
+  },
+  {
+    "id": "brand-management",
+    "label": "Brand Management",
+    "count": 6
+  },
+  {
+    "id": "business-branding",
+    "label": "Business Branding",
+    "count": 6
+  },
+  {
+    "id": "casual-games",
+    "label": "Casual Games",
+    "count": 6
+  },
+  {
+    "id": "ccnp",
+    "label": "CCNP",
+    "count": 6
+  },
+  {
+    "id": "cloud-management",
+    "label": "Cloud Management",
+    "count": 6
+  },
+  {
+    "id": "cloud-technologies",
+    "label": "Cloud Technologies",
+    "count": 6
+  },
+  {
+    "id": "console-games",
+    "label": "Console Games",
+    "count": 6
+  },
+  {
+    "id": "content-development",
+    "label": "Content Development",
+    "count": 6
+  },
+  {
+    "id": "cpaas",
+    "label": "CPaaS",
+    "count": 6
+  },
+  {
+    "id": "creative-design",
+    "label": "Creative Design",
+    "count": 6
+  },
+  {
+    "id": "csr",
+    "label": "CSR",
+    "count": 6
+  },
+  {
+    "id": "custom-application-development",
+    "label": "Custom Application Development",
+    "count": 6
+  },
+  {
+    "id": "custom-erp-solutions",
+    "label": "Custom ERP Solutions",
+    "count": 6
+  },
+  {
+    "id": "customer-support-services",
+    "label": "Customer Support Services",
+    "count": 6
+  },
+  {
+    "id": "customization",
+    "label": "Customization",
+    "count": 6
+  },
+  {
+    "id": "cyber-security-solutions",
+    "label": "Cyber Security Solutions",
+    "count": 6
+  },
+  {
+    "id": "database-design",
+    "label": "Database Design",
+    "count": 6
+  },
+  {
+    "id": "design-systems",
+    "label": "Design Systems",
+    "count": 6
+  },
+  {
+    "id": "desktop",
+    "label": "Desktop",
+    "count": 6
+  },
+  {
+    "id": "digital-signage",
+    "label": "Digital Signage",
+    "count": 6
+  },
+  {
+    "id": "e-commerce-websites",
+    "label": "E Commerce Websites",
+    "count": 6
+  },
+  {
+    "id": "email-support",
+    "label": "Email Support",
+    "count": 6
+  },
+  {
+    "id": "emr",
+    "label": "EMR",
+    "count": 6
+  },
+  {
+    "id": "enterprise-application-development",
+    "label": "Enterprise Application Development",
+    "count": 6
+  },
+  {
+    "id": "erp-integration",
+    "label": "ERP Integration",
+    "count": 6
+  },
+  {
+    "id": "erp-system",
+    "label": "ERP System",
+    "count": 6
+  },
+  {
+    "id": "final-expense",
+    "label": "Final Expense",
+    "count": 6
+  },
+  {
+    "id": "full-stack",
+    "label": "Full Stack",
+    "count": 6
+  },
+  {
+    "id": "fullstack-development",
+    "label": "Fullstack Development",
+    "count": 6
+  },
+  {
+    "id": "generative-ai-development",
+    "label": "Generative AI Development",
+    "count": 6
+  },
+  {
+    "id": "generative-ai-services",
+    "label": "Generative AI Services",
+    "count": 6
+  },
+  {
+    "id": "golang",
+    "label": "Golang",
+    "count": 6
+  },
+  {
+    "id": "google-maps",
+    "label": "Google Maps",
+    "count": 6
+  },
+  {
+    "id": "google-my-business",
+    "label": "Google My Business",
+    "count": 6
+  },
+  {
+    "id": "healthcare-it",
+    "label": "Healthcare IT",
+    "count": 6
+  },
+  {
+    "id": "hrms",
+    "label": "HRMS",
+    "count": 6
+  },
+  {
+    "id": "information",
+    "label": "Information",
+    "count": 6
+  },
+  {
+    "id": "ios-applications",
+    "label": "IOS Applications",
+    "count": 6
+  },
+  {
+    "id": "ipad",
+    "label": "iPad",
+    "count": 6
+  },
+  {
+    "id": "it-project-management",
+    "label": "IT Project Management",
+    "count": 6
+  },
+  {
+    "id": "journalism",
+    "label": "Journalism",
+    "count": 6
+  },
+  {
+    "id": "landing-pages",
+    "label": "landing pages",
+    "count": 6
+  },
+  {
+    "id": "live-transfer",
+    "label": "Live Transfer",
+    "count": 6
+  },
+  {
+    "id": "management-consulting",
+    "label": "Management Consulting",
+    "count": 6
+  },
+  {
+    "id": "mean-stack-development",
+    "label": "MEAN Stack Development",
+    "count": 6
+  },
+  {
+    "id": "media-buying",
+    "label": "Media Buying",
+    "count": 6
+  },
+  {
+    "id": "media-production",
+    "label": "Media Production",
+    "count": 6
+  },
+  {
+    "id": "microsoft-365",
+    "label": "Microsoft 365",
+    "count": 6
+  },
+  {
+    "id": "mobile-app-developer",
+    "label": "Mobile App Developer",
+    "count": 6
+  },
+  {
+    "id": "mobileapps",
+    "label": "mobileapps",
+    "count": 6
+  },
+  {
+    "id": "monitoring",
+    "label": "Monitoring",
+    "count": 6
+  },
+  {
+    "id": "network-monitoring",
+    "label": "Network Monitoring",
+    "count": 6
+  },
+  {
+    "id": "nfts",
+    "label": "NFTs",
+    "count": 6
+  },
+  {
+    "id": "offshore-software-development",
+    "label": "Offshore Software Development",
+    "count": 6
+  },
+  {
+    "id": "open-source",
+    "label": "Open Source",
+    "count": 6
+  },
+  {
+    "id": "operations",
+    "label": "Operations",
+    "count": 6
+  },
+  {
+    "id": "outbound",
+    "label": "Outbound",
+    "count": 6
+  },
+  {
+    "id": "payment-gateway-integration",
+    "label": "Payment Gateway Integration",
+    "count": 6
+  },
+  {
+    "id": "payment-gateways",
+    "label": "Payment Gateways",
+    "count": 6
+  },
+  {
+    "id": "payroll",
+    "label": "Payroll",
+    "count": 6
+  },
+  {
+    "id": "portfolio-management",
+    "label": "Portfolio Management",
+    "count": 6
+  },
+  {
+    "id": "power",
+    "label": "Power",
+    "count": 6
+  },
+  {
+    "id": "power-apps",
+    "label": "Power Apps",
+    "count": 6
+  },
+  {
+    "id": "power-platform",
+    "label": "Power Platform",
+    "count": 6
+  },
+  {
+    "id": "print-media",
+    "label": "Print Media",
+    "count": 6
+  },
+  {
+    "id": "product-photography",
+    "label": "Product Photography",
+    "count": 6
+  },
+  {
+    "id": "qa-services",
+    "label": "QA Services",
+    "count": 6
+  },
+  {
+    "id": "react-native-app-development",
+    "label": "React Native App Development",
+    "count": 6
+  },
+  {
+    "id": "reseller-hosting",
+    "label": "Reseller Hosting",
+    "count": 6
+  },
+  {
+    "id": "ruby",
+    "label": "Ruby",
+    "count": 6
+  },
+  {
+    "id": "saas-application-development",
+    "label": "SaaS Application Development",
+    "count": 6
+  },
+  {
+    "id": "sales-and-marketing",
+    "label": "Sales and Marketing",
+    "count": 6
+  },
+  {
+    "id": "school-management-system",
+    "label": "School Management System",
+    "count": 6
+  },
+  {
+    "id": "script-writing",
+    "label": "Script Writing",
+    "count": 6
+  },
+  {
+    "id": "servicenow",
+    "label": "ServiceNow",
+    "count": 6
+  },
+  {
+    "id": "shopify-theme-development",
+    "label": "Shopify Theme Development",
+    "count": 6
+  },
+  {
+    "id": "siem",
+    "label": "SIEM",
+    "count": 6
+  },
+  {
+    "id": "smart-solutions",
+    "label": "Smart Solutions",
+    "count": 6
+  },
+  {
+    "id": "sms-marketing",
+    "label": "SMS Marketing",
+    "count": 6
+  },
+  {
+    "id": "soc",
+    "label": "SOC",
+    "count": 6
+  },
+  {
+    "id": "social-media-content-creation",
+    "label": "Social Media Content Creation",
+    "count": 6
+  },
+  {
+    "id": "software-development-company",
+    "label": "Software Development Company",
+    "count": 6
+  },
+  {
+    "id": "software-project-management",
+    "label": "Software Project Management",
+    "count": 6
+  },
+  {
+    "id": "startup-mvp-development",
+    "label": "Startup MVP Development",
+    "count": 6
+  },
+  {
+    "id": "storage",
+    "label": "Storage",
+    "count": 6
+  },
+  {
+    "id": "support",
+    "label": "Support",
+    "count": 6
+  },
+  {
+    "id": "system-administration",
+    "label": "System Administration",
+    "count": 6
+  },
+  {
+    "id": "systems-integration",
+    "label": "Systems Integration",
+    "count": 6
+  },
+  {
+    "id": "technology-solutions",
+    "label": "Technology Solutions",
+    "count": 6
+  },
+  {
+    "id": "telehealth",
+    "label": "Telehealth",
+    "count": 6
+  },
+  {
+    "id": "testing",
+    "label": "Testing",
+    "count": 6
+  },
+  {
+    "id": "theme-development",
+    "label": "Theme Development",
+    "count": 6
+  },
+  {
+    "id": "tiktok-ads",
+    "label": "TikTok Ads",
+    "count": 6
+  },
+  {
+    "id": "trading",
+    "label": "Trading",
+    "count": 6
+  },
+  {
+    "id": "ux-research",
+    "label": "UX Research",
+    "count": 6
+  },
+  {
+    "id": "vfx",
+    "label": "VFX",
+    "count": 6
+  },
+  {
+    "id": "web-apps-development",
+    "label": "Web Apps Development",
+    "count": 6
+  },
+  {
+    "id": "web-development-design",
+    "label": "Web Development & Design",
+    "count": 6
+  },
+  {
+    "id": "web-mobile-application-development",
+    "label": "Web & Mobile Application Development",
+    "count": 6
+  },
+  {
+    "id": "2d-games",
+    "label": "2D Games",
+    "count": 5
+  },
+  {
+    "id": "3d",
+    "label": "3d",
+    "count": 5
+  },
+  {
+    "id": "access-control-systems",
+    "label": "Access Control Systems",
+    "count": 5
+  },
+  {
+    "id": "adobe-illustrator",
+    "label": "Adobe Illustrator",
+    "count": 5
+  },
+  {
+    "id": "adobe-xd",
+    "label": "Adobe Xd",
+    "count": 5
+  },
+  {
+    "id": "advertisement",
+    "label": "Advertisement",
+    "count": 5
+  },
+  {
+    "id": "ai-agents-development",
+    "label": "AI Agents Development",
+    "count": 5
+  },
+  {
+    "id": "ai-apps",
+    "label": "AI Apps",
+    "count": 5
+  },
+  {
+    "id": "ai-automation-solutions",
+    "label": "AI & Automation Solutions",
+    "count": 5
+  },
+  {
+    "id": "ai-powered-web-solutions",
+    "label": "AI Powered Web Solutions",
+    "count": 5
+  },
+  {
+    "id": "ai-services",
+    "label": "AI Services",
+    "count": 5
+  },
+  {
+    "id": "ai-strategy-consulting",
+    "label": "AI Strategy & Consulting",
+    "count": 5
+  },
+  {
+    "id": "ai-transformation",
+    "label": "AI Transformation",
+    "count": 5
+  },
+  {
+    "id": "ai-voice-agents",
+    "label": "AI Voice Agents",
+    "count": 5
+  },
+  {
+    "id": "app-developer",
+    "label": "App Developer",
+    "count": 5
+  },
+  {
+    "id": "app-store-optimization-aso",
+    "label": "App Store Optimization (ASO)",
+    "count": 5
+  },
+  {
+    "id": "apple",
+    "label": "Apple",
+    "count": 5
+  },
+  {
+    "id": "application-integration-modernization",
+    "label": "Application Integration & Modernization",
+    "count": 5
+  },
+  {
+    "id": "applications-development",
+    "label": "Applications Development",
+    "count": 5
+  },
+  {
+    "id": "automotive",
+    "label": "Automotive",
+    "count": 5
+  },
+  {
+    "id": "backlinks",
+    "label": "Backlinks",
+    "count": 5
+  },
+  {
+    "id": "blender",
+    "label": "Blender",
+    "count": 5
+  },
+  {
+    "id": "brand-design",
+    "label": "Brand Design",
+    "count": 5
+  },
+  {
+    "id": "branding-identity",
+    "label": "Branding & Identity",
+    "count": 5
+  },
+  {
+    "id": "bubble-io",
+    "label": "Bubble.io",
+    "count": 5
+  },
+  {
+    "id": "business-process-optimization",
+    "label": "Business Process Optimization",
+    "count": 5
+  },
+  {
+    "id": "cgi",
+    "label": "CGI",
+    "count": 5
+  },
+  {
+    "id": "chat-bots",
+    "label": "Chat Bots",
+    "count": 5
+  },
+  {
+    "id": "client-centric-approach",
+    "label": "Client-Centric Approach",
+    "count": 5
+  },
+  {
+    "id": "climate-change",
+    "label": "Climate Change",
+    "count": 5
+  },
+  {
+    "id": "cloud-computing-aws",
+    "label": "Cloud Computing (AWS",
+    "count": 5
+  },
+  {
+    "id": "cloud-infrastructure-management",
+    "label": "Cloud Infrastructure Management",
+    "count": 5
+  },
+  {
+    "id": "connectivity",
+    "label": "Connectivity",
+    "count": 5
+  },
+  {
+    "id": "contact-center",
+    "label": "Contact Center",
+    "count": 5
+  },
+  {
+    "id": "corporate-identity",
+    "label": "Corporate Identity",
+    "count": 5
+  },
+  {
+    "id": "credentialing",
+    "label": "Credentialing",
+    "count": 5
+  },
+  {
+    "id": "cro",
+    "label": "CRO",
+    "count": 5
+  },
+  {
+    "id": "cross-platform-apps",
+    "label": "Cross-Platform Apps",
+    "count": 5
+  },
+  {
+    "id": "cross-platform-mobile-app-development",
+    "label": "Cross-Platform Mobile App Development",
+    "count": 5
+  },
+  {
+    "id": "custom-ai-development",
+    "label": "Custom AI Development",
+    "count": 5
+  },
+  {
+    "id": "custom-software-solution",
+    "label": "Custom Software Solution",
+    "count": 5
+  },
+  {
+    "id": "custom-websites",
+    "label": "Custom Websites",
+    "count": 5
+  },
+  {
+    "id": "customized-solutions",
+    "label": "Customized Solutions",
+    "count": 5
+  },
+  {
+    "id": "data-analytics-business-intelligence",
+    "label": "Data Analytics & Business Intelligence",
+    "count": 5
+  },
+  {
+    "id": "data-driven-solutions",
+    "label": "Data-Driven Solutions",
+    "count": 5
+  },
+  {
+    "id": "data-processing",
+    "label": "Data Processing",
+    "count": 5
+  },
+  {
+    "id": "data-scrapping",
+    "label": "Data Scrapping",
+    "count": 5
+  },
+  {
+    "id": "data-strategy",
+    "label": "Data Strategy",
+    "count": 5
+  },
+  {
+    "id": "dedicated-engineering-teams",
+    "label": "Dedicated Engineering Teams",
+    "count": 5
+  },
+  {
+    "id": "dell",
+    "label": "Dell",
+    "count": 5
+  },
+  {
+    "id": "deployment",
+    "label": "Deployment",
+    "count": 5
+  },
+  {
+    "id": "desktop-app-development",
+    "label": "Desktop App Development",
+    "count": 5
+  },
+  {
+    "id": "digital-advertising",
+    "label": "Digital Advertising",
+    "count": 5
+  },
+  {
+    "id": "digital-forensics",
+    "label": "Digital Forensics",
+    "count": 5
+  },
+  {
+    "id": "digital-innovation",
+    "label": "Digital Innovation",
+    "count": 5
+  },
+  {
+    "id": "digital-marketing-seo",
+    "label": "Digital Marketing & SEO",
+    "count": 5
+  },
+  {
+    "id": "digital-twin",
+    "label": "Digital Twin",
+    "count": 5
+  },
+  {
+    "id": "documentaries",
+    "label": "Documentaries",
+    "count": 5
+  },
+  {
+    "id": "domain-registration",
+    "label": "Domain Registration",
+    "count": 5
+  },
+  {
+    "id": "dynamics-365-business-central",
+    "label": "Dynamics 365 Business Central",
+    "count": 5
+  },
+  {
+    "id": "e-commerce-platforms",
+    "label": "E-Commerce Platforms",
+    "count": 5
+  },
+  {
+    "id": "e-commerece",
+    "label": "E-Commerece",
+    "count": 5
+  },
+  {
+    "id": "embedded-solutions",
+    "label": "Embedded Solutions",
+    "count": 5
+  },
+  {
+    "id": "end-user-computing",
+    "label": "End User Computing",
+    "count": 5
+  },
+  {
+    "id": "enterprise",
+    "label": "Enterprise",
+    "count": 5
+  },
+  {
+    "id": "erp-software",
+    "label": "ERP Software",
+    "count": 5
+  },
+  {
+    "id": "ethical-hacking",
+    "label": "Ethical Hacking",
+    "count": 5
+  },
+  {
+    "id": "etsy",
+    "label": "Etsy",
+    "count": 5
+  },
+  {
+    "id": "event-coverage",
+    "label": "Event Coverage",
+    "count": 5
+  },
+  {
+    "id": "events",
+    "label": "Events",
+    "count": 5
+  },
+  {
+    "id": "explainer-videos",
+    "label": "Explainer Videos",
+    "count": 5
+  },
+  {
+    "id": "firmware-development",
+    "label": "Firmware Development",
+    "count": 5
+  },
+  {
+    "id": "fiverr",
+    "label": "Fiverr",
+    "count": 5
+  },
+  {
+    "id": "fleet-management",
+    "label": "Fleet Management",
+    "count": 5
+  },
+  {
+    "id": "full-stack-developer",
+    "label": "Full Stack Developer",
+    "count": 5
+  },
+  {
+    "id": "gamedevelopment",
+    "label": "GameDevelopment",
+    "count": 5
+  },
+  {
+    "id": "gamification",
+    "label": "Gamification",
+    "count": 5
+  },
+  {
+    "id": "gdpr",
+    "label": "GDPR",
+    "count": 5
+  },
+  {
+    "id": "google-ads-expert",
+    "label": "Google Ads Expert",
+    "count": 5
+  },
+  {
+    "id": "google-adwords",
+    "label": "Google Adwords",
+    "count": 5
+  },
+  {
+    "id": "google-tag-manager",
+    "label": "Google Tag Manager",
+    "count": 5
+  },
+  {
+    "id": "graphic-designs",
+    "label": "Graphic Designs",
+    "count": 5
+  },
+  {
+    "id": "graphql",
+    "label": "GraphQL",
+    "count": 5
+  },
+  {
+    "id": "growth",
+    "label": "growth",
+    "count": 5
+  },
+  {
+    "id": "headless-commerce",
+    "label": "Headless Commerce",
+    "count": 5
+  },
+  {
+    "id": "health",
+    "label": "Health",
+    "count": 5
+  },
+  {
+    "id": "healthcare-software-development",
+    "label": "Healthcare Software Development",
+    "count": 5
+  },
+  {
+    "id": "healthcare-technology",
+    "label": "Healthcare Technology",
+    "count": 5
+  },
+  {
+    "id": "hiring",
+    "label": "Hiring",
+    "count": 5
+  },
+  {
+    "id": "hr-outsourcing",
+    "label": "HR Outsourcing",
+    "count": 5
+  },
+  {
+    "id": "hyper-casual-games",
+    "label": "Hyper Casual Games",
+    "count": 5
+  },
+  {
+    "id": "ibm",
+    "label": "IBM",
+    "count": 5
+  },
+  {
+    "id": "ielts",
+    "label": "IELTS",
+    "count": 5
+  },
+  {
+    "id": "illustration",
+    "label": "Illustration",
+    "count": 5
+  },
+  {
+    "id": "implementation",
+    "label": "Implementation",
+    "count": 5
+  },
+  {
+    "id": "infographics",
+    "label": "Infographics",
+    "count": 5
+  },
+  {
+    "id": "information-technology-services",
+    "label": "Information Technology Services",
+    "count": 5
+  },
+  {
+    "id": "iphone",
+    "label": "iPhone",
+    "count": 5
+  },
+  {
+    "id": "it-consultant",
+    "label": "IT Consultant",
+    "count": 5
+  },
+  {
+    "id": "it-consulting-strategy",
+    "label": "IT Consulting & Strategy",
+    "count": 5
+  },
+  {
+    "id": "it-training",
+    "label": "IT Training",
+    "count": 5
+  },
+  {
+    "id": "it-trainings",
+    "label": "IT Trainings",
+    "count": 5
+  },
+  {
+    "id": "landing-page-design",
+    "label": "Landing Page Design",
+    "count": 5
+  },
+  {
+    "id": "lead-generations",
+    "label": "Lead Generations",
+    "count": 5
+  },
+  {
+    "id": "lead-management",
+    "label": "Lead Management",
+    "count": 5
+  },
+  {
+    "id": "linkedin-ads",
+    "label": "linkedin ads",
+    "count": 5
+  },
+  {
+    "id": "live-transfers",
+    "label": "Live Transfers",
+    "count": 5
+  },
+  {
+    "id": "management",
+    "label": "Management",
+    "count": 5
+  },
+  {
+    "id": "marketing-agency",
+    "label": "Marketing Agency",
+    "count": 5
+  },
+  {
+    "id": "marketing-and-advertising",
+    "label": "Marketing and Advertising",
+    "count": 5
+  },
+  {
+    "id": "marketplace-development",
+    "label": "Marketplace Development",
+    "count": 5
+  },
+  {
+    "id": "medical",
+    "label": "Medical",
+    "count": 5
+  },
+  {
+    "id": "medical-coding",
+    "label": "Medical Coding",
+    "count": 5
+  },
+  {
+    "id": "microsoft-dynamics-crm",
+    "label": "Microsoft Dynamics CRM",
+    "count": 5
+  },
+  {
+    "id": "microsoft-fabric",
+    "label": "Microsoft Fabric",
+    "count": 5
+  },
+  {
+    "id": "microsoft-power-bi",
+    "label": "Microsoft Power BI",
+    "count": 5
+  },
+  {
+    "id": "mobile-app-design-and-development",
+    "label": "Mobile App Design and Development",
+    "count": 5
+  },
+  {
+    "id": "mobile-app-development-services",
+    "label": "Mobile App Development Services",
+    "count": 5
+  },
+  {
+    "id": "mobileappdevelopment",
+    "label": "mobileappdevelopment",
+    "count": 5
+  },
+  {
+    "id": "mvp-development-for-startups",
+    "label": "MVP Development for Startups",
+    "count": 5
+  },
+  {
+    "id": "native",
+    "label": "native",
+    "count": 5
+  },
+  {
+    "id": "native-apps",
+    "label": "Native Apps",
+    "count": 5
+  },
+  {
+    "id": "nest-js",
+    "label": "Nest.js",
+    "count": 5
+  },
+  {
+    "id": "net-framework",
+    "label": ".NET Framework",
+    "count": 5
+  },
+  {
+    "id": "networks",
+    "label": "Networks",
+    "count": 5
+  },
+  {
+    "id": "neural-networks",
+    "label": "Neural Networks",
+    "count": 5
+  },
+  {
+    "id": "nft-development",
+    "label": "NFT Development",
+    "count": 5
+  },
+  {
+    "id": "odoo-development",
+    "label": "Odoo Development",
+    "count": 5
+  },
+  {
+    "id": "odoo-erp",
+    "label": "Odoo ERP",
+    "count": 5
+  },
+  {
+    "id": "odoo-implementation",
+    "label": "Odoo Implementation",
+    "count": 5
+  },
+  {
+    "id": "online-advertising",
+    "label": "Online Advertising",
+    "count": 5
+  },
+  {
+    "id": "online-reputation-management",
+    "label": "Online Reputation Management",
+    "count": 5
+  },
+  {
+    "id": "online-store",
+    "label": "online store",
+    "count": 5
+  },
+  {
+    "id": "openai",
+    "label": "OpenAI",
+    "count": 5
+  },
+  {
+    "id": "operations-management",
+    "label": "Operations Management",
+    "count": 5
+  },
+  {
+    "id": "pay-per-click-ppc",
+    "label": "Pay Per Click (PPC)",
+    "count": 5
+  },
+  {
+    "id": "photoshop",
+    "label": "Photoshop",
+    "count": 5
+  },
+  {
+    "id": "polygon",
+    "label": "Polygon",
+    "count": 5
+  },
+  {
+    "id": "ppc-ads",
+    "label": "PPC Ads",
+    "count": 5
+  },
+  {
+    "id": "product-animation",
+    "label": "Product Animation",
+    "count": 5
+  },
+  {
+    "id": "public-relations",
+    "label": "Public Relations",
+    "count": 5
+  },
+  {
+    "id": "python-django",
+    "label": "Python Django",
+    "count": 5
+  },
+  {
+    "id": "pytorch",
+    "label": "PyTorch",
+    "count": 5
+  },
+  {
+    "id": "qa-software-testing",
+    "label": "QA & Software Testing",
+    "count": 5
+  },
+  {
+    "id": "quality-assurance-qa",
+    "label": "Quality Assurance (QA)",
+    "count": 5
+  },
+  {
+    "id": "rapid-prototyping",
+    "label": "Rapid Prototyping",
+    "count": 5
+  },
+  {
+    "id": "react-next-js-development",
+    "label": "React & Next.js Development",
+    "count": 5
+  },
+  {
+    "id": "remote-sensing",
+    "label": "remote sensing",
+    "count": 5
+  },
+  {
+    "id": "remote-work",
+    "label": "Remote Work",
+    "count": 5
+  },
+  {
+    "id": "responsive-design",
+    "label": "Responsive Design",
+    "count": 5
+  },
+  {
+    "id": "rest-api",
+    "label": "REST API",
+    "count": 5
+  },
+  {
+    "id": "rest-apis",
+    "label": "REST APIs",
+    "count": 5
+  },
+  {
+    "id": "rust",
+    "label": "Rust",
+    "count": 5
+  },
+  {
+    "id": "sales-funnel",
+    "label": "Sales Funnel",
+    "count": 5
+  },
+  {
+    "id": "sales-management",
+    "label": "Sales Management",
+    "count": 5
+  },
+  {
+    "id": "sales-marketing",
+    "label": "Sales & Marketing",
+    "count": 5
+  },
+  {
+    "id": "sass",
+    "label": "SASS",
+    "count": 5
+  },
+  {
+    "id": "search-engine-optimisation",
+    "label": "Search Engine Optimisation",
+    "count": 5
+  },
+  {
+    "id": "security-audits",
+    "label": "Security Audits",
+    "count": 5
+  },
+  {
+    "id": "seo-aso",
+    "label": "SEO/ASO",
+    "count": 5
+  },
+  {
+    "id": "seo-expert",
+    "label": "SEO Expert",
+    "count": 5
+  },
+  {
+    "id": "server-management",
+    "label": "Server Management",
+    "count": 5
+  },
+  {
+    "id": "short-films",
+    "label": "short films",
+    "count": 5
+  },
+  {
+    "id": "simulation",
+    "label": "Simulation",
+    "count": 5
+  },
+  {
+    "id": "social-media-ads",
+    "label": "social media ads",
+    "count": 5
+  },
+  {
+    "id": "social-media-managment",
+    "label": "Social Media Managment",
+    "count": 5
+  },
+  {
+    "id": "social-media-marketing-management",
+    "label": "Social Media Marketing & Management",
+    "count": 5
+  },
+  {
+    "id": "software-integration",
+    "label": "Software Integration",
+    "count": 5
+  },
+  {
+    "id": "software-maintenance-support",
+    "label": "Software Maintenance & Support",
+    "count": 5
+  },
+  {
+    "id": "storytelling",
+    "label": "Storytelling",
+    "count": 5
+  },
+  {
+    "id": "structured-cabling",
+    "label": "Structured Cabling",
+    "count": 5
+  },
+  {
+    "id": "system-architecture",
+    "label": "System Architecture",
+    "count": 5
+  },
+  {
+    "id": "talent-acquisition",
+    "label": "Talent Acquisition",
+    "count": 5
+  },
+  {
+    "id": "tech",
+    "label": "tech",
+    "count": 5
+  },
+  {
+    "id": "technical-consultancy",
+    "label": "Technical Consultancy",
+    "count": 5
+  },
+  {
+    "id": "technical-recruitment",
+    "label": "Technical Recruitment",
+    "count": 5
+  },
+  {
+    "id": "technical-writing",
+    "label": "Technical Writing",
+    "count": 5
+  },
+  {
+    "id": "telemedicine",
+    "label": "Telemedicine",
+    "count": 5
+  },
+  {
+    "id": "ui-designing",
+    "label": "UI Designing",
+    "count": 5
+  },
+  {
+    "id": "ui-ux-product-design",
+    "label": "UI/UX & Product Design",
+    "count": 5
+  },
+  {
+    "id": "user-interface",
+    "label": "User Interface",
+    "count": 5
+  },
+  {
+    "id": "user-interface-design",
+    "label": "User Interface Design",
+    "count": 5
+  },
+  {
+    "id": "ux-ui-designing",
+    "label": "UX/UI Designing",
+    "count": 5
+  },
+  {
+    "id": "veeam",
+    "label": "Veeam",
+    "count": 5
+  },
+  {
+    "id": "voip-solutions",
+    "label": "VoIP Solutions",
+    "count": 5
+  },
+  {
+    "id": "vue",
+    "label": "Vue",
+    "count": 5
+  },
+  {
+    "id": "vulnerability-management",
+    "label": "Vulnerability Management",
+    "count": 5
+  },
+  {
+    "id": "walmart",
+    "label": "Walmart",
+    "count": 5
+  },
+  {
+    "id": "web-api",
+    "label": "Web API",
+    "count": 5
+  },
+  {
+    "id": "web-development-services",
+    "label": "Web Development Services",
+    "count": 5
+  },
+  {
+    "id": "website-developement",
+    "label": "Website Developement",
+    "count": 5
+  },
+  {
+    "id": "website-management",
+    "label": "Website Management",
+    "count": 5
+  },
+  {
+    "id": "woo-commerce",
+    "label": "Woo Commerce",
+    "count": 5
+  },
+  {
+    "id": "wordpress-hosting",
+    "label": "WordPress Hosting",
+    "count": 5
+  },
+  {
+    "id": "wordpress-plugin-development",
+    "label": "WordPress Plugin Development",
+    "count": 5
+  },
+  {
+    "id": "wordpress-website",
+    "label": "WordPress Website",
+    "count": 5
+  },
+  {
+    "id": "wordpress-website-design",
+    "label": "WordPress Website Design",
+    "count": 5
+  },
+  {
+    "id": "writing",
+    "label": "Writing",
+    "count": 5
+  },
+  {
+    "id": "xamarin",
+    "label": "Xamarin",
+    "count": 5
+  },
+  {
+    "id": "youtube-seo",
+    "label": "Youtube SEO",
+    "count": 5
+  }
+]

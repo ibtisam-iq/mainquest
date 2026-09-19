@@ -1,0 +1,47 @@
+{
+  "home": "pk",
+  "homeName": "Pakistan",
+  "homeAdjective": "Pakistani",
+  "values": [
+    {
+      "id": "local",
+      "label": "Pakistani company",
+      "row": "",
+      "count": 11391
+    },
+    {
+      "id": "registered-abroad",
+      "label": "Pakistani, registered abroad",
+      "row": "Pakistani, registered in {country}",
+      "count": 362
+    },
+    {
+      "id": "international",
+      "label": "International, with an office in Pakistan",
+      "row": "International, based in {country}",
+      "count": 148
+    },
+    {
+      "id": "unclear",
+      "label": "Registered abroad, base unclear",
+      "row": "Headquarters listed in {country}",
+      "count": 1641
+    }
+  ],
+  "bases": {
+    "headquarters": "Its headquarters is in Pakistan.",
+    "owner": "Settled by hand, from what is known about the company.",
+    "described-here": "Its headquarters is listed in {country}, and its own description says it is based in Pakistan.",
+    "described-abroad": "Its own description says it is based in {country}.",
+    "registration-address": "Its headquarters is listed at an address where companies are registered without working there, and every office it lists is in Pakistan.",
+    "company-form": "Its headquarters is listed in {country}, but it uses a Pakistani company form, such as (Pvt) Ltd.",
+    "website": "Its headquarters is listed in {country}, but its website ends in .pk.",
+    "office-label": "Its headquarters is listed in {country}, but it names its office in Pakistan as its head office.",
+    "none": "Its headquarters is listed in {country}. Nothing else in the data says where it is run from."
+  },
+  "notes": {
+    "venturedive": "Founded in Karachi, where it is run from; its headquarters is listed in California.",
+    "bayt.com": "A job site founded and run in the United Arab Emirates, with an office in Pakistan.",
+    "cequens": "A communications company run from Egypt and the United Arab Emirates, with an office in Pakistan."
+  }
+}

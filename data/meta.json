@@ -1,0 +1,13 @@
+{
+  "recordCount": 13542,
+  "sourceRows": 13557,
+  "dropped": {
+    "subpage_capture": 15,
+    "no_profile_url": 0,
+    "no_company_segment": 0,
+    "malformed_handle": 0,
+    "missing_name": 0,
+    "missing_industry": 0
+  },
+  "contentHash": "68d5da82f2df5191dcb3aec82121b2bb25733cb03da5563394ccf8d60745391f"
+}

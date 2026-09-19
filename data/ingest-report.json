@@ -1,0 +1,337 @@
+{
+  "sourceRows": 13557,
+  "published": 13542,
+  "dropped": {
+    "subpage_capture": 15,
+    "no_profile_url": 0,
+    "no_company_segment": 0,
+    "malformed_handle": 0,
+    "missing_name": 0,
+    "missing_industry": 0
+  },
+  "hubs": {
+    "twin-cities": 4174,
+    "lahore": 3508,
+    "karachi": 5463,
+    "faisalabad": 739,
+    "other-cities": 11
+  },
+  "hq": {
+    "local": 11326,
+    "foreign": 2216,
+    "hqCountryUnresolved": 58,
+    "foreignResolvedToPakistan": 59
+  },
+  "origin": {
+    "international/described-abroad": 146,
+    "international/owner": 2,
+    "local/headquarters": 11391,
+    "registered-abroad/company-form": 67,
+    "registered-abroad/described-here": 31,
+    "registered-abroad/office-label": 90,
+    "registered-abroad/owner": 1,
+    "registered-abroad/registration-address": 165,
+    "registered-abroad/website": 8,
+    "unclear/none": 1641
+  },
+  "multiCity": 422,
+  "facets": {
+    "industries": 57,
+    "tags": 1121,
+    "areas": 201,
+    "cities": 54,
+    "citiesLearned": 28,
+    "countries": 60
+  },
+  "coverage": {
+    "website": 7254,
+    "founded": 6731,
+    "specialties": 4556,
+    "tags": 4171,
+    "followers": 13443,
+    "members": 7256,
+    "companyId": 8218
+  },
+  "companyIds": {
+    "fromSource": 8222,
+    "fromKnownList": 0,
+    "rejected": 0,
+    "shared": [
+      "thescope-it-center",
+      "wibbow-technologies-limited",
+      "thescopelabz",
+      "wibbowtech"
+    ]
+  },
+  "cleaning": {
+    "websiteDropped": {
+      "self_link": 10,
+      "scheme": 1,
+      "invalid": 1
+    },
+    "trackingStripped": 16,
+    "specialtiesWithLinks": 2,
+    "foundedRejected": 2,
+    "namesFromHandle": 5,
+    "industryNotListed": 4
+  },
+  "offices": {
+    "total": 14196,
+    "byPrecision": {
+      "street": 66,
+      "area": 3959,
+      "city": 10171
+    },
+    "companiesWithStreetOrArea": 3801,
+    "detailedAddresses": 5266,
+    "geocoded": 75,
+    "uncached": 0,
+    "rejectedFar": 12,
+    "cityLevelOnlyResult": 475,
+    "notInAddress": 322,
+    "unlocatedCompanies": 5,
+    "placedByKnownPlace": 3950,
+    "streetConfirmedByPlace": 41,
+    "abroad": 6,
+    "operatingCityReplaced": 23,
+    "unknownPlace": 6,
+    "officeCityOutsideHubs": 163
+  },
+  "platformMentions": {
+    "handle": 5,
+    "name": 1,
+    "specialties": 24,
+    "address": 0,
+    "website": 2
+  },
+  "unresolvedHeadquarters": [
+    {
+      "value": ",",
+      "count": 6
+    },
+    {
+      "value": "Skip to primary content",
+      "count": 3
+    },
+    {
+      "value": "637 S Meldrum St Fort Collin, Colorado",
+      "count": 1
+    },
+    {
+      "value": "Abbottabad, KPK",
+      "count": 1
+    },
+    {
+      "value": "Al Hasa City Hafuf, Eastern Province",
+      "count": 1
+    },
+    {
+      "value": "Albequerque, New Mexico",
+      "count": 1
+    },
+    {
+      "value": "Austin, Taxas",
+      "count": 1
+    },
+    {
+      "value": "Beringen, Flemish Region",
+      "count": 1
+    },
+    {
+      "value": "Boston, Massachusettes",
+      "count": 1
+    },
+    {
+      "value": "Bradford, Newyork",
+      "count": 1
+    },
+    {
+      "value": "Brendwood, California",
+      "count": 1
+    },
+    {
+      "value": "Christchurch , High Street Salt District",
+      "count": 1
+    },
+    {
+      "value": "DMV Area, Maryland",
+      "count": 1
+    },
+    {
+      "value": "Dammam metropolitan area,",
+      "count": 1
+    },
+    {
+      "value": "Deira City Center, Dubai, Dubai",
+      "count": 1
+    },
+    {
+      "value": "Digital Experts Dev is a modern digital solutions company (founded 2026) that combines creativity, strategy, and technology to build custom web applications, WordPress sites, scalable Shopify stores, and SaaS platforms, delivering high-performance digital experiences tailored to each client’s goals.",
+      "count": 1
+    },
+    {
+      "value": "Dubai International Financial Center , Dubai",
+      "count": 1
+    },
+    {
+      "value": "Dubai, Dubau",
+      "count": 1
+    },
+    {
+      "value": "Dubai, Outside US",
+      "count": 1
+    },
+    {
+      "value": "Dubai, United Arab Emitrates",
+      "count": 1
+    },
+    {
+      "value": "East Burnswick, nj",
+      "count": 1
+    },
+    {
+      "value": "Futuristic Zone is a technology, automation, and digital solutions company-“Innovating Today, Shaping Tomorrow.” Backed by certified engineers and industry experts, the team delivers industrial automation, PLC expertise, web development, digital marketing, YouTube and Google AdSense support, and Upwork growth services with 5-10+ years’ practical experience.",
+      "count": 1
+    },
+    {
+      "value": "Greater Sydney Area, New South Wales",
+      "count": 1
+    },
+    {
+      "value": "Greenwich, LondonLondon",
+      "count": 1
+    },
+    {
+      "value": "Halifax, Novascotia",
+      "count": 1
+    },
+    {
+      "value": "Houstan, Texas",
+      "count": 1
+    },
+    {
+      "value": "Htfield, Herts",
+      "count": 1
+    },
+    {
+      "value": "Hunza valley, , gilgit",
+      "count": 1
+    },
+    {
+      "value": "ISLAMABD, CAPITAL",
+      "count": 1
+    },
+    {
+      "value": "Islambad, Capital Territory",
+      "count": 1
+    },
+    {
+      "value": "Langley, United Kingdom, Berkshire",
+      "count": 1
+    },
+    {
+      "value": "London, United Kingdom - Remote",
+      "count": 1
+    },
+    {
+      "value": "London, United Kingdom, London",
+      "count": 1
+    },
+    {
+      "value": "MV Worldwide powers B2B growth with lead generation, appointment setting and SDR services, using AI-powered outreach, digital marketing, CRM and technology solutions to generate qualified leads and book sales meetings to accelerate business growth.",
+      "count": 1
+    },
+    {
+      "value": "Maimi, Florida",
+      "count": 1
+    },
+    {
+      "value": "Melbourne, Victoria, Australia, Victoria",
+      "count": 1
+    },
+    {
+      "value": "Meridian, Mississpi",
+      "count": 1
+    },
+    {
+      "value": "Midelton Cork, Cork",
+      "count": 1
+    },
+    {
+      "value": "Minneapolis-State, Minnesota",
+      "count": 1
+    },
+    {
+      "value": "Murtaza Abad, Gilgit",
+      "count": 1
+    },
+    {
+      "value": "NexviaHub builds AI and automation solutions using n8n, APIs and modern tools to eliminate repetitive tasks, connect systems and create scalable workflows. They deliver n8n workflow automation, API/MCP integrations, AI-powered automation (OpenAI, DeepSeek, Gemini), Google Sheets data pipelines and browser/social media automation.",
+      "count": 1
+    },
+    {
+      "value": "Saadatpur, Punjab",
+      "count": 1
+    },
+    {
+      "value": "San Francisco, Callifornia",
+      "count": 1
+    },
+    {
+      "value": "San Franciso Bay Area , California",
+      "count": 1
+    },
+    {
+      "value": "SanFrancisco, California",
+      "count": 1
+    },
+    {
+      "value": "Sharjah Media City, Sharjah",
+      "count": 1
+    },
+    {
+      "value": "Sheridan, WY 82801, Weyoming",
+      "count": 1
+    },
+    {
+      "value": "Sheridan, Wymoing",
+      "count": 1
+    },
+    {
+      "value": "Silicon Oasis, Dubai, Unit.Arab Emir. reg.",
+      "count": 1
+    },
+    {
+      "value": "Skardu , gilgit6",
+      "count": 1
+    },
+    {
+      "value": "Slough, UK, Berkshire",
+      "count": 1
+    },
+    {
+      "value": "Sterling, Virginia, Loudon County",
+      "count": 1
+    },
+    {
+      "value": "Stockholm, Uppland and Södermanland",
+      "count": 1
+    },
+    {
+      "value": "THE ARZENS is a technology-driven startup focused on building systems that create real impact in cybersecurity and the broader digital landscape.",
+      "count": 1
+    },
+    {
+      "value": "Uqilah, Al Madinah",
+      "count": 1
+    },
+    {
+      "value": "manchester, united kindom",
+      "count": 1
+    },
+    {
+      "value": "🚀 Tecno Zone Softwares | Your Digital Transformation Partner",
+      "count": 1
+    }
+  ]
+}
