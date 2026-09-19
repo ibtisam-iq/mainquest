@@ -24,6 +24,7 @@
     "check:seo": "node scripts/check-seo.ts"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "csv-parse": "^7.0.2",
     "maplibre-gl": "^6.9.0",
     "minisearch": "^7.2.0",
