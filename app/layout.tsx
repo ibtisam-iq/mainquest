@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next';
 import type { ReactNode } from 'react';
 import Link from 'next/link';
 import { Bricolage_Grotesque, Geist, Geist_Mono } from 'next/font/google';
+import { Analytics } from '@vercel/analytics/next';
 import { SiteFooter } from '../components/SiteFooter.tsx';
 import { SiteNav } from '../components/SiteNav.tsx';
 import { SiteMenu } from '../components/SiteMenu.tsx';
@@ -77,6 +78,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         </header>
         {children}
         <SiteFooter />
+        <Analytics />
       </body>
     </html>
   );
