@@ -1,0 +1,134 @@
+# Dependencies
+node_modules/
+jspm_packages/
+web_modules/
+
+# Environment variables
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+.env.*.local
+!.env.example
+!.env.sample
+!.env.template
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-debug.log*
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime & Process IDs
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Build & production outputs
+build/
+dist/
+out/
+lib-cov/
+coverage/
+.nyc_output/
+*.lcov
+.next/
+.nuxt/
+.output/
+.svelte-kit/
+dist-ssr/
+*.tsbuildinfo
+.turbo/
+
+# Cache & temp
+.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+.prettiercache
+.temp/
+.tmp/
+tmp/
+temp/
+
+# Testing & reports
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+cypress/videos/
+cypress/screenshots/
+
+# Yarn Berry
+.pnp
+.pnp.js
+.pnp.*
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# IDE & editors
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+*~
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# Cloud deployments
+.serverless/
+.webpack/
+.vercel
+.netlify
+
+# Source data copied in from the upstream pipeline. Never committed.
+/data/raw/
+
+# Derived at build time from data/companies.json
+/public/data/
+
+# The map library's worker, copied from node_modules before every dev run and build
+/public/maplibre/
+
+# Claude
+.claude/
+CLAUDE.md
+
+# Internal agent context
+AGENT.md
+
+# Plans
+plan/
+
+# STATUS.md
+STATUS.md
