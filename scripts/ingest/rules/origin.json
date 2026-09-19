@@ -1,0 +1,46 @@
+{
+  "note": "Where each company is run from, worked out by scripts/ingest/origin.ts (decision 27). home is the country the directory's offices are in; its entry lists the evidence that a company is run from there: place names (the city table's cities are added automatically), company forms that only a company registered there uses, website endings, and registration bodies. registrationAddresses are places where companies from anywhere are registered without being there; a headquarters at one of them, with every office in the home country, points to a company run from home. abroadNames are other names for countries, used to read statements such as 'UK-based'. companies settles a company by hand: its handle, the category, and a note saying how it is known. A hand entry always wins.",
+  "home": "pk",
+  "countries": {
+    "pk": {
+      "name": "Pakistan",
+      "adjective": "Pakistani",
+      "places": ["pakistan", "punjab", "sindh", "khyber pakhtunkhwa", "balochistan", "gilgit baltistan", "azad kashmir"],
+      "companyForms": ["(pvt) ltd", "(pvt.) ltd", "(pvt) limited", "(pvt.) limited", "pvt ltd", "pvt. ltd", "pvt limited", "(private) limited", "(smc-private) limited", "smc-private limited", "smc-pvt", "(smc-pvt) ltd"],
+      "bodies": ["secp", "p@sha", "pasha"],
+      "domains": [".pk"]
+    }
+  },
+  "registrationAddresses": [
+    { "place": "Wyoming", "match": ["wyoming", "weyoming", "sheridan, wy", "sheridian", "cheyenne, wy", "casper, wy"] },
+    { "place": "Delaware", "match": ["delaware", "dover, de", "wilmington, de", "middletown, de", "lewes, de", "newark, de", "camden, de"] }
+  ],
+  "abroadNames": {
+    "us": ["united states", "usa", "u.s.a", "u.s.", "us", "america", "silicon valley"],
+    "gb": ["united kingdom", "uk", "u.k.", "england", "britain", "scotland", "wales", "london"],
+    "ae": ["united arab emirates", "uae", "u.a.e", "emirates", "dubai", "abu dhabi", "sharjah"],
+    "sa": ["saudi arabia", "ksa", "saudi", "riyadh", "jeddah"],
+    "ca": ["canada", "toronto", "vancouver"],
+    "au": ["australia", "sydney", "melbourne"],
+    "de": ["germany", "berlin"],
+    "sg": ["singapore"],
+    "qa": ["qatar", "doha"],
+    "nl": ["netherlands", "amsterdam"],
+    "ie": ["ireland", "dublin"],
+    "tr": ["turkey", "turkiye", "istanbul"],
+    "my": ["malaysia", "kuala lumpur"],
+    "cn": ["china"],
+    "eg": ["egypt", "cairo"],
+    "se": ["sweden", "stockholm"],
+    "ch": ["switzerland"],
+    "fr": ["france", "paris"],
+    "om": ["oman", "muscat"],
+    "bh": ["bahrain", "manama"],
+    "kw": ["kuwait"]
+  },
+  "companies": {
+    "venturedive": { "origin": "registered-abroad", "note": "Founded in Karachi, where it is run from; its headquarters is listed in California." },
+    "bayt.com": { "origin": "international", "note": "A job site founded and run in the United Arab Emirates, with an office in Pakistan." },
+    "cequens": { "origin": "international", "note": "A communications company run from Egypt and the United Arab Emirates, with an office in Pakistan." }
+  }
+}

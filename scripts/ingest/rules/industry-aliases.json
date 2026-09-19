@@ -1,0 +1,4 @@
+{
+  "note": "Maps an industry slug to another to merge them. Empty on purpose: industries ship exactly as the source states them.",
+  "aliases": {}
+}

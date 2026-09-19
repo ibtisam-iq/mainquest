@@ -1,0 +1,20 @@
+{
+  "note": "Used by the site's search. Each group is a set of terms that should find each other; a group member of several words applies only when it is the whole search. exact lists words that must match as typed, never as the start of a longer word, because the longer words mean something else (\"java\" and \"javascript\"). Symbol words are written as search reads them: \"csharp\" for C#, \"dotnet\" for .NET, \"cplusplus\" for C++.",
+  "groups": [
+    ["devops", "dev ops"],
+    ["kubernetes", "k8s"],
+    ["ai", "artificial intelligence"],
+    ["ml", "machine learning"],
+    ["qa", "quality assurance", "testing"],
+    ["ui", "ux", "user interface", "user experience"],
+    ["erp", "enterprise resource planning"],
+    ["crm", "customer relationship management"],
+    ["seo", "search engine optimization"],
+    ["saas", "software as a service"],
+    ["csharp", "c sharp"],
+    ["dotnet", "dot net"],
+    ["cplusplus", "cpp"],
+    ["javascript", "js"]
+  ],
+  "exact": ["java", "pos", "sap", "sem", "aso", "defi"]
+}

@@ -1,0 +1,35 @@
+{
+  "note": "Expected shape of the published dataset. Counts may move within the tolerance; coverage may only rise; mention ceilings cover the source platform's name appearing inside company handles and company-written text, reviewed by hand. Edit this file in the same commit as any intended change.",
+  "tolerance": 0.1,
+  "counts": {
+    "published": 13542,
+    "local": 11326,
+    "multiCity": 422,
+    "hubs": {
+      "twin-cities": 4174,
+      "lahore": 3508,
+      "karachi": 5463,
+      "faisalabad": 739,
+      "other-cities": 11
+    }
+  },
+  "coverageFloors": {
+    "website": 7254,
+    "founded": 6731,
+    "specialties": 4556,
+    "companiesWithStreetOrArea": 3801,
+    "followers": 13443,
+    "members": 7256,
+    "companyId": 8218
+  },
+  "platformMentionCeilings": {
+    "handle": 5,
+    "name": 1,
+    "specialties": 24
+  },
+  "budgets": {
+    "coreGzipBytes": 716800,
+    "extraGzipBytes": 716800
+  },
+  "unlocatedCeiling": 5
+}

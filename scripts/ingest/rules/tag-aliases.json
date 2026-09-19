@@ -1,0 +1,4 @@
+{
+  "note": "Maps a specialty slug to the canonical slug it should be counted under.",
+  "aliases": {}
+}

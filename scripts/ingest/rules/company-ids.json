@@ -1,0 +1,4 @@
+{
+  "note": "Numeric company ids known before the source carries them, keyed by handle. The source's Company ID column takes precedence; an entry that disagrees with it stops the run. Once the source has an id for a company, its entry here can be removed.",
+  "ids": {}
+}
