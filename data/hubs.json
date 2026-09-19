@@ -1,0 +1,46 @@
+[
+  {
+    "id": "twin-cities",
+    "label": "Twin Cities (Islamabad and Rawalpindi)",
+    "place": "Islamabad and Rawalpindi",
+    "cities": [
+      "islamabad",
+      "rawalpindi"
+    ],
+    "count": 4174
+  },
+  {
+    "id": "lahore",
+    "label": "Lahore",
+    "place": "Lahore",
+    "cities": [
+      "lahore"
+    ],
+    "count": 3508
+  },
+  {
+    "id": "karachi",
+    "label": "Karachi",
+    "place": "Karachi",
+    "cities": [
+      "karachi"
+    ],
+    "count": 5463
+  },
+  {
+    "id": "faisalabad",
+    "label": "Faisalabad",
+    "place": "Faisalabad",
+    "cities": [
+      "faisalabad"
+    ],
+    "count": 739
+  },
+  {
+    "id": "other-cities",
+    "label": "Other cities",
+    "place": "other cities",
+    "cities": [],
+    "count": 11
+  }
+]

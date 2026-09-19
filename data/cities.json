@@ -1,0 +1,380 @@
+[
+  {
+    "id": "karachi",
+    "label": "Karachi",
+    "count": 5466,
+    "lat": 24.8607,
+    "lon": 67.0011
+  },
+  {
+    "id": "lahore",
+    "label": "Lahore",
+    "count": 3504,
+    "lat": 31.5204,
+    "lon": 74.3587
+  },
+  {
+    "id": "islamabad",
+    "label": "Islamabad",
+    "count": 2806,
+    "lat": 33.693,
+    "lon": 73.065
+  },
+  {
+    "id": "rawalpindi",
+    "label": "Rawalpindi",
+    "count": 1378,
+    "lat": 33.595,
+    "lon": 73.055
+  },
+  {
+    "id": "faisalabad",
+    "label": "Faisalabad",
+    "count": 738,
+    "lat": 31.4187,
+    "lon": 73.0791
+  },
+  {
+    "id": "multan",
+    "label": "Multan",
+    "count": 25,
+    "lat": 30.1575,
+    "lon": 71.5249
+  },
+  {
+    "id": "peshawar",
+    "label": "Peshawar",
+    "count": 22,
+    "lat": 34.0151,
+    "lon": 71.5249
+  },
+  {
+    "id": "hyderabad",
+    "label": "Hyderabad",
+    "count": 14,
+    "lat": 25.396,
+    "lon": 68.3578
+  },
+  {
+    "id": "sialkot",
+    "label": "Sialkot",
+    "count": 11,
+    "lat": 32.4945,
+    "lon": 74.5229
+  },
+  {
+    "id": "wah",
+    "label": "Wah Cantt",
+    "count": 11,
+    "lat": 33.7715,
+    "lon": 72.7511
+  },
+  {
+    "id": "quetta",
+    "label": "Quetta",
+    "count": 9,
+    "lat": 30.1798,
+    "lon": 66.975
+  },
+  {
+    "id": "gujranwala",
+    "label": "Gujranwala",
+    "count": 7,
+    "lat": 32.1877,
+    "lon": 74.1945
+  },
+  {
+    "id": "abbottabad",
+    "label": "Abbottabad",
+    "count": 6,
+    "lat": 34.1688,
+    "lon": 73.2215
+  },
+  {
+    "id": "gilgit",
+    "label": "Gilgit",
+    "count": 6,
+    "lat": 35.9208,
+    "lon": 74.308
+  },
+  {
+    "id": "rahim-yar-khan",
+    "label": "Rahim Yar Khan",
+    "count": 6,
+    "lat": 28.41761,
+    "lon": 70.30365
+  },
+  {
+    "id": "bahawalpur",
+    "label": "Bahawalpur",
+    "count": 5,
+    "lat": 29.3956,
+    "lon": 71.6836
+  },
+  {
+    "id": "jhelum",
+    "label": "Jhelum",
+    "count": 4,
+    "lat": 32.9405,
+    "lon": 73.7276
+  },
+  {
+    "id": "sahiwal",
+    "label": "Sahiwal",
+    "count": 4,
+    "lat": 30.67151,
+    "lon": 73.11106
+  },
+  {
+    "id": "sargodha",
+    "label": "Sargodha",
+    "count": 4,
+    "lat": 32.0836,
+    "lon": 72.6711
+  },
+  {
+    "id": "taxila",
+    "label": "Taxila",
+    "count": 4,
+    "lat": 33.7463,
+    "lon": 72.8397
+  },
+  {
+    "id": "mingora",
+    "label": "Mingora",
+    "count": 3,
+    "lat": 34.77254,
+    "lon": 72.36077
+  },
+  {
+    "id": "sadiqabad",
+    "label": "Sadiqabad",
+    "count": 3,
+    "lat": 28.30867,
+    "lon": 70.1283
+  },
+  {
+    "id": "skardu",
+    "label": "Skardu",
+    "count": 3,
+    "lat": 35.2971,
+    "lon": 75.6333
+  },
+  {
+    "id": "gujrat",
+    "label": "Gujrat",
+    "count": 2,
+    "lat": 32.5739,
+    "lon": 74.079
+  },
+  {
+    "id": "haripur",
+    "label": "Haripur",
+    "count": 2,
+    "lat": 33.9946,
+    "lon": 72.9106
+  },
+  {
+    "id": "mansehra",
+    "label": "Mansehra",
+    "count": 2,
+    "lat": 34.32869,
+    "lon": 73.19931
+  },
+  {
+    "id": "mardan",
+    "label": "Mardan",
+    "count": 2,
+    "lat": 34.1986,
+    "lon": 72.0404
+  },
+  {
+    "id": "mirpur",
+    "label": "Mirpur",
+    "count": 2,
+    "lat": 33.1484,
+    "lon": 73.7518
+  },
+  {
+    "id": "muzaffarabad",
+    "label": "Muzaffarabad",
+    "count": 2,
+    "lat": 34.37,
+    "lon": 73.4711
+  },
+  {
+    "id": "shakargarh",
+    "label": "Shakargarh",
+    "count": 2,
+    "lat": 32.26315,
+    "lon": 75.16045
+  },
+  {
+    "id": "attock",
+    "label": "Attock",
+    "count": 1,
+    "lat": 33.76953,
+    "lon": 72.36109
+  },
+  {
+    "id": "bannu",
+    "label": "Bannu",
+    "count": 1,
+    "lat": 32.9857,
+    "lon": 70.6036
+  },
+  {
+    "id": "burewala",
+    "label": "Burewala",
+    "count": 1,
+    "lat": 30.1588,
+    "lon": 72.6797
+  },
+  {
+    "id": "chiniot",
+    "label": "Chiniot",
+    "count": 1,
+    "lat": 31.72231,
+    "lon": 72.98025
+  },
+  {
+    "id": "daska",
+    "label": "Daska",
+    "count": 1,
+    "lat": 32.33223,
+    "lon": 74.35123
+  },
+  {
+    "id": "dera-ghazi-khan",
+    "label": "Dera Ghazi Khan",
+    "count": 1,
+    "lat": 30.03214,
+    "lon": 70.64011
+  },
+  {
+    "id": "ghotki",
+    "label": "Ghotki",
+    "count": 1,
+    "lat": 28.00666,
+    "lon": 69.3151
+  },
+  {
+    "id": "gujar-khan",
+    "label": "Gujar Khan",
+    "count": 1,
+    "lat": 33.25432,
+    "lon": 73.30657
+  },
+  {
+    "id": "gwadar",
+    "label": "Gwadar",
+    "count": 1,
+    "lat": 25.14798,
+    "lon": 62.32546
+  },
+  {
+    "id": "ismaila",
+    "label": "Ismaila",
+    "count": 1,
+    "lat": 34.22129,
+    "lon": 72.24176
+  },
+  {
+    "id": "jhang",
+    "label": "Jhang",
+    "count": 1,
+    "lat": 31.27288,
+    "lon": 72.31031
+  },
+  {
+    "id": "joharabad",
+    "label": "Joharabad",
+    "count": 1,
+    "lat": 32.28641,
+    "lon": 72.28788
+  },
+  {
+    "id": "kamoke",
+    "label": "Kamoke",
+    "count": 1,
+    "lat": 31.97493,
+    "lon": 74.22187
+  },
+  {
+    "id": "kasur",
+    "label": "Kasur",
+    "count": 1,
+    "lat": 31.11751,
+    "lon": 74.44783
+  },
+  {
+    "id": "khanewal",
+    "label": "Khanewal",
+    "count": 1,
+    "lat": 30.30225,
+    "lon": 71.92789
+  },
+  {
+    "id": "khanpur",
+    "label": "Khanpur",
+    "count": 1,
+    "lat": 28.64774,
+    "lon": 70.65601
+  },
+  {
+    "id": "layyah",
+    "label": "Layyah",
+    "count": 1,
+    "lat": 30.96487,
+    "lon": 70.9456
+  },
+  {
+    "id": "lodhran",
+    "label": "Lodhran",
+    "count": 1,
+    "lat": 29.539,
+    "lon": 71.634
+  },
+  {
+    "id": "okara",
+    "label": "Okara",
+    "count": 1,
+    "lat": 30.80913,
+    "lon": 73.44933
+  },
+  {
+    "id": "pakpattan",
+    "label": "Pakpattan",
+    "count": 1,
+    "lat": 30.34225,
+    "lon": 73.38919
+  },
+  {
+    "id": "phalia",
+    "label": "Phalia",
+    "count": 1,
+    "lat": 32.4329,
+    "lon": 73.57716
+  },
+  {
+    "id": "shorkot",
+    "label": "Shorkot",
+    "count": 1,
+    "lat": 30.83491,
+    "lon": 72.07641
+  },
+  {
+    "id": "sukkur",
+    "label": "Sukkur",
+    "count": 1,
+    "lat": 27.7052,
+    "lon": 68.8574
+  },
+  {
+    "id": "timergara",
+    "label": "Timergara",
+    "count": 1,
+    "lat": 34.82908,
+    "lon": 71.84269
+  }
+]
