@@ -3,6 +3,7 @@ import type { ReactNode } from 'react';
 import Link from 'next/link';
 import { Bricolage_Grotesque, Geist, Geist_Mono } from 'next/font/google';
 import { Analytics } from '@vercel/analytics/next';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import { SiteFooter } from '../components/SiteFooter.tsx';
 import { SiteNav } from '../components/SiteNav.tsx';
 import { SiteMenu } from '../components/SiteMenu.tsx';
@@ -79,6 +80,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         {children}
         <SiteFooter />
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
