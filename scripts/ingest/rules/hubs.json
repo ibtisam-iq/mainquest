@@ -1,0 +1,17 @@
+{
+  "note": "The city hubs: the entries of the City filter, each with a page of its own. A company joins every hub whose words appear anywhere in its operating location, office address or headquarters (lowercase containment, as in the upstream pipeline). A conditional word counts only when none of its unless words appear. A company that joins no hub is in the rest hub. cities are the city ids (from city-centroids.json) the hub stands for, first one first; the site uses them for the map, the city tiles and which office a row shows. Adding a hub here gives it a filter entry, a page and a tile at the next build, with no code change; a company is re-sorted at the next npm run data.",
+  "hubs": [
+    {
+      "id": "twin-cities",
+      "label": "Twin Cities (Islamabad and Rawalpindi)",
+      "place": "Islamabad and Rawalpindi",
+      "cities": ["islamabad", "rawalpindi"],
+      "words": ["islamabad", "rawalpindi", "islāmābād", "nstp"],
+      "conditional": [{ "word": "nastp", "unless": ["lahore", "karachi", "karāchi"] }]
+    },
+    { "id": "lahore", "label": "Lahore", "place": "Lahore", "cities": ["lahore"], "words": ["lahore"] },
+    { "id": "karachi", "label": "Karachi", "place": "Karachi", "cities": ["karachi"], "words": ["karachi", "karāchi"] },
+    { "id": "faisalabad", "label": "Faisalabad", "place": "Faisalabad", "cities": ["faisalabad"], "words": ["faisalabad", "faislabad"] }
+  ],
+  "rest": { "id": "other-cities", "label": "Other cities", "place": "other cities" }
+}

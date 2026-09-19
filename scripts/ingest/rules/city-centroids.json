@@ -1,0 +1,348 @@
+{
+  "note": "City centres used when an office is known only by its city. Islamabad and Rawalpindi match the upstream proximity engine's baselines; Faisalabad's is its Clock Tower, the city's historic centre, since the earlier point lay 6 km north-east of the city's offices. keywords are the city's names and spellings; neighbourhoods are names of places inside it that stand for the city only in an address that names no city (\"Tariq Road\" is also a road in Faisalabad, so \"Tariq Road, Faisalabad\" is in Faisalabad); postalPrefixes are the first two digits of Pakistani postal codes and are used only when no name matches. within names the larger city a town is written with, as in \"Wah Cantt, Rawalpindi\", so the town wins when both are named. Cities missing here are learned from the data: see scripts/ingest/offices.ts. roadTowns are towns whose names appear in road names without an office there (\"Jhang Road\", \"Lahore - Sheikhupura - Faisalabad Rd\"): a city name followed by a chain of city or road-town names and then Road is a road, not the city. abroad names countries and cities outside Pakistan: an office address that names one of them as a whole part and no Pakistani city (\"..., Dubai, 413098\", \"London\") is outside Pakistan and is left out. Lodhran is kept by hand because its lookup returns the tehsil rather than the town; the tehsil's centre is the town.",
+  "roadTowns": [
+    "sheikhupura",
+    "jaranwala",
+    "jhang",
+    "sargodha",
+    "samundri",
+    "chiniot",
+    "okara",
+    "murree",
+    "kashmir",
+    "satiana"
+  ],
+  "abroad": [
+    "abu dhabi",
+    "afghanistan",
+    "australia",
+    "bahrain",
+    "bangladesh",
+    "brooklyn",
+    "canada",
+    "china",
+    "doha",
+    "dubai",
+    "egypt",
+    "england",
+    "germany",
+    "india",
+    "ireland",
+    "jeddah",
+    "kabul",
+    "ksa",
+    "kuwait",
+    "london",
+    "malaysia",
+    "melbourne",
+    "muscat",
+    "netherlands",
+    "new york",
+    "oman",
+    "qatar",
+    "riyadh",
+    "saudi arabia",
+    "sharjah",
+    "singapore",
+    "spain",
+    "sri lanka",
+    "sweden",
+    "sydney",
+    "toronto",
+    "turkey",
+    "uae",
+    "uk",
+    "united arab emirates",
+    "united kingdom",
+    "united states",
+    "united states of america",
+    "usa"
+  ],
+  "cities": {
+    "abbottabad": {
+      "label": "Abbottabad",
+      "lat": 34.1688,
+      "lon": 73.2215,
+      "keywords": [
+        "abbottabad"
+      ],
+      "postalPrefixes": []
+    },
+    "bahawalpur": {
+      "label": "Bahawalpur",
+      "lat": 29.3956,
+      "lon": 71.6836,
+      "keywords": [
+        "bahawalpur"
+      ],
+      "postalPrefixes": []
+    },
+    "faisalabad": {
+      "label": "Faisalabad",
+      "lat": 31.4187,
+      "lon": 73.0791,
+      "keywords": [
+        "faisalabad",
+        "faislabad",
+        "lyallpur"
+      ],
+      "postalPrefixes": [
+        "38"
+      ]
+    },
+    "gilgit": {
+      "label": "Gilgit",
+      "lat": 35.9208,
+      "lon": 74.308,
+      "keywords": [
+        "gilgit"
+      ],
+      "postalPrefixes": []
+    },
+    "gujranwala": {
+      "label": "Gujranwala",
+      "lat": 32.1877,
+      "lon": 74.1945,
+      "keywords": [
+        "gujranwala"
+      ],
+      "postalPrefixes": [
+        "52"
+      ]
+    },
+    "gujrat": {
+      "label": "Gujrat",
+      "lat": 32.5739,
+      "lon": 74.079,
+      "keywords": [
+        "gujrat"
+      ],
+      "postalPrefixes": []
+    },
+    "haripur": {
+      "label": "Haripur",
+      "lat": 33.9946,
+      "lon": 72.9106,
+      "keywords": [
+        "haripur"
+      ],
+      "postalPrefixes": []
+    },
+    "hyderabad": {
+      "label": "Hyderabad",
+      "lat": 25.396,
+      "lon": 68.3578,
+      "keywords": [
+        "hyderabad"
+      ],
+      "postalPrefixes": [
+        "71"
+      ]
+    },
+    "islamabad": {
+      "label": "Islamabad",
+      "lat": 33.693,
+      "lon": 73.065,
+      "keywords": [
+        "islamabad",
+        "islambad",
+        "isb",
+        "ict",
+        "islamabad capital territory",
+        "islamabd"
+      ],
+      "postalPrefixes": [
+        "44"
+      ]
+    },
+    "jhelum": {
+      "label": "Jhelum",
+      "lat": 32.9405,
+      "lon": 73.7276,
+      "keywords": [
+        "jhelum"
+      ],
+      "postalPrefixes": []
+    },
+    "karachi": {
+      "label": "Karachi",
+      "lat": 24.8607,
+      "lon": 67.0011,
+      "keywords": [
+        "karachi",
+        "khi"
+      ],
+      "neighbourhoods": [
+        "clifton",
+        "north nazimabad",
+        "nazimabad",
+        "gulshan e iqbal",
+        "gulistan e jauhar",
+        "korangi",
+        "pechs",
+        "shahrah e faisal",
+        "dha city",
+        "bahadurabad",
+        "tariq road"
+      ],
+      "postalPrefixes": [
+        "74",
+        "75"
+      ]
+    },
+    "lahore": {
+      "label": "Lahore",
+      "lat": 31.5204,
+      "lon": 74.3587,
+      "keywords": [
+        "lahore",
+        "lhr"
+      ],
+      "postalPrefixes": [
+        "54"
+      ]
+    },
+    "lodhran": {
+      "label": "Lodhran",
+      "lat": 29.539,
+      "lon": 71.634,
+      "keywords": [
+        "lodhran"
+      ],
+      "postalPrefixes": []
+    },
+    "mardan": {
+      "label": "Mardan",
+      "lat": 34.1986,
+      "lon": 72.0404,
+      "keywords": [
+        "mardan"
+      ],
+      "postalPrefixes": []
+    },
+    "mirpur": {
+      "label": "Mirpur",
+      "lat": 33.1484,
+      "lon": 73.7518,
+      "keywords": [
+        "mirpur"
+      ],
+      "postalPrefixes": []
+    },
+    "multan": {
+      "label": "Multan",
+      "lat": 30.1575,
+      "lon": 71.5249,
+      "keywords": [
+        "multan"
+      ],
+      "postalPrefixes": [
+        "60"
+      ]
+    },
+    "muzaffarabad": {
+      "label": "Muzaffarabad",
+      "lat": 34.37,
+      "lon": 73.4711,
+      "keywords": [
+        "muzaffarabad"
+      ],
+      "postalPrefixes": []
+    },
+    "peshawar": {
+      "label": "Peshawar",
+      "lat": 34.0151,
+      "lon": 71.5249,
+      "keywords": [
+        "peshawar"
+      ],
+      "postalPrefixes": [
+        "25"
+      ]
+    },
+    "quetta": {
+      "label": "Quetta",
+      "lat": 30.1798,
+      "lon": 66.975,
+      "keywords": [
+        "quetta",
+        "queta"
+      ],
+      "postalPrefixes": [
+        "87"
+      ]
+    },
+    "rawalpindi": {
+      "label": "Rawalpindi",
+      "lat": 33.595,
+      "lon": 73.055,
+      "keywords": [
+        "rawalpindi",
+        "rwp",
+        "pindi"
+      ],
+      "postalPrefixes": [
+        "46"
+      ]
+    },
+    "sargodha": {
+      "label": "Sargodha",
+      "lat": 32.0836,
+      "lon": 72.6711,
+      "keywords": [
+        "sargodha"
+      ],
+      "postalPrefixes": []
+    },
+    "sialkot": {
+      "label": "Sialkot",
+      "lat": 32.4945,
+      "lon": 74.5229,
+      "keywords": [
+        "sialkot"
+      ],
+      "postalPrefixes": [
+        "51"
+      ]
+    },
+    "skardu": {
+      "label": "Skardu",
+      "lat": 35.2971,
+      "lon": 75.6333,
+      "keywords": [
+        "skardu"
+      ],
+      "postalPrefixes": []
+    },
+    "sukkur": {
+      "label": "Sukkur",
+      "lat": 27.7052,
+      "lon": 68.8574,
+      "keywords": [
+        "sukkur"
+      ],
+      "postalPrefixes": []
+    },
+    "taxila": {
+      "label": "Taxila",
+      "lat": 33.7463,
+      "lon": 72.8397,
+      "keywords": [
+        "taxila"
+      ],
+      "postalPrefixes": [],
+      "within": "rawalpindi"
+    },
+    "wah": {
+      "label": "Wah Cantt",
+      "lat": 33.7715,
+      "lon": 72.7511,
+      "keywords": [
+        "wah cantt",
+        "wah"
+      ],
+      "postalPrefixes": [],
+      "within": "rawalpindi"
+    }
+  }
+}

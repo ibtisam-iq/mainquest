@@ -1,0 +1,5 @@
+{
+  "note": "Area ids are city:slug. aliases merges spellings of the same area; labels overrides the display name.",
+  "aliases": {},
+  "labels": {}
+}

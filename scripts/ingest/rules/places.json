@@ -1,0 +1,3174 @@
+{
+  "note": "Well-known places, checked before the geocoder. Each match is a list of phrases that must all appear in the address (compared on folded text, token by token), and only inside the listed cities. Coordinates come from geocoding each place's query once; see scripts/geocode.ts. A place may carry a fixed \"point\" instead, with a note saying how it was verified. Places whose lookups could not be verified are left out, so their addresses fall back to the geocoder or to city level. A place may list except: names that contain its own but lie elsewhere (\"Al-Faisal Town\" is not Faisal Town); an address naming one does not match the place.",
+  "places": [
+    {
+      "id": "islamabad:d-12",
+      "label": "D-12",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "D-12, Islamabad",
+      "match": [
+        [
+          "d 12"
+        ],
+        [
+          "d12"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:d-13",
+      "label": "D-13",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "D-13, Islamabad",
+      "match": [
+        [
+          "d 13"
+        ],
+        [
+          "d13"
+        ]
+      ],
+      "point": [
+        33.6923,
+        72.9319
+      ],
+      "pointNote": "The centre of the sector on the Islamabad sector grid, fitted to the 34 sectors the geocoder found; all 34 lie within 0.8 km of that grid."
+    },
+    {
+      "id": "islamabad:e-7",
+      "label": "E-7",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "E-7, Islamabad",
+      "match": [
+        [
+          "e 7"
+        ],
+        [
+          "e7"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:e-8",
+      "label": "E-8",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "E-8, Islamabad",
+      "match": [
+        [
+          "e 8"
+        ],
+        [
+          "e8"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:e-9",
+      "label": "E-9",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "E-9, Islamabad",
+      "match": [
+        [
+          "e 9"
+        ],
+        [
+          "e9"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:e-10",
+      "label": "E-10",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "E-10, Islamabad",
+      "match": [
+        [
+          "e 10"
+        ],
+        [
+          "e10"
+        ]
+      ],
+      "point": [
+        33.7053,
+        72.9947
+      ],
+      "pointNote": "The centre of the sector on the Islamabad sector grid, fitted to the 34 sectors the geocoder found; all 34 lie within 0.8 km of that grid."
+    },
+    {
+      "id": "islamabad:e-11",
+      "label": "E-11",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "E-11, Islamabad",
+      "match": [
+        [
+          "e 11"
+        ],
+        [
+          "e11"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:e-12",
+      "label": "E-12",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "E-12, Islamabad",
+      "match": [
+        [
+          "e 12"
+        ],
+        [
+          "e12"
+        ]
+      ],
+      "point": [
+        33.6873,
+        72.9599
+      ],
+      "pointNote": "The centre of the sector on the Islamabad sector grid, fitted to the 34 sectors the geocoder found; all 34 lie within 0.8 km of that grid."
+    },
+    {
+      "id": "islamabad:f-5",
+      "label": "F-5",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "F-5, Islamabad",
+      "match": [
+        [
+          "f 5"
+        ],
+        [
+          "f5"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:f-6",
+      "label": "F-6",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "F-6, Islamabad",
+      "match": [
+        [
+          "f 6"
+        ],
+        [
+          "f6"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:f-7",
+      "label": "F-7",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "F-7, Islamabad",
+      "match": [
+        [
+          "f 7"
+        ],
+        [
+          "f7"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:f-8",
+      "label": "F-8",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "F-8, Islamabad",
+      "match": [
+        [
+          "f 8"
+        ],
+        [
+          "f8"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:f-9",
+      "label": "F-9",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "F-9, Islamabad",
+      "match": [
+        [
+          "f 9"
+        ],
+        [
+          "f9"
+        ]
+      ],
+      "point": [
+        33.7004,
+        73.0226
+      ],
+      "pointNote": "The centre of the sector on the Islamabad sector grid, fitted to the 34 sectors the geocoder found; all 34 lie within 0.8 km of that grid."
+    },
+    {
+      "id": "islamabad:f-10",
+      "label": "F-10",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "F-10, Islamabad",
+      "match": [
+        [
+          "f 10"
+        ],
+        [
+          "f10"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:f-11",
+      "label": "F-11",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "F-11, Islamabad",
+      "match": [
+        [
+          "f 11"
+        ],
+        [
+          "f11"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:g-5",
+      "label": "G-5",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "G-5, Islamabad",
+      "match": [
+        [
+          "g 5"
+        ],
+        [
+          "g5"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:g-6",
+      "label": "G-6",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "G-6, Islamabad",
+      "match": [
+        [
+          "g 6"
+        ],
+        [
+          "g6"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:g-7",
+      "label": "G-7",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "G-7, Islamabad",
+      "match": [
+        [
+          "g 7"
+        ],
+        [
+          "g7"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:g-8",
+      "label": "G-8",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "G-8, Islamabad",
+      "match": [
+        [
+          "g 8"
+        ],
+        [
+          "g8"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:g-9",
+      "label": "G-9",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "G-9, Islamabad",
+      "match": [
+        [
+          "g 9"
+        ],
+        [
+          "g9"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:g-10",
+      "label": "G-10",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "G-10, Islamabad",
+      "match": [
+        [
+          "g 10"
+        ],
+        [
+          "g10"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:g-11",
+      "label": "G-11",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "G-11, Islamabad",
+      "match": [
+        [
+          "g 11"
+        ],
+        [
+          "g11"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:g-12",
+      "label": "G-12",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "G-12, Islamabad",
+      "match": [
+        [
+          "g 12"
+        ],
+        [
+          "g12"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:g-13",
+      "label": "G-13",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "G-13, Islamabad",
+      "match": [
+        [
+          "g 13"
+        ],
+        [
+          "g13"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:g-14",
+      "label": "G-14",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "G-14, Islamabad",
+      "match": [
+        [
+          "g 14"
+        ],
+        [
+          "g14"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:g-15",
+      "label": "G-15",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "G-15, Islamabad",
+      "match": [
+        [
+          "g 15"
+        ],
+        [
+          "g15"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:h-8",
+      "label": "H-8",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "H-8, Islamabad",
+      "match": [
+        [
+          "h 8"
+        ],
+        [
+          "h8"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:h-9",
+      "label": "H-9",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "H-9, Islamabad",
+      "match": [
+        [
+          "h 9"
+        ],
+        [
+          "h9"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:h-10",
+      "label": "H-10",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "H-10, Islamabad",
+      "match": [
+        [
+          "h 10"
+        ],
+        [
+          "h10"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:h-11",
+      "label": "H-11",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "H-11, Islamabad",
+      "match": [
+        [
+          "h 11"
+        ],
+        [
+          "h11"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:h-12",
+      "label": "H-12",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "H-12, Islamabad",
+      "match": [
+        [
+          "h 12"
+        ],
+        [
+          "h12"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:h-13",
+      "label": "H-13",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "H-13, Islamabad",
+      "match": [
+        [
+          "h 13"
+        ],
+        [
+          "h13"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:i-8",
+      "label": "I-8",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "I-8, Islamabad",
+      "match": [
+        [
+          "i 8"
+        ],
+        [
+          "i8"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:i-9",
+      "label": "I-9",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "I-9, Islamabad",
+      "match": [
+        [
+          "i 9"
+        ],
+        [
+          "i9"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:i-10",
+      "label": "I-10",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "I-10, Islamabad",
+      "match": [
+        [
+          "i 10"
+        ],
+        [
+          "i10"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:i-11",
+      "label": "I-11",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "I-11, Islamabad",
+      "match": [
+        [
+          "i 11"
+        ],
+        [
+          "i11"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:i-12",
+      "label": "I-12",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "I-12, Islamabad",
+      "match": [
+        [
+          "i 12"
+        ],
+        [
+          "i12"
+        ]
+      ],
+      "point": [
+        33.6315,
+        73.0022
+      ],
+      "pointNote": "The centre of the sector on the Islamabad sector grid, fitted to the 34 sectors the geocoder found; all 34 lie within 0.8 km of that grid."
+    },
+    {
+      "id": "islamabad:i-14",
+      "label": "I-14",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "I-14, Islamabad",
+      "match": [
+        [
+          "i 14"
+        ],
+        [
+          "i14"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:i-16",
+      "label": "I-16",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "I-16, Islamabad",
+      "match": [
+        [
+          "i 16"
+        ],
+        [
+          "i16"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:blue-area",
+      "label": "Blue Area",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "Blue Area, Islamabad",
+      "match": [
+        [
+          "blue area"
+        ],
+        [
+          "jinnah avenue"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:gulberg-greens",
+      "label": "Gulberg Greens",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Gulberg Green, Islamabad",
+      "match": [
+        [
+          "gulberg greens"
+        ],
+        [
+          "gulberg green"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:gulberg-residencia",
+      "label": "Gulberg Residencia",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Gulberg Residencia, Islamabad",
+      "match": [
+        [
+          "gulberg residencia"
+        ]
+      ],
+      "point": [
+        33.59976,
+        73.20998
+      ],
+      "pointNote": "Block D Markaz, from the Plus Code H6X5+WX5 one of its addresses gives (8J5MH6X5+WX5); the place's own lookup finds nothing. It lies 0.2 km from the \"Gulberg Markaz\" point a lookup of Gulberg Greens once returned, 5 km east of Gulberg Green."
+    },
+    {
+      "id": "islamabad:ghauri-town",
+      "label": "Ghauri Town",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Ghauri Town, Islamabad",
+      "match": [
+        [
+          "ghauri town"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:dha-phase-1",
+      "label": "DHA Phase 1",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "DHA Phase 1, Islamabad",
+      "match": [
+        [
+          "dha",
+          "phase 1"
+        ],
+        [
+          "dha",
+          "phase i"
+        ],
+        [
+          "dha 1"
+        ],
+        [
+          "dha i"
+        ],
+        [
+          "defence",
+          "phase 1"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:dha-phase-2",
+      "label": "DHA Phase 2",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "DHA Phase 2, Islamabad",
+      "match": [
+        [
+          "dha",
+          "phase 2"
+        ],
+        [
+          "dha",
+          "phase ii"
+        ],
+        [
+          "dha 2"
+        ],
+        [
+          "dha ii"
+        ],
+        [
+          "defence",
+          "phase 2"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:bahria-enclave",
+      "label": "Bahria Enclave",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "Bahria Enclave, Islamabad",
+      "match": [
+        [
+          "bahria enclave"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:nust-nstp",
+      "label": "NUST and NSTP, H-12",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "National University of Sciences and Technology, Islamabad",
+      "match": [
+        [
+          "nstp"
+        ],
+        [
+          "nust"
+        ],
+        [
+          "national science and technology park"
+        ]
+      ],
+      "except": [
+        "peshawar road"
+      ]
+    },
+    {
+      "id": "islamabad:soan-gardens",
+      "label": "Soan Gardens",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Soan Gardens, Islamabad",
+      "match": [
+        [
+          "soan garden"
+        ],
+        [
+          "soan gardens"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:pwd",
+      "label": "PWD Housing Society",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "PWD Housing Society, Islamabad",
+      "match": [
+        [
+          "pwd"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:police-foundation",
+      "label": "Police Foundation",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Police Foundation, Islamabad",
+      "match": [
+        [
+          "police foundation"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:korang-town",
+      "label": "Korang Town",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Korang Town, Islamabad",
+      "match": [
+        [
+          "korang town"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:media-town",
+      "label": "Media Town",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Media Town, Rawalpindi",
+      "match": [
+        [
+          "media town"
+        ]
+      ]
+    },
+    {
+      "id": "islamabad:bani-gala",
+      "label": "Bani Gala",
+      "cities": [
+        "islamabad"
+      ],
+      "query": "Bani Gala, Islamabad",
+      "match": [
+        [
+          "bani gala"
+        ]
+      ]
+    },
+    {
+      "id": "rawalpindi:bahria-town-phase-1",
+      "label": "Bahria Town Phase 1",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Bahria Town Phase 1, Rawalpindi",
+      "match": [
+        [
+          "bahria",
+          "phase 1"
+        ],
+        [
+          "bahria",
+          "phase i"
+        ]
+      ],
+      "except": [
+        "bahria enclave"
+      ]
+    },
+    {
+      "id": "rawalpindi:bahria-town-phase-3",
+      "label": "Bahria Town Phase 3",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Bahria Town Phase 3, Rawalpindi",
+      "match": [
+        [
+          "bahria",
+          "phase 3"
+        ],
+        [
+          "bahria",
+          "phase iii"
+        ]
+      ],
+      "except": [
+        "bahria enclave"
+      ]
+    },
+    {
+      "id": "rawalpindi:bahria-town-phase-4",
+      "label": "Bahria Town Phase 4",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Bahria Town Phase 4, Rawalpindi",
+      "match": [
+        [
+          "bahria",
+          "phase 4"
+        ],
+        [
+          "bahria",
+          "phase iv"
+        ],
+        [
+          "civic center",
+          "bahria"
+        ],
+        [
+          "civic centre",
+          "bahria"
+        ],
+        [
+          "civic center",
+          "phase 4"
+        ],
+        [
+          "civic centre",
+          "phase 4"
+        ]
+      ],
+      "except": [
+        "bahria enclave"
+      ]
+    },
+    {
+      "id": "rawalpindi:bahria-town-phase-7",
+      "label": "Bahria Town Phase 7",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Bahria Town Phase 7, Rawalpindi",
+      "match": [
+        [
+          "bahria",
+          "phase 7"
+        ],
+        [
+          "bahria",
+          "phase vii"
+        ],
+        [
+          "spring north"
+        ],
+        [
+          "springs north"
+        ]
+      ],
+      "point": [
+        33.53,
+        73.11
+      ],
+      "pointNote": "Set by hand: the geocoder returns a point inside Phase 1 for this query. This point comes from the upstream landmark table, and a reverse lookup there names Bahria Town Phase 7.",
+      "except": [
+        "bahria enclave"
+      ]
+    },
+    {
+      "id": "rawalpindi:bahria-town-phase-8",
+      "label": "Bahria Town Phase 8",
+      "cities": [
+        "islamabad",
+        "rawalpindi"
+      ],
+      "query": "Bahria Town Phase 8, Rawalpindi",
+      "match": [
+        [
+          "bahria",
+          "phase 8"
+        ],
+        [
+          "bahria",
+          "phase viii"
+        ]
+      ],
+      "except": [
+        "bahria enclave"
+      ]
+    },
+    {
+      "id": "rawalpindi:satellite-town",
+      "label": "Satellite Town",
+      "cities": [
+        "rawalpindi"
+      ],
+      "query": "Satellite Town, Rawalpindi",
+      "match": [
+        [
+          "satellite town"
+        ],
+        [
+          "6th road"
+        ],
+        [
+          "5th road"
+        ],
+        [
+          "4th road"
+        ],
+        [
+          "commercial market"
+        ]
+      ]
+    },
+    {
+      "id": "rawalpindi:saddar",
+      "label": "Saddar",
+      "cities": [
+        "rawalpindi"
+      ],
+      "query": "Saddar Bazaar, Rawalpindi",
+      "match": [
+        [
+          "saddar"
+        ],
+        [
+          "haider road"
+        ],
+        [
+          "bank road"
+        ],
+        [
+          "kashmir road"
+        ]
+      ]
+    },
+    {
+      "id": "rawalpindi:chaklala-scheme-3",
+      "label": "Chaklala Scheme 3",
+      "cities": [
+        "rawalpindi"
+      ],
+      "query": "Chaklala Scheme 3, Rawalpindi",
+      "match": [
+        [
+          "chaklala scheme 3"
+        ],
+        [
+          "chaklala scheme iii"
+        ]
+      ]
+    },
+    {
+      "id": "rawalpindi:nastp",
+      "label": "NASTP, Chaklala",
+      "cities": [
+        "rawalpindi",
+        "islamabad"
+      ],
+      "query": "PAF Base Nur Khan",
+      "match": [
+        [
+          "nastp"
+        ],
+        [
+          "national aerospace"
+        ],
+        [
+          "alpha techno square"
+        ]
+      ]
+    },
+    {
+      "id": "rawalpindi:westridge",
+      "label": "Westridge",
+      "cities": [
+        "rawalpindi"
+      ],
+      "query": "Westridge, Rawalpindi",
+      "match": [
+        [
+          "westridge"
+        ]
+      ]
+    },
+    {
+      "id": "rawalpindi:morgah",
+      "label": "Morgah",
+      "cities": [
+        "rawalpindi"
+      ],
+      "query": "Morgah, Rawalpindi",
+      "match": [
+        [
+          "morgah"
+        ],
+        [
+          "ayub park"
+        ],
+        [
+          "ayub national park"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:johar-town",
+      "label": "Johar Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Johar Town, Lahore",
+      "match": [
+        [
+          "johar town"
+        ],
+        [
+          "joher town"
+        ],
+        [
+          "johar twon"
+        ],
+        [
+          "johor town"
+        ],
+        [
+          "johar"
+        ],
+        [
+          "johartown"
+        ],
+        [
+          "johar towm"
+        ],
+        [
+          "johan town"
+        ],
+        [
+          "johr town"
+        ],
+        [
+          "emporium mall"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:gulberg",
+      "label": "Gulberg",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Gulberg III, Lahore",
+      "match": [
+        [
+          "gulberg"
+        ],
+        [
+          "mm alam"
+        ],
+        [
+          "m m alam"
+        ],
+        [
+          "firdous market"
+        ],
+        [
+          "hafeez center"
+        ],
+        [
+          "hafeez centre"
+        ],
+        [
+          "gullberg"
+        ],
+        [
+          "gulburg"
+        ],
+        [
+          "gulbarg"
+        ],
+        [
+          "gulberg3"
+        ],
+        [
+          "siddiq trade"
+        ],
+        [
+          "siddique trade"
+        ],
+        [
+          "siddiqu trade"
+        ],
+        [
+          "it tower"
+        ],
+        [
+          "i t tower"
+        ],
+        [
+          "tricon corporate"
+        ],
+        [
+          "hafeez heights"
+        ],
+        [
+          "mega tower"
+        ],
+        [
+          "high q tower"
+        ],
+        [
+          "highq tower"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:model-town",
+      "label": "Model Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Model Town, Lahore",
+      "match": [
+        [
+          "model town"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:garden-town",
+      "label": "Garden Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Garden Town, Lahore",
+      "match": [
+        [
+          "garden town"
+        ],
+        [
+          "barkat market"
+        ],
+        [
+          "garden towwn"
+        ],
+        [
+          "garden block"
+        ],
+        [
+          "aibak block"
+        ],
+        [
+          "babar block"
+        ],
+        [
+          "tipu block"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:faisal-town",
+      "label": "Faisal Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Faisal Town, Lahore",
+      "match": [
+        [
+          "faisal town"
+        ],
+        [
+          "fasial town"
+        ],
+        [
+          "faisaltown"
+        ]
+      ],
+      "except": [
+        "al faisal town"
+      ]
+    },
+    {
+      "id": "lahore:wapda-town",
+      "label": "Wapda Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Wapda Town, Lahore",
+      "match": [
+        [
+          "wapda town"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:valencia-town",
+      "label": "Valencia Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Valencia Town, Lahore",
+      "match": [
+        [
+          "valencia"
+        ],
+        [
+          "valancia"
+        ],
+        [
+          "valenica"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:allama-iqbal-town",
+      "label": "Allama Iqbal Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Allama Iqbal Town, Lahore",
+      "match": [
+        [
+          "iqbal town"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:township",
+      "label": "Township",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Township, Lahore",
+      "match": [
+        [
+          "township"
+        ],
+        [
+          "town ship"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:cantt",
+      "label": "Lahore Cantt",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Cantt, Lahore",
+      "match": [
+        [
+          "cantt"
+        ],
+        [
+          "cantonment"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:bahria-town",
+      "label": "Bahria Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Bahria Town, Lahore",
+      "match": [
+        [
+          "bahria town"
+        ],
+        [
+          "bahria"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:bahria-orchard",
+      "label": "Bahria Orchard",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Bahria Orchard, Lahore",
+      "match": [
+        [
+          "bahria orchard"
+        ],
+        [
+          "bahria orchid"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:arfa-tower",
+      "label": "Arfa Software Technology Park",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Arfa Software Technology Park, Lahore",
+      "match": [
+        [
+          "arfa"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:cavalry-ground",
+      "label": "Cavalry Ground",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Cavalry Ground, Lahore",
+      "match": [
+        [
+          "cavalry"
+        ],
+        [
+          "cavalary"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:dha-phase-1",
+      "label": "DHA Phase 1",
+      "cities": [
+        "lahore"
+      ],
+      "query": "DHA Phase 1, Lahore",
+      "match": [
+        [
+          "dha",
+          "phase 1"
+        ],
+        [
+          "dha",
+          "phase i"
+        ],
+        [
+          "defence",
+          "phase 1"
+        ],
+        [
+          "cca",
+          "phase 1"
+        ],
+        [
+          "dha 1"
+        ],
+        [
+          "dha i"
+        ]
+      ],
+      "except": [
+        "rahbar"
+      ]
+    },
+    {
+      "id": "lahore:dha-phase-2",
+      "label": "DHA Phase 2",
+      "cities": [
+        "lahore"
+      ],
+      "query": "DHA Phase 2, Lahore",
+      "match": [
+        [
+          "dha",
+          "phase 2"
+        ],
+        [
+          "dha",
+          "phase ii"
+        ],
+        [
+          "defence",
+          "phase 2"
+        ],
+        [
+          "haly tower"
+        ],
+        [
+          "hally tower"
+        ],
+        [
+          "halytower"
+        ],
+        [
+          "cca",
+          "phase 2"
+        ],
+        [
+          "dha 2"
+        ],
+        [
+          "dha ii"
+        ]
+      ],
+      "except": [
+        "rahbar"
+      ]
+    },
+    {
+      "id": "lahore:dha-phase-3",
+      "label": "DHA Phase 3",
+      "cities": [
+        "lahore"
+      ],
+      "query": "DHA Phase 3, Lahore",
+      "match": [
+        [
+          "dha",
+          "phase 3"
+        ],
+        [
+          "dha",
+          "phase iii"
+        ],
+        [
+          "defence",
+          "phase 3"
+        ],
+        [
+          "cca",
+          "phase 3"
+        ],
+        [
+          "dha 3"
+        ],
+        [
+          "dha iii"
+        ]
+      ],
+      "except": [
+        "rahbar"
+      ]
+    },
+    {
+      "id": "lahore:dha-phase-4",
+      "label": "DHA Phase 4",
+      "cities": [
+        "lahore"
+      ],
+      "query": "DHA Phase 4, Lahore",
+      "match": [
+        [
+          "dha",
+          "phase 4"
+        ],
+        [
+          "dha",
+          "phase iv"
+        ],
+        [
+          "defence",
+          "phase 4"
+        ],
+        [
+          "cca",
+          "phase 4"
+        ],
+        [
+          "dha 4"
+        ],
+        [
+          "dha iv"
+        ]
+      ],
+      "except": [
+        "rahbar"
+      ]
+    },
+    {
+      "id": "lahore:dha-phase-5",
+      "label": "DHA Phase 5",
+      "cities": [
+        "lahore"
+      ],
+      "query": "DHA Phase 5, Lahore",
+      "match": [
+        [
+          "dha",
+          "phase 5"
+        ],
+        [
+          "dha",
+          "phase v"
+        ],
+        [
+          "defence",
+          "phase 5"
+        ],
+        [
+          "cca",
+          "phase 5"
+        ],
+        [
+          "dha 5"
+        ],
+        [
+          "dha v"
+        ]
+      ],
+      "except": [
+        "rahbar"
+      ]
+    },
+    {
+      "id": "lahore:dha-phase-6",
+      "label": "DHA Phase 6",
+      "cities": [
+        "lahore"
+      ],
+      "query": "DHA Phase 6, Lahore",
+      "match": [
+        [
+          "dha",
+          "phase 6"
+        ],
+        [
+          "dha",
+          "phase vi"
+        ],
+        [
+          "defence",
+          "phase 6"
+        ],
+        [
+          "raya"
+        ],
+        [
+          "cca",
+          "phase 6"
+        ],
+        [
+          "dha 6"
+        ],
+        [
+          "dha vi"
+        ]
+      ],
+      "except": [
+        "rahbar"
+      ]
+    },
+    {
+      "id": "lahore:dha-phase-7",
+      "label": "DHA Phase 7",
+      "cities": [
+        "lahore"
+      ],
+      "query": "DHA Phase 7, Lahore",
+      "match": [
+        [
+          "dha",
+          "phase 7"
+        ],
+        [
+          "dha",
+          "phase vii"
+        ],
+        [
+          "defence",
+          "phase 7"
+        ],
+        [
+          "cca",
+          "phase 7"
+        ],
+        [
+          "dha 7"
+        ],
+        [
+          "dha vii"
+        ]
+      ],
+      "except": [
+        "rahbar"
+      ]
+    },
+    {
+      "id": "lahore:dha-phase-8",
+      "label": "DHA Phase 8",
+      "cities": [
+        "lahore"
+      ],
+      "query": "DHA Phase 8, Lahore",
+      "match": [
+        [
+          "dha",
+          "phase 8"
+        ],
+        [
+          "dha",
+          "phase viii"
+        ],
+        [
+          "defence",
+          "phase 8"
+        ],
+        [
+          "cca",
+          "phase 8"
+        ],
+        [
+          "dha 8"
+        ],
+        [
+          "dha viii"
+        ]
+      ],
+      "except": [
+        "rahbar"
+      ]
+    },
+    {
+      "id": "lahore:dha-phase-9",
+      "label": "DHA Phase 9",
+      "cities": [
+        "lahore"
+      ],
+      "query": "DHA Phase 9, Lahore",
+      "match": [
+        [
+          "dha",
+          "phase 9"
+        ],
+        [
+          "dha",
+          "phase ix"
+        ],
+        [
+          "defence",
+          "phase 9"
+        ],
+        [
+          "cca",
+          "phase 9"
+        ],
+        [
+          "dha 9"
+        ],
+        [
+          "dha ix"
+        ]
+      ],
+      "except": [
+        "rahbar"
+      ]
+    },
+    {
+      "id": "lahore:muslim-town",
+      "label": "Muslim Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Muslim Town, Lahore",
+      "match": [
+        [
+          "muslim town"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:paragon-city",
+      "label": "Paragon City",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Paragon City, Lahore",
+      "match": [
+        [
+          "paragon city"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:nawab-town",
+      "label": "Nawab Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Nawab Town, Lahore",
+      "match": [
+        [
+          "nawab town"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:pia-housing-society",
+      "label": "PIA Housing Society",
+      "cities": [
+        "lahore"
+      ],
+      "query": "PIA Housing Society, Lahore",
+      "match": [
+        [
+          "pia"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:ali-town",
+      "label": "Ali Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Ali Town, Lahore",
+      "match": [
+        [
+          "ali town"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:new-iqbal-park",
+      "label": "New Iqbal Park",
+      "cities": [
+        "lahore"
+      ],
+      "query": "New Iqbal Park, Lahore",
+      "match": [
+        [
+          "new iqbal park"
+        ],
+        [
+          "iqbal park",
+          "dha"
+        ],
+        [
+          "iqbal park",
+          "d h a"
+        ],
+        [
+          "iqbal park",
+          "defence"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:lake-city",
+      "label": "Lake City",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Lake City, Lahore",
+      "match": [
+        [
+          "lake city"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:mustafa-town",
+      "label": "Mustafa Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Mustafa Town, Lahore",
+      "match": [
+        [
+          "mustafa town"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:canal-view",
+      "label": "Canal View Society",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Canal View Housing Society, Lahore",
+      "match": [
+        [
+          "canal view"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:harbanspura",
+      "label": "Harbanspura",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Harbanspura, Lahore",
+      "match": [
+        [
+          "harbanspura"
+        ],
+        [
+          "harbans pura"
+        ],
+        [
+          "hurbenspura"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:dha-phase-12",
+      "label": "DHA Phase 12 (EME)",
+      "cities": [
+        "lahore"
+      ],
+      "query": "DHA EME Sector, Lahore",
+      "match": [
+        [
+          "eme"
+        ],
+        [
+          "dha",
+          "phase 12"
+        ],
+        [
+          "defence",
+          "phase 12"
+        ],
+        [
+          "dha 12"
+        ],
+        [
+          "dha xii"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:mughalpura",
+      "label": "Mughalpura",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Mughalpura, Lahore",
+      "match": [
+        [
+          "mughalpura"
+        ],
+        [
+          "mughal pura"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:rehman-gardens",
+      "label": "Rehman Gardens",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Rehman Gardens, Lahore",
+      "match": [
+        [
+          "rehman garden"
+        ],
+        [
+          "rehman gardens"
+        ]
+      ],
+      "except": [
+        "al rehman garden"
+      ]
+    },
+    {
+      "id": "lahore:izmir-town",
+      "label": "Izmir Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Izmir Town, Lahore",
+      "match": [
+        [
+          "izmir"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:nespak-society",
+      "label": "NESPAK Housing Society",
+      "cities": [
+        "lahore"
+      ],
+      "query": "NESPAK Housing Society, Lahore",
+      "match": [
+        [
+          "nespak"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:sabzazar",
+      "label": "Sabzazar",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Sabzazar, Lahore",
+      "match": [
+        [
+          "sabzazar"
+        ],
+        [
+          "sabza zar"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:thokar-niaz-baig",
+      "label": "Thokar Niaz Baig",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Thokar Niaz Baig, Lahore",
+      "match": [
+        [
+          "thokar"
+        ],
+        [
+          "thoker"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:kot-lakhpat",
+      "label": "Kot Lakhpat",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Kot Lakhpat, Lahore",
+      "match": [
+        [
+          "kot lakhpat"
+        ],
+        [
+          "azam industrial"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:shadman",
+      "label": "Shadman",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Shadman, Lahore",
+      "match": [
+        [
+          "shadman"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:upper-mall",
+      "label": "Upper Mall",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Upper Mall, Lahore",
+      "match": [
+        [
+          "upper mall"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:askari-11",
+      "label": "Askari 11",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Askari XI, Lahore",
+      "match": [
+        [
+          "askari 11"
+        ],
+        [
+          "askari xi"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:tech-society",
+      "label": "Tech Society",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Tech Society, Lahore",
+      "match": [
+        [
+          "tech society"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:uet-housing-society",
+      "label": "UET Housing Society",
+      "cities": [
+        "lahore"
+      ],
+      "query": "UET Housing Society, Lahore",
+      "match": [
+        [
+          "uet housing"
+        ],
+        [
+          "uet society"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:chinar-bagh",
+      "label": "Chinar Bagh",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Chinar Bagh, Lahore",
+      "match": [
+        [
+          "chinar bagh"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:super-town",
+      "label": "Super Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Super Town, Lahore",
+      "match": [
+        [
+          "super town"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:wafaqi-colony",
+      "label": "Wafaqi Colony",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Wafaqi Colony, Lahore",
+      "match": [
+        [
+          "wafaqi colony"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:green-town",
+      "label": "Green Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Green Town, Lahore",
+      "match": [
+        [
+          "green town"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:fazaia-housing-scheme",
+      "label": "Fazaia Housing Scheme",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Fazaia Housing Scheme, Lahore",
+      "match": [
+        [
+          "fazaia"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:punjab-society",
+      "label": "Punjab Cooperative Housing Society",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Punjab Cooperative Housing Society, Lahore",
+      "match": [
+        [
+          "punjab society"
+        ],
+        [
+          "punjab cooperative housing"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:guldasht-town",
+      "label": "Guldasht Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Guldasht Town, Lahore",
+      "match": [
+        [
+          "guldasht"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:tajpura",
+      "label": "Tajpura",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Tajpura, Lahore",
+      "match": [
+        [
+          "tajpura"
+        ],
+        [
+          "taj pura"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:shah-jamal",
+      "label": "Shah Jamal",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Shah Jamal, Lahore",
+      "match": [
+        [
+          "shah jamal"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:garhi-shahu",
+      "label": "Garhi Shahu",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Garhi Shahu, Lahore",
+      "match": [
+        [
+          "garhi shahu"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:mozang",
+      "label": "Mozang",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Mozang, Lahore",
+      "match": [
+        [
+          "mozang"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:muhafiz-town",
+      "label": "Muhafiz Town",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Muhafiz Town, Lahore",
+      "match": [
+        [
+          "muhafiz town"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:revenue-society",
+      "label": "Revenue Society",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Revenue Society, Lahore",
+      "match": [
+        [
+          "revenue society"
+        ],
+        [
+          "revenues employees"
+        ],
+        [
+          "revenue employees"
+        ],
+        [
+          "r e c h s"
+        ],
+        [
+          "rechs"
+        ],
+        [
+          "bor society"
+        ]
+      ]
+    },
+    {
+      "id": "lahore:ichhra",
+      "label": "Ichhra",
+      "cities": [
+        "lahore"
+      ],
+      "query": "Ichhra, Lahore",
+      "match": [
+        [
+          "ichhra"
+        ],
+        [
+          "ichra"
+        ],
+        [
+          "icchra"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:gulshan-e-iqbal",
+      "label": "Gulshan-e-Iqbal",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Gulshan-e-Iqbal, Karachi",
+      "match": [
+        [
+          "gulshan e iqbal"
+        ],
+        [
+          "gulshan iqbal"
+        ],
+        [
+          "gulshan e iqbal town"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:gulistan-e-jauhar",
+      "label": "Gulistan-e-Jauhar",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Gulistan-e-Johar, Karachi",
+      "match": [
+        [
+          "gulistan e johar"
+        ],
+        [
+          "gulistan e jauhar"
+        ],
+        [
+          "gulistan e joher"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:pechs",
+      "label": "PECHS",
+      "cities": [
+        "karachi"
+      ],
+      "query": "PECHS, Karachi",
+      "match": [
+        [
+          "pechs"
+        ],
+        [
+          "p e c h s"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:clifton",
+      "label": "Clifton",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Clifton, Karachi",
+      "match": [
+        [
+          "clifton"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:north-nazimabad",
+      "label": "North Nazimabad",
+      "cities": [
+        "karachi"
+      ],
+      "query": "North Nazimabad, Karachi",
+      "match": [
+        [
+          "north nazimabad"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:nazimabad",
+      "label": "Nazimabad",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Nazimabad, Karachi",
+      "match": [
+        [
+          "nazimabad"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:tariq-road",
+      "label": "Tariq Road",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Tariq Road, Karachi",
+      "match": [
+        [
+          "tariq road"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:bahadurabad",
+      "label": "Bahadurabad",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Bahadurabad, Karachi",
+      "match": [
+        [
+          "bahadurabad"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:federal-b-area",
+      "label": "Federal B Area",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Federal B Area, Karachi",
+      "match": [
+        [
+          "federal b area"
+        ],
+        [
+          "fb area"
+        ],
+        [
+          "f b area"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:saddar",
+      "label": "Saddar",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Saddar, Karachi",
+      "match": [
+        [
+          "saddar"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:ii-chundrigar-road",
+      "label": "I. I. Chundrigar Road",
+      "cities": [
+        "karachi"
+      ],
+      "query": "I. I. Chundrigar Road, Karachi",
+      "match": [
+        [
+          "chundrigar"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:karsaz",
+      "label": "Karsaz",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Karsaz, Karachi",
+      "match": [
+        [
+          "karsaz"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:bahria-town",
+      "label": "Bahria Town Karachi",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Bahria Town Karachi",
+      "match": [
+        [
+          "bahria town"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:dha-phase-1",
+      "label": "DHA Phase 1",
+      "cities": [
+        "karachi"
+      ],
+      "query": "DHA Phase 1, Karachi",
+      "match": [
+        [
+          "dha",
+          "phase 1"
+        ],
+        [
+          "dha",
+          "phase i"
+        ],
+        [
+          "defence",
+          "phase 1"
+        ],
+        [
+          "dha 1"
+        ],
+        [
+          "dha i"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:dha-phase-2",
+      "label": "DHA Phase 2",
+      "cities": [
+        "karachi"
+      ],
+      "query": "DHA Phase 2, Karachi",
+      "match": [
+        [
+          "dha",
+          "phase 2"
+        ],
+        [
+          "dha",
+          "phase ii"
+        ],
+        [
+          "defence",
+          "phase 2"
+        ],
+        [
+          "dha 2"
+        ],
+        [
+          "dha ii"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:dha-phase-3",
+      "label": "DHA Phase 3",
+      "cities": [
+        "karachi"
+      ],
+      "query": "DHA Phase 3, Karachi",
+      "match": [
+        [
+          "dha",
+          "phase 3"
+        ],
+        [
+          "dha",
+          "phase iii"
+        ],
+        [
+          "defence",
+          "phase 3"
+        ],
+        [
+          "dha 3"
+        ],
+        [
+          "dha iii"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:dha-phase-4",
+      "label": "DHA Phase 4",
+      "cities": [
+        "karachi"
+      ],
+      "query": "DHA Phase 4, Karachi",
+      "match": [
+        [
+          "dha",
+          "phase 4"
+        ],
+        [
+          "dha",
+          "phase iv"
+        ],
+        [
+          "defence",
+          "phase 4"
+        ],
+        [
+          "dha 4"
+        ],
+        [
+          "dha iv"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:dha-phase-5",
+      "label": "DHA Phase 5",
+      "cities": [
+        "karachi"
+      ],
+      "query": "DHA Phase 5, Karachi",
+      "match": [
+        [
+          "dha",
+          "phase 5"
+        ],
+        [
+          "dha",
+          "phase v"
+        ],
+        [
+          "defence",
+          "phase 5"
+        ],
+        [
+          "dha 5"
+        ],
+        [
+          "dha v"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:dha-phase-6",
+      "label": "DHA Phase 6",
+      "cities": [
+        "karachi"
+      ],
+      "query": "DHA Phase 6, Karachi",
+      "match": [
+        [
+          "dha",
+          "phase 6"
+        ],
+        [
+          "dha",
+          "phase vi"
+        ],
+        [
+          "defence",
+          "phase 6"
+        ],
+        [
+          "dha 6"
+        ],
+        [
+          "dha vi"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:dha-phase-7",
+      "label": "DHA Phase 7",
+      "cities": [
+        "karachi"
+      ],
+      "query": "DHA Phase 7, Karachi",
+      "match": [
+        [
+          "dha",
+          "phase 7"
+        ],
+        [
+          "dha",
+          "phase vii"
+        ],
+        [
+          "defence",
+          "phase 7"
+        ],
+        [
+          "dha 7"
+        ],
+        [
+          "dha vii"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:dha-phase-8",
+      "label": "DHA Phase 8",
+      "cities": [
+        "karachi"
+      ],
+      "query": "DHA Phase 8, Karachi",
+      "match": [
+        [
+          "dha",
+          "phase 8"
+        ],
+        [
+          "dha",
+          "phase viii"
+        ],
+        [
+          "defence",
+          "phase 8"
+        ],
+        [
+          "dha 8"
+        ],
+        [
+          "dha viii"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:madina-town",
+      "label": "Madina Town",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Madina Town, Faisalabad",
+      "match": [
+        [
+          "madina town"
+        ],
+        [
+          "medina town"
+        ],
+        [
+          "susan road"
+        ],
+        [
+          "chenab market"
+        ],
+        [
+          "chanab market"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:peoples-colony",
+      "label": "Peoples Colony",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Peoples Colony, Faisalabad",
+      "match": [
+        [
+          "people s colony"
+        ],
+        [
+          "peoples colony"
+        ],
+        [
+          "people colony"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:d-ground",
+      "label": "D Ground",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "D Ground, Faisalabad",
+      "match": [
+        [
+          "d ground"
+        ],
+        [
+          "regent mall"
+        ],
+        [
+          "chenone road"
+        ],
+        [
+          "chen one road"
+        ],
+        [
+          "d ground",
+          "people s colony"
+        ],
+        [
+          "d ground",
+          "peoples colony"
+        ],
+        [
+          "d ground",
+          "people colony"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:samanabad",
+      "label": "Samanabad",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Samanabad, Faisalabad",
+      "match": [
+        [
+          "samanabad"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:kohinoor-city",
+      "label": "Kohinoor City",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Kohinoor City, Faisalabad",
+      "match": [
+        [
+          "kohinoor"
+        ],
+        [
+          "kohenoor"
+        ],
+        [
+          "kohinnor"
+        ],
+        [
+          "koh e noor"
+        ],
+        [
+          "kohinoor city"
+        ],
+        [
+          "kohenoor city"
+        ],
+        [
+          "kohinnor city"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:kohinoor-flats",
+      "label": "Kohinoor Flats",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Kohinoor Flats, Faisalabad",
+      "match": [
+        [
+          "kohinoor flats"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:batala-colony",
+      "label": "Batala Colony",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Batala Colony, Faisalabad",
+      "match": [
+        [
+          "batala colony"
+        ],
+        [
+          "batala colony",
+          "people s colony"
+        ],
+        [
+          "batala colony",
+          "peoples colony"
+        ],
+        [
+          "batala colony",
+          "people colony"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:civil-lines",
+      "label": "Civil Lines",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Civil Lines, Faisalabad",
+      "match": [
+        [
+          "civil lines"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:eden-valley",
+      "label": "Eden Valley",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Eden Valley, Faisalabad",
+      "match": [
+        [
+          "eden valley"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:jinnah-colony",
+      "label": "Jinnah Colony",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Jinnah Colony, Faisalabad",
+      "match": [
+        [
+          "jinnah colony"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:muslim-town",
+      "label": "Muslim Town",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Muslim Town, Faisalabad",
+      "match": [
+        [
+          "muslim town"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:gulistan-colony",
+      "label": "Gulistan Colony",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Gulistan Colony, Faisalabad",
+      "match": [
+        [
+          "gulistan colony"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:gulberg",
+      "label": "Gulberg",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Gulberg, Faisalabad",
+      "match": [
+        [
+          "gulberg"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:millat-town",
+      "label": "Millat Town",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Millat Town, Faisalabad",
+      "match": [
+        [
+          "millat town"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:kehkashan-colony",
+      "label": "Kehkashan Colony",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Kahkashan Colony, Faisalabad",
+      "match": [
+        [
+          "kehkashan colony"
+        ],
+        [
+          "kehkshan colony"
+        ],
+        [
+          "kehkishan colony"
+        ],
+        [
+          "kahkashan colony"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:gulfishan-colony",
+      "label": "Gulfishan Colony",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Gulfishan Colony, Faisalabad",
+      "match": [
+        [
+          "gulfishan colony"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:pearl-city",
+      "label": "Pearl City",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Pearl City, Faisalabad",
+      "match": [
+        [
+          "pearl city"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:abdullah-garden",
+      "label": "Abdullah Garden",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Abdullah Garden, Faisalabad",
+      "match": [
+        [
+          "abdullah garden"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:chenab-gardens",
+      "label": "Chenab Gardens",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Chenab Garden, Faisalabad",
+      "match": [
+        [
+          "chenab garden"
+        ],
+        [
+          "chenab gardens"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:sant-pura",
+      "label": "Sant Pura",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Sant Pura, Faisalabad",
+      "match": [
+        [
+          "sant pura"
+        ],
+        [
+          "sanat pura"
+        ],
+        [
+          "santpura"
+        ],
+        [
+          "sanatpura"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:khayaban-colony",
+      "label": "Khayaban Colony",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Khayban Colony, Faisalabad",
+      "match": [
+        [
+          "khayaban colony"
+        ],
+        [
+          "khayban colony"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:ghulam-muhammad-abad",
+      "label": "Ghulam Muhammad Abad",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Ghulam Muhammad Abad, Faisalabad",
+      "match": [
+        [
+          "g m abad"
+        ],
+        [
+          "gm abad"
+        ],
+        [
+          "ghulam muhammad abad"
+        ],
+        [
+          "ghulam muhammadabad"
+        ]
+      ]
+    },
+    {
+      "id": "faisalabad:abdullah-pur",
+      "label": "Abdullah Pur",
+      "cities": [
+        "faisalabad"
+      ],
+      "query": "Abdullah Pur, Faisalabad",
+      "match": [
+        [
+          "abdullah pur"
+        ],
+        [
+          "abdullahpur"
+        ]
+      ]
+    }
+  ]
+}
