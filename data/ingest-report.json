@@ -10,50 +10,50 @@
     "missing_industry": 0
   },
   "hubs": {
-    "twin-cities": 4174,
-    "lahore": 3508,
+    "twin-cities": 4255,
+    "lahore": 3608,
     "karachi": 5463,
-    "faisalabad": 739,
+    "faisalabad": 744,
     "other-cities": 11
   },
   "hq": {
-    "local": 11326,
-    "foreign": 2216,
-    "hqCountryUnresolved": 58,
+    "local": 11321,
+    "foreign": 2221,
+    "hqCountryUnresolved": 54,
     "foreignResolvedToPakistan": 59
   },
   "origin": {
-    "international/described-abroad": 146,
+    "international/described-abroad": 148,
     "international/owner": 2,
-    "local/headquarters": 11391,
+    "local/headquarters": 11386,
     "registered-abroad/company-form": 67,
     "registered-abroad/described-here": 31,
-    "registered-abroad/office-label": 90,
+    "registered-abroad/office-label": 91,
     "registered-abroad/owner": 1,
     "registered-abroad/registration-address": 165,
-    "registered-abroad/website": 8,
+    "registered-abroad/website": 10,
     "unclear/none": 1641
   },
-  "multiCity": 422,
+  "multiCity": 586,
   "facets": {
     "industries": 57,
-    "tags": 1121,
-    "areas": 201,
-    "cities": 54,
-    "citiesLearned": 28,
-    "countries": 60
+    "tags": 1609,
+    "areas": 222,
+    "cities": 57,
+    "citiesLearned": 31,
+    "countries": 59
   },
   "coverage": {
-    "website": 7254,
-    "founded": 6731,
-    "specialties": 4556,
-    "tags": 4171,
+    "website": 11158,
+    "founded": 10352,
+    "specialties": 6876,
+    "tags": 6315,
     "followers": 13443,
-    "members": 7256,
-    "companyId": 8218
+    "members": 11951,
+    "companyId": 13520
   },
   "companyIds": {
-    "fromSource": 8222,
+    "fromSource": 13524,
     "fromKnownList": 0,
     "rejected": 0,
     "shared": [
@@ -65,42 +65,42 @@
   },
   "cleaning": {
     "websiteDropped": {
-      "self_link": 10,
+      "self_link": 13,
       "scheme": 1,
-      "invalid": 1
+      "invalid": 2
     },
-    "trackingStripped": 16,
-    "specialtiesWithLinks": 2,
+    "trackingStripped": 23,
+    "specialtiesWithLinks": 3,
     "foundedRejected": 2,
     "namesFromHandle": 5,
     "industryNotListed": 4
   },
   "offices": {
-    "total": 14196,
+    "total": 14481,
     "byPrecision": {
-      "street": 66,
-      "area": 3959,
-      "city": 10171
+      "street": 109,
+      "area": 5614,
+      "city": 8758
     },
-    "companiesWithStreetOrArea": 3801,
-    "detailedAddresses": 5266,
-    "geocoded": 75,
+    "companiesWithStreetOrArea": 5364,
+    "detailedAddresses": 7672,
+    "geocoded": 124,
     "uncached": 0,
-    "rejectedFar": 12,
-    "cityLevelOnlyResult": 475,
-    "notInAddress": 322,
+    "rejectedFar": 14,
+    "cityLevelOnlyResult": 770,
+    "notInAddress": 536,
     "unlocatedCompanies": 5,
-    "placedByKnownPlace": 3950,
-    "streetConfirmedByPlace": 41,
-    "abroad": 6,
-    "operatingCityReplaced": 23,
-    "unknownPlace": 6,
-    "officeCityOutsideHubs": 163
+    "placedByKnownPlace": 5599,
+    "streetConfirmedByPlace": 63,
+    "abroad": 9,
+    "operatingCityReplaced": 22,
+    "unknownPlace": 7,
+    "officeCityOutsideHubs": 188
   },
   "platformMentions": {
     "handle": 5,
     "name": 1,
-    "specialties": 24,
+    "specialties": 33,
     "address": 0,
     "website": 2
   },
@@ -108,10 +108,6 @@
     {
       "value": ",",
       "count": 6
-    },
-    {
-      "value": "Skip to primary content",
-      "count": 3
     },
     {
       "value": "637 S Meldrum St Fort Collin, Colorado",
@@ -155,10 +151,6 @@
     },
     {
       "value": "DMV Area, Maryland",
-      "count": 1
-    },
-    {
-      "value": "Dammam metropolitan area,",
       "count": 1
     },
     {
@@ -306,6 +298,10 @@
       "count": 1
     },
     {
+      "value": "Skip to primary content",
+      "count": 1
+    },
+    {
       "value": "Slough, UK, Berkshire",
       "count": 1
     },
@@ -327,10 +323,6 @@
     },
     {
       "value": "manchester, united kindom",
-      "count": 1
-    },
-    {
-      "value": "🚀 Tecno Zone Softwares | Your Digital Transformation Partner",
       "count": 1
     }
   ]
