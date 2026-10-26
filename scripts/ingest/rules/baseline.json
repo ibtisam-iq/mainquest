@@ -3,33 +3,33 @@
   "tolerance": 0.1,
   "counts": {
     "published": 13542,
-    "local": 11326,
-    "multiCity": 422,
+    "local": 11321,
+    "multiCity": 586,
     "hubs": {
-      "twin-cities": 4174,
-      "lahore": 3508,
+      "twin-cities": 4255,
+      "lahore": 3608,
       "karachi": 5463,
-      "faisalabad": 739,
+      "faisalabad": 744,
       "other-cities": 11
     }
   },
   "coverageFloors": {
-    "website": 7254,
-    "founded": 6731,
-    "specialties": 4556,
-    "companiesWithStreetOrArea": 3801,
+    "website": 11158,
+    "founded": 10352,
+    "specialties": 6876,
+    "companiesWithStreetOrArea": 5364,
     "followers": 13443,
-    "members": 7256,
-    "companyId": 8218
+    "members": 11951,
+    "companyId": 13520
   },
   "platformMentionCeilings": {
     "handle": 5,
     "name": 1,
-    "specialties": 24
+    "specialties": 33
   },
   "budgets": {
-    "coreGzipBytes": 716800,
-    "extraGzipBytes": 716800
+    "coreGzipBytes": 768000,
+    "extraGzipBytes": 921600
   },
   "unlocatedCeiling": 5
 }
