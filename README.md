@@ -14,7 +14,7 @@
   <strong>An open, high-performance web directory and spatial discovery platform mapping Pakistan's technology ecosystem.</strong>
 </p>
 <p align="center">
-  Indexes 13,542 verified tech companies, software houses, and digital enterprises across 26 cities and 201 commercial districts, powered by an in-memory client search engine, GPU-accelerated dot maps, and programmatic SEO.
+  Indexes 13,542 verified tech companies, software houses, and digital enterprises across 57 cities and 222 commercial districts, powered by an in-memory client search engine, GPU-accelerated dot maps, and programmatic SEO.
 </p>
 
 </div>
@@ -39,10 +39,10 @@ flowchart TB
 
     RAW --> NORM --> VAL
 
-    VAL ==>|"next build"| SSG["&nbsp;&nbsp; 🌐 316 Pre-rendered Routes &nbsp;&nbsp;<br/>&nbsp;&nbsp; 174 Canonical Sitemap URLs &nbsp;&nbsp;"]
-    VAL ==>|"next build"| OG["&nbsp;&nbsp; 🖼️ 174 Dynamic OG Cards &nbsp;&nbsp;<br/>&nbsp;&nbsp; Ahead-of-Time Social Previews &nbsp;&nbsp;"]
-    VAL ==>|"publish-data.ts"| CORE["&nbsp;&nbsp; 📦 core.json.gz (579 KB) &nbsp;&nbsp;<br/>&nbsp;&nbsp; Names &bull; Coordinates &bull; Tiers &nbsp;&nbsp;"]
-    VAL ==>|"publish-data.ts"| EXTRA["&nbsp;&nbsp; 📦 extra.json.gz (605 KB) &nbsp;&nbsp;<br/>&nbsp;&nbsp; Specialties &bull; Members &bull; URLs &nbsp;&nbsp;"]
+    VAL ==>|"next build"| SSG["&nbsp;&nbsp; 🌐 340 Pre-rendered Routes &nbsp;&nbsp;<br/>&nbsp;&nbsp; 187 Canonical Sitemap URLs &nbsp;&nbsp;"]
+    VAL ==>|"next build"| OG["&nbsp;&nbsp; 🖼️ 187 Dynamic OG Cards &nbsp;&nbsp;<br/>&nbsp;&nbsp; Ahead-of-Time Social Previews &nbsp;&nbsp;"]
+    VAL ==>|"publish-data.ts"| CORE["&nbsp;&nbsp; 📦 core.json.gz (700 KB) &nbsp;&nbsp;<br/>&nbsp;&nbsp; Names &bull; Coordinates &bull; Tiers &nbsp;&nbsp;"]
+    VAL ==>|"publish-data.ts"| EXTRA["&nbsp;&nbsp; 📦 extra.json.gz (837 KB) &nbsp;&nbsp;<br/>&nbsp;&nbsp; Specialties &bull; Members &bull; URLs &nbsp;&nbsp;"]
 
     SSG --> CDN["&nbsp;&nbsp; 🚀 Vercel Edge Global Network &bull; Immutable CDN &nbsp;&nbsp;<br/>&nbsp;&nbsp; mainquest.ibtisam-iq.com &nbsp;&nbsp;"]
     OG --> CDN
@@ -81,10 +81,10 @@ flowchart TB
 - **Haversine Proximity Filter**: Calculates geographic distances on the fly to find tech employers within a specified radius of the browser's coordinates or a chosen neighborhood.
 
 ### 3. Programmatic SEO Engine
-- **316 Landing Pages**: Pre-rendered static routes for every city hub (`/companies/[place]`), commercial area (`/companies/[place]/[area]`), and industry vertical (`/industry/[slug]`).
-- **174 Dynamic Social Preview Images**: Pre-generated OpenGraph cards (`opengraph-image.tsx`) rendered at build time with tailored typography and live company counts.
+- **340 Landing Pages**: Pre-rendered static routes for every city hub (`/companies/[place]`), commercial area (`/companies/[place]/[area]`), and industry vertical (`/industry/[slug]`).
+- **187 Dynamic Social Preview Images**: Pre-generated OpenGraph cards (`opengraph-image.tsx`) rendered at build time with tailored typography and live company counts.
 - **Structured JSON-LD**: Comprehensive schema.org Organization and CollectionPage microdata embedded into every landing page.
-- **Audited Sitemap**: Clean sitemap containing 174 indexable canonical URLs verified via `scripts/check-seo.ts`.
+- **Audited Sitemap**: Clean sitemap containing 187 indexable canonical URLs verified via `scripts/check-seo.ts`.
 
 ### 4. Automated Verification & Size Budgets
 - **Pre-Build Gate**: `scripts/validate.ts` audits 100% of corporate records before any production build proceeds.
@@ -97,12 +97,12 @@ flowchart TB
 | Domain | Architectural Target | Verified Metric | Audit Status |
 | :--- | :--- | :--- | :--- |
 | **Corporate Directory** | Verified tech companies | **13,542 companies** | Verified |
-| **Geographic Coverage** | Municipal centers + hubs | **26 cities, 201 areas** | Verified |
-| **Core Payload Size** | Budget limit: 620 KB gzipped | **579 KB (93.4% budget)** | Passed |
-| **Extra Payload Size** | Budget limit: 630 KB gzipped | **605 KB (96.0% budget)** | Passed |
-| **Pre-rendered Routes** | Hubs, areas, and verticals | **639 static files** | Generated |
-| **Indexable Pages** | Canonical sitemap entries | **174 pages** | Verified |
-| **Test Suite Coverage** | 100% pass across 15 test suites | **127 / 127 assertions** | Passed (1.15s) |
+| **Geographic Coverage** | Municipal centers + hubs | **57 cities, 222 areas** | Verified |
+| **Core Payload Size** | Budget limit: 750 KB gzipped | **700 KB (93.3% budget)** | Passed |
+| **Extra Payload Size** | Budget limit: 900 KB gzipped | **837 KB (93.0% budget)** | Passed |
+| **Pre-rendered Routes** | Hubs, areas, and verticals | **687 static files** | Generated |
+| **Indexable Pages** | Canonical sitemap entries | **187 pages** | Verified |
+| **Test Suite Coverage** | 100% pass across 22 test files | **132 / 132 tests** | Passed (1.6s) |
 | **TypeScript Integrity** | Strict type checking (`noEmit`) | **0 errors** | Passed |
 | **Query Latency** | Client facet execution time | **< 5ms** | Verified |
 
@@ -156,7 +156,7 @@ npm run typecheck
 # Validate dataset integrity, schema coverage, and payload budgets
 npm run validate
 
-# Compile production build and statically pre-render all 639 pages
+# Compile production build and statically pre-render all 687 pages
 npm run build
 
 # Audit programmatic SEO, meta tags, OpenGraph previews, and sitemap
