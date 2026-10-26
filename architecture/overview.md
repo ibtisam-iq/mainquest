@@ -45,18 +45,18 @@ In the browser. The dataset downloads once, and every filter, search and sort th
 
 The download comes in two parts:
 
-| File | Holds | Size now, gzipped | Size at full enrichment |
+| File | Holds | Size now, gzipped | Budget, gzipped |
 |---|---|---|---|
-| `core.json` | everything needed to list, filter, order and locate companies | about 600 KB | about 700 KB |
-| `extra.json` | full specialties text, office addresses, and the three dates per company | about 615 KB | about 700 KB |
+| `core.json` | everything needed to list, filter, order and locate companies | about 700 KB | 750 KB |
+| `extra.json` | full specialties text, office addresses, and the three dates per company | about 840 KB | 900 KB |
 
 The page is usable as soon as `core.json` arrives. Full-text search and company detail upgrade when `extra.json` lands a moment later. The validator enforces a gzipped budget on each file.
 
 | Companies | Total payload, gzipped | Behaviour |
 |---|---|---|
-| 13,500 | about 1.2 MB at full enrichment | Fine; the list appears before the extra file lands |
-| 50,000 | about 4 MB | The limit for a phone connection |
-| 130,000 | about 11 MB | Too slow |
+| 13,500 | about 1.5 MB, every city enriched | Fine; the list appears before the extra file lands |
+| 50,000 | about 5.7 MB | The limit for a phone connection |
+| 130,000 | about 15 MB | Too slow |
 
 Past roughly 50,000 companies the fix is one of:
 
@@ -75,7 +75,7 @@ Both change the build-time split and the loading layer. Neither touches the inte
 
 **A page for unknown addresses**, with a way back to the directory and to each city.
 
-**Preview pictures.** One per landing page, one for the home page and one for the index, drawn from the data when the site is built (316 pages, 174 in search results, 30 to 66 KB each).
+**Preview pictures.** One per landing page, one for the home page and one for the index, drawn from the data when the site is built (340 pages, 187 in search results, 30 to 66 KB each).
 
 **Outside requests.** The map view is the only part of the site that fetches from another host: OpenFreeMap's style (light or dark, matching the site's theme), vector tiles and label fonts, loaded only when the map is opened (decisions 20 and 24). The site's own fonts are served by the site itself. All of the site's code except the map comes to about 197 KB gzipped, and its stylesheet to about 11 KB. The look of every page, in light and dark, comes from one set of tokens in `app/globals.css` (decisions 23 and 24). Opening the map adds about 420 KB, for the map library and its worker, once per browser.
 
