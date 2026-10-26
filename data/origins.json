@@ -7,19 +7,19 @@
       "id": "local",
       "label": "Pakistani company",
       "row": "",
-      "count": 11391
+      "count": 11386
     },
     {
       "id": "registered-abroad",
       "label": "Pakistani, registered abroad",
       "row": "Pakistani, registered in {country}",
-      "count": 362
+      "count": 365
     },
     {
       "id": "international",
       "label": "International, with an office in Pakistan",
       "row": "International, based in {country}",
-      "count": 148
+      "count": 150
     },
     {
       "id": "unclear",
