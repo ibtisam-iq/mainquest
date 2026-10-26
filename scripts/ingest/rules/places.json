@@ -2540,6 +2540,9 @@
         [
           "bahria town"
         ]
+      ],
+      "except": [
+        "bahria town tower"
       ]
     },
     {
@@ -3169,6 +3172,124 @@
           "abdullahpur"
         ]
       ]
+    },
+    {
+      "id": "karachi:gulshan-e-jamal",
+      "label": "Gulshan-e-Jamal",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Gulshan-e-Jamal, Karachi",
+      "match": [
+        [
+          "gulshan e jamal"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:korangi-industrial-area",
+      "label": "Korangi Industrial Area",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Korangi Industrial Area, Karachi",
+      "match": [
+        [
+          "korangi industrial"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:korangi",
+      "label": "Korangi",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Korangi, Karachi",
+      "match": [
+        [
+          "korangi"
+        ]
+      ],
+      "except": [
+        "korangi industrial",
+        "korangi creek"
+      ]
+    },
+    {
+      "id": "karachi:civil-lines",
+      "label": "Civil Lines",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Civil Lines, Karachi",
+      "match": [
+        [
+          "civil lines"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:malir",
+      "label": "Malir",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Malir, Karachi",
+      "match": [
+        [
+          "malir"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:model-colony",
+      "label": "Model Colony",
+      "cities": [
+        "karachi"
+      ],
+      "query": "Model Colony, Karachi",
+      "match": [
+        [
+          "model colony"
+        ]
+      ]
+    },
+    {
+      "id": "karachi:north-karachi",
+      "label": "North Karachi",
+      "cities": [
+        "karachi"
+      ],
+      "query": "North Karachi, Karachi",
+      "match": [
+        [
+          "north karachi"
+        ]
+      ],
+      "point": [
+        24.98226,
+        67.06077
+      ],
+      "pointNote": "The place's own lookup returns an amenity in North Nazimabad, so the centre is the median of the 12 lookups of addresses that name North Karachi (0.9 km typical spread)."
+    },
+    {
+      "id": "karachi:kda-scheme-1",
+      "label": "KDA Scheme 1",
+      "cities": [
+        "karachi"
+      ],
+      "query": "KDA Scheme 1, Karachi",
+      "match": [
+        [
+          "kda scheme 1"
+        ]
+      ],
+      "point": [
+        24.88968,
+        67.08365
+      ],
+      "pointNote": "The place's own lookup returns the Scheme 1 Extension, a neighbouring society, so the centre is where the 10 lookups of addresses that name KDA Scheme 1 agree (within 0.7 km)."
     }
   ]
 }
