@@ -1,19 +1,51 @@
 [
   {
+    "id": "lahore:gulberg",
+    "label": "Gulberg",
+    "city": "lahore",
+    "count": 458,
+    "lat": 31.51587,
+    "lon": 74.34101
+  },
+  {
     "id": "lahore:johar-town",
     "label": "Johar Town",
     "city": "lahore",
-    "count": 426,
+    "count": 433,
     "lat": 31.46316,
     "lon": 74.29392
   },
   {
-    "id": "lahore:gulberg",
-    "label": "Gulberg",
-    "city": "lahore",
-    "count": 423,
-    "lat": 31.51587,
-    "lon": 74.34101
+    "id": "karachi:gulshan-e-iqbal",
+    "label": "Gulshan-e-Iqbal",
+    "city": "karachi",
+    "count": 389,
+    "lat": 24.90673,
+    "lon": 67.09866
+  },
+  {
+    "id": "karachi:pechs",
+    "label": "PECHS",
+    "city": "karachi",
+    "count": 383,
+    "lat": 24.86848,
+    "lon": 67.05872
+  },
+  {
+    "id": "karachi:clifton",
+    "label": "Clifton",
+    "city": "karachi",
+    "count": 151,
+    "lat": 24.81906,
+    "lon": 67.02624
+  },
+  {
+    "id": "islamabad:blue-area",
+    "label": "Blue Area",
+    "city": "islamabad",
+    "count": 150,
+    "lat": 33.72205,
+    "lon": 73.07879
   },
   {
     "id": "rawalpindi:satellite-town",
@@ -24,50 +56,66 @@
     "lon": 73.06969
   },
   {
-    "id": "islamabad:blue-area",
-    "label": "Blue Area",
-    "city": "islamabad",
-    "count": 129,
-    "lat": 33.72205,
-    "lon": 73.07879
+    "id": "karachi:gulistan-e-jauhar",
+    "label": "Gulistan-e-Jauhar",
+    "city": "karachi",
+    "count": 111,
+    "lat": 24.92183,
+    "lon": 67.13079
   },
   {
     "id": "islamabad:gulberg-greens",
     "label": "Gulberg Greens",
     "city": "islamabad",
-    "count": 107,
+    "count": 109,
     "lat": 33.60193,
     "lon": 73.1564
-  },
-  {
-    "id": "rawalpindi:bahria-town-phase-7",
-    "label": "Bahria Town Phase 7",
-    "city": "rawalpindi",
-    "count": 104,
-    "lat": 33.53,
-    "lon": 73.11
   },
   {
     "id": "lahore:garden-town",
     "label": "Garden Town",
     "city": "lahore",
-    "count": 101,
+    "count": 106,
     "lat": 31.50167,
     "lon": 74.32477
+  },
+  {
+    "id": "rawalpindi:bahria-town-phase-7",
+    "label": "Bahria Town Phase 7",
+    "city": "rawalpindi",
+    "count": 105,
+    "lat": 33.53,
+    "lon": 73.11
   },
   {
     "id": "lahore:model-town",
     "label": "Model Town",
     "city": "lahore",
-    "count": 88,
+    "count": 91,
     "lat": 31.48363,
     "lon": 74.32599
+  },
+  {
+    "id": "karachi:dha-phase-6",
+    "label": "DHA Phase 6",
+    "city": "karachi",
+    "count": 89,
+    "lat": 24.79744,
+    "lon": 67.06164
+  },
+  {
+    "id": "karachi:dha-phase-2",
+    "label": "DHA Phase 2",
+    "city": "karachi",
+    "count": 83,
+    "lat": 24.83551,
+    "lon": 67.05887
   },
   {
     "id": "islamabad:i-8",
     "label": "I-8",
     "city": "islamabad",
-    "count": 75,
+    "count": 80,
     "lat": 33.66886,
     "lon": 73.07296
   },
@@ -80,20 +128,20 @@
     "lon": 73.12031
   },
   {
-    "id": "karachi:pechs",
-    "label": "PECHS",
+    "id": "karachi:dha-phase-7",
+    "label": "DHA Phase 7",
     "city": "karachi",
-    "count": 71,
-    "lat": 24.86848,
-    "lon": 67.05872
+    "count": 67,
+    "lat": 24.81546,
+    "lon": 67.0719
   },
   {
-    "id": "karachi:gulshan-e-iqbal",
-    "label": "Gulshan-e-Iqbal",
+    "id": "karachi:dha-phase-5",
+    "label": "DHA Phase 5",
     "city": "karachi",
-    "count": 62,
-    "lat": 24.90673,
-    "lon": 67.09866
+    "count": 65,
+    "lat": 24.80531,
+    "lon": 67.04401
   },
   {
     "id": "rawalpindi:bahria-town-phase-4",
@@ -107,31 +155,39 @@
     "id": "islamabad:e-11",
     "label": "E-11",
     "city": "islamabad",
-    "count": 60,
+    "count": 61,
     "lat": 33.69512,
     "lon": 72.97242
   },
   {
-    "id": "lahore:bahria-town",
-    "label": "Bahria Town",
-    "city": "lahore",
-    "count": 56,
-    "lat": 31.38136,
-    "lon": 74.18635
+    "id": "karachi:north-nazimabad",
+    "label": "North Nazimabad",
+    "city": "karachi",
+    "count": 59,
+    "lat": 24.94246,
+    "lon": 67.04772
   },
   {
     "id": "lahore:dha-phase-8",
     "label": "DHA Phase 8",
     "city": "lahore",
-    "count": 56,
+    "count": 58,
     "lat": 31.4911,
     "lon": 74.44485
+  },
+  {
+    "id": "lahore:bahria-town",
+    "label": "Bahria Town",
+    "city": "lahore",
+    "count": 57,
+    "lat": 31.38136,
+    "lon": 74.18635
   },
   {
     "id": "islamabad:i-10",
     "label": "I-10",
     "city": "islamabad",
-    "count": 53,
+    "count": 55,
     "lat": 33.64821,
     "lon": 73.03692
   },
@@ -139,9 +195,17 @@
     "id": "islamabad:g-11",
     "label": "G-11",
     "city": "islamabad",
-    "count": 50,
+    "count": 53,
     "lat": 33.66872,
     "lon": 72.99874
+  },
+  {
+    "id": "karachi:ii-chundrigar-road",
+    "label": "I. I. Chundrigar Road",
+    "city": "karachi",
+    "count": 50,
+    "lat": 24.85008,
+    "lon": 67.01045
   },
   {
     "id": "lahore:dha-phase-1",
@@ -160,6 +224,30 @@
     "lon": 73.16091
   },
   {
+    "id": "faisalabad:madina-town",
+    "label": "Madina Town",
+    "city": "faisalabad",
+    "count": 47,
+    "lat": 31.41615,
+    "lon": 73.12027
+  },
+  {
+    "id": "karachi:federal-b-area",
+    "label": "Federal B Area",
+    "city": "karachi",
+    "count": 47,
+    "lat": 24.92565,
+    "lon": 67.06896
+  },
+  {
+    "id": "karachi:tariq-road",
+    "label": "Tariq Road",
+    "city": "karachi",
+    "count": 46,
+    "lat": 24.86804,
+    "lon": 67.05754
+  },
+  {
     "id": "lahore:dha-phase-5",
     "label": "DHA Phase 5",
     "city": "lahore",
@@ -168,18 +256,10 @@
     "lon": 74.41043
   },
   {
-    "id": "faisalabad:madina-town",
-    "label": "Madina Town",
-    "city": "faisalabad",
-    "count": 45,
-    "lat": 31.41615,
-    "lon": 73.12027
-  },
-  {
     "id": "islamabad:g-8",
     "label": "G-8",
     "city": "islamabad",
-    "count": 44,
+    "count": 45,
     "lat": 33.69668,
     "lon": 73.0509
   },
@@ -187,7 +267,7 @@
     "id": "lahore:dha-phase-6",
     "label": "DHA Phase 6",
     "city": "lahore",
-    "count": 44,
+    "count": 45,
     "lat": 31.47163,
     "lon": 74.45108
   },
@@ -195,15 +275,39 @@
     "id": "islamabad:i-9",
     "label": "I-9",
     "city": "islamabad",
-    "count": 42,
+    "count": 44,
     "lat": 33.65755,
     "lon": 73.05556
+  },
+  {
+    "id": "karachi:saddar",
+    "label": "Saddar",
+    "city": "karachi",
+    "count": 43,
+    "lat": 24.86057,
+    "lon": 67.03174
+  },
+  {
+    "id": "islamabad:f-11",
+    "label": "F-11",
+    "city": "islamabad",
+    "count": 41,
+    "lat": 33.68439,
+    "lon": 72.98954
+  },
+  {
+    "id": "lahore:dha-phase-3",
+    "label": "DHA Phase 3",
+    "city": "lahore",
+    "count": 41,
+    "lat": 31.474,
+    "lon": 74.37739
   },
   {
     "id": "lahore:faisal-town",
     "label": "Faisal Town",
     "city": "lahore",
-    "count": 40,
+    "count": 41,
     "lat": 31.4769,
     "lon": 74.3049
   },
@@ -216,14 +320,6 @@
     "lon": 74.26998
   },
   {
-    "id": "lahore:dha-phase-3",
-    "label": "DHA Phase 3",
-    "city": "lahore",
-    "count": 39,
-    "lat": 31.474,
-    "lon": 74.37739
-  },
-  {
     "id": "faisalabad:d-ground",
     "label": "D Ground",
     "city": "faisalabad",
@@ -232,12 +328,12 @@
     "lon": 73.11061
   },
   {
-    "id": "islamabad:f-11",
-    "label": "F-11",
-    "city": "islamabad",
+    "id": "karachi:bahadurabad",
+    "label": "Bahadurabad",
+    "city": "karachi",
     "count": 38,
-    "lat": 33.68439,
-    "lon": 72.98954
+    "lat": 24.88234,
+    "lon": 67.0674
   },
   {
     "id": "lahore:pia-housing-society",
@@ -272,20 +368,20 @@
     "lon": 72.99198
   },
   {
-    "id": "karachi:clifton",
-    "label": "Clifton",
-    "city": "karachi",
-    "count": 33,
-    "lat": 24.81906,
-    "lon": 67.02624
-  },
-  {
     "id": "lahore:dha-phase-2",
     "label": "DHA Phase 2",
     "city": "lahore",
-    "count": 30,
+    "count": 31,
     "lat": 31.47665,
     "lon": 74.4052
+  },
+  {
+    "id": "lahore:dha-phase-4",
+    "label": "DHA Phase 4",
+    "city": "lahore",
+    "count": 30,
+    "lat": 31.46124,
+    "lon": 74.38764
   },
   {
     "id": "lahore:valencia-town",
@@ -296,52 +392,44 @@
     "lon": 74.27007
   },
   {
-    "id": "lahore:dha-phase-4",
-    "label": "DHA Phase 4",
-    "city": "lahore",
-    "count": 29,
-    "lat": 31.46124,
-    "lon": 74.38764
-  },
-  {
     "id": "rawalpindi:saddar",
     "label": "Saddar",
     "city": "rawalpindi",
-    "count": 29,
+    "count": 30,
     "lat": 33.6055,
     "lon": 73.05433
-  },
-  {
-    "id": "islamabad:g-10",
-    "label": "G-10",
-    "city": "islamabad",
-    "count": 26,
-    "lat": 33.67772,
-    "lon": 73.0187
   },
   {
     "id": "islamabad:f-7",
     "label": "F-7",
     "city": "islamabad",
-    "count": 25,
+    "count": 27,
     "lat": 33.72043,
     "lon": 73.05612
   },
   {
-    "id": "karachi:gulistan-e-jauhar",
-    "label": "Gulistan-e-Jauhar",
-    "city": "karachi",
-    "count": 25,
-    "lat": 24.92183,
-    "lon": 67.13079
+    "id": "islamabad:g-10",
+    "label": "G-10",
+    "city": "islamabad",
+    "count": 27,
+    "lat": 33.67772,
+    "lon": 73.0187
   },
   {
     "id": "lahore:arfa-tower",
     "label": "Arfa Software Technology Park",
     "city": "lahore",
-    "count": 25,
+    "count": 27,
     "lat": 31.47607,
     "lon": 74.34262
+  },
+  {
+    "id": "karachi:gulshan-e-jamal",
+    "label": "Gulshan-e-Jamal",
+    "city": "karachi",
+    "count": 25,
+    "lat": 24.89633,
+    "lon": 67.11698
   },
   {
     "id": "lahore:township",
@@ -352,12 +440,36 @@
     "lon": 74.32008
   },
   {
+    "id": "islamabad:g-13",
+    "label": "G-13",
+    "city": "islamabad",
+    "count": 24,
+    "lat": 33.65145,
+    "lon": 72.96207
+  },
+  {
+    "id": "karachi:nazimabad",
+    "label": "Nazimabad",
+    "city": "karachi",
+    "count": 24,
+    "lat": 24.90587,
+    "lon": 67.03072
+  },
+  {
     "id": "lahore:allama-iqbal-town",
     "label": "Allama Iqbal Town",
     "city": "lahore",
     "count": 24,
     "lat": 31.51079,
     "lon": 74.28801
+  },
+  {
+    "id": "lahore:muslim-town",
+    "label": "Muslim Town",
+    "city": "lahore",
+    "count": 24,
+    "lat": 31.5115,
+    "lon": 74.31334
   },
   {
     "id": "faisalabad:peoples-colony",
@@ -368,14 +480,6 @@
     "lon": 73.10826
   },
   {
-    "id": "islamabad:g-13",
-    "label": "G-13",
-    "city": "islamabad",
-    "count": 23,
-    "lat": 33.65145,
-    "lon": 72.96207
-  },
-  {
     "id": "islamabad:nust-nstp",
     "label": "NUST and NSTP, H-12",
     "city": "islamabad",
@@ -384,12 +488,12 @@
     "lon": 72.99178
   },
   {
-    "id": "lahore:muslim-town",
-    "label": "Muslim Town",
-    "city": "lahore",
-    "count": 23,
-    "lat": 31.5115,
-    "lon": 74.31334
+    "id": "islamabad:g-9",
+    "label": "G-9",
+    "city": "islamabad",
+    "count": 22,
+    "lat": 33.69144,
+    "lon": 73.03072
   },
   {
     "id": "islamabad:pwd",
@@ -398,6 +502,30 @@
     "count": 22,
     "lat": 33.57128,
     "lon": 73.1448
+  },
+  {
+    "id": "islamabad:f-8",
+    "label": "F-8",
+    "city": "islamabad",
+    "count": 21,
+    "lat": 33.7115,
+    "lon": 73.0396
+  },
+  {
+    "id": "karachi:north-karachi",
+    "label": "North Karachi",
+    "city": "karachi",
+    "count": 21,
+    "lat": 24.98226,
+    "lon": 67.06077
+  },
+  {
+    "id": "lahore:cantt",
+    "label": "Lahore Cantt",
+    "city": "lahore",
+    "count": 21,
+    "lat": 31.5221,
+    "lon": 74.37904
   },
   {
     "id": "rawalpindi:nastp",
@@ -416,22 +544,6 @@
     "lon": 73.08724
   },
   {
-    "id": "islamabad:g-9",
-    "label": "G-9",
-    "city": "islamabad",
-    "count": 19,
-    "lat": 33.69144,
-    "lon": 73.03072
-  },
-  {
-    "id": "lahore:cantt",
-    "label": "Lahore Cantt",
-    "city": "lahore",
-    "count": 19,
-    "lat": 31.5221,
-    "lon": 74.37904
-  },
-  {
     "id": "lahore:paragon-city",
     "label": "Paragon City",
     "city": "lahore",
@@ -440,36 +552,52 @@
     "lon": 74.45316
   },
   {
-    "id": "karachi:dha-phase-6",
-    "label": "DHA Phase 6",
+    "id": "karachi:malir",
+    "label": "Malir",
     "city": "karachi",
     "count": 18,
-    "lat": 24.79744,
-    "lon": 67.06164
-  },
-  {
-    "id": "islamabad:f-8",
-    "label": "F-8",
-    "city": "islamabad",
-    "count": 17,
-    "lat": 33.7115,
-    "lon": 73.0396
+    "lat": 24.89592,
+    "lon": 67.19692
   },
   {
     "id": "lahore:cavalry-ground",
     "label": "Cavalry Ground",
     "city": "lahore",
-    "count": 17,
+    "count": 18,
     "lat": 31.5024,
     "lon": 74.36919
+  },
+  {
+    "id": "karachi:dha-phase-8",
+    "label": "DHA Phase 8",
+    "city": "karachi",
+    "count": 17,
+    "lat": 24.77325,
+    "lon": 67.08085
+  },
+  {
+    "id": "karachi:korangi-industrial-area",
+    "label": "Korangi Industrial Area",
+    "city": "karachi",
+    "count": 17,
+    "lat": 24.84582,
+    "lon": 67.1355
   },
   {
     "id": "islamabad:f-10",
     "label": "F-10",
     "city": "islamabad",
-    "count": 15,
+    "count": 16,
     "lat": 33.69182,
     "lon": 73.00668
+  },
+  {
+    "id": "islamabad:g-7",
+    "label": "G-7",
+    "city": "islamabad",
+    "count": 15,
+    "lat": 33.7066,
+    "lon": 73.06902
   },
   {
     "id": "islamabad:soan-gardens",
@@ -480,20 +608,28 @@
     "lon": 73.14827
   },
   {
-    "id": "karachi:dha-phase-5",
-    "label": "DHA Phase 5",
+    "id": "karachi:civil-lines",
+    "label": "Civil Lines",
     "city": "karachi",
     "count": 15,
-    "lat": 24.80531,
-    "lon": 67.04401
+    "lat": 24.84793,
+    "lon": 67.02669
   },
   {
-    "id": "islamabad:g-7",
-    "label": "G-7",
-    "city": "islamabad",
+    "id": "karachi:korangi",
+    "label": "Korangi",
+    "city": "karachi",
     "count": 14,
-    "lat": 33.7066,
-    "lon": 73.06902
+    "lat": 24.82069,
+    "lon": 67.14037
+  },
+  {
+    "id": "lahore:nawab-town",
+    "label": "Nawab Town",
+    "city": "lahore",
+    "count": 14,
+    "lat": 31.45401,
+    "lon": 74.24813
   },
   {
     "id": "islamabad:f-5",
@@ -512,36 +648,12 @@
     "lon": 74.21424
   },
   {
-    "id": "lahore:nawab-town",
-    "label": "Nawab Town",
-    "city": "lahore",
-    "count": 13,
-    "lat": 31.45401,
-    "lon": 74.24813
-  },
-  {
-    "id": "karachi:bahadurabad",
-    "label": "Bahadurabad",
+    "id": "karachi:dha-phase-1",
+    "label": "DHA Phase 1",
     "city": "karachi",
     "count": 12,
-    "lat": 24.88234,
-    "lon": 67.0674
-  },
-  {
-    "id": "karachi:north-nazimabad",
-    "label": "North Nazimabad",
-    "city": "karachi",
-    "count": 12,
-    "lat": 24.94246,
-    "lon": 67.04772
-  },
-  {
-    "id": "karachi:tariq-road",
-    "label": "Tariq Road",
-    "city": "karachi",
-    "count": 12,
-    "lat": 24.86804,
-    "lon": 67.05754
+    "lat": 24.84149,
+    "lon": 67.06567
   },
   {
     "id": "lahore:bahria-orchard",
@@ -563,25 +675,41 @@
     "id": "islamabad:f-6",
     "label": "F-6",
     "city": "islamabad",
-    "count": 10,
+    "count": 11,
     "lat": 33.72862,
     "lon": 73.07352
-  },
-  {
-    "id": "karachi:dha-phase-2",
-    "label": "DHA Phase 2",
-    "city": "karachi",
-    "count": 10,
-    "lat": 24.83551,
-    "lon": 67.05887
   },
   {
     "id": "faisalabad:civil-lines",
     "label": "Civil Lines",
     "city": "faisalabad",
-    "count": 9,
+    "count": 10,
     "lat": 31.43041,
     "lon": 73.08813
+  },
+  {
+    "id": "islamabad:g-5",
+    "label": "G-5",
+    "city": "islamabad",
+    "count": 10,
+    "lat": 33.72081,
+    "lon": 73.09826
+  },
+  {
+    "id": "karachi:kda-scheme-1",
+    "label": "KDA Scheme 1",
+    "city": "karachi",
+    "count": 10,
+    "lat": 24.88968,
+    "lon": 67.08365
+  },
+  {
+    "id": "lahore:canal-view",
+    "label": "Canal View Society",
+    "city": "lahore",
+    "count": 10,
+    "lat": 31.47788,
+    "lon": 74.25682
   },
   {
     "id": "islamabad:bahria-enclave",
@@ -600,14 +728,6 @@
     "lon": 72.92302
   },
   {
-    "id": "islamabad:g-5",
-    "label": "G-5",
-    "city": "islamabad",
-    "count": 9,
-    "lat": 33.72081,
-    "lon": 73.09826
-  },
-  {
     "id": "islamabad:h-13",
     "label": "H-13",
     "city": "islamabad",
@@ -616,28 +736,20 @@
     "lon": 72.97545
   },
   {
-    "id": "karachi:dha-phase-7",
-    "label": "DHA Phase 7",
+    "id": "karachi:bahria-town",
+    "label": "Bahria Town Karachi",
     "city": "karachi",
     "count": 9,
-    "lat": 24.81546,
-    "lon": 67.0719
+    "lat": 25.06923,
+    "lon": 67.32885
   },
   {
-    "id": "karachi:federal-b-area",
-    "label": "Federal B Area",
+    "id": "karachi:model-colony",
+    "label": "Model Colony",
     "city": "karachi",
     "count": 9,
-    "lat": 24.92565,
-    "lon": 67.06896
-  },
-  {
-    "id": "lahore:canal-view",
-    "label": "Canal View Society",
-    "city": "lahore",
-    "count": 9,
-    "lat": 31.47788,
-    "lon": 74.25682
+    "lat": 24.90683,
+    "lon": 67.18942
   },
   {
     "id": "faisalabad:batala-colony",
@@ -672,14 +784,6 @@
     "lon": 73.1379
   },
   {
-    "id": "karachi:saddar",
-    "label": "Saddar",
-    "city": "karachi",
-    "count": 8,
-    "lat": 24.86057,
-    "lon": 67.03174
-  },
-  {
     "id": "lahore:revenue-society",
     "label": "Revenue Society",
     "city": "lahore",
@@ -694,6 +798,14 @@
     "count": 8,
     "lat": 31.52179,
     "lon": 74.27013
+  },
+  {
+    "id": "lahore:upper-mall",
+    "label": "Upper Mall",
+    "city": "lahore",
+    "count": 8,
+    "lat": 31.54477,
+    "lon": 74.3547
   },
   {
     "id": "rawalpindi:westridge",
@@ -736,6 +848,14 @@
     "lon": 72.96745
   },
   {
+    "id": "karachi:smchs",
+    "label": "SMCHS",
+    "city": "karachi",
+    "count": 7,
+    "lat": 24.92938,
+    "lon": 67.12112
+  },
+  {
     "id": "lahore:ali-town",
     "label": "Ali Town",
     "city": "lahore",
@@ -750,6 +870,14 @@
     "count": 7,
     "lat": 31.48745,
     "lon": 74.37645
+  },
+  {
+    "id": "lahore:shadman",
+    "label": "Shadman",
+    "city": "lahore",
+    "count": 7,
+    "lat": 31.54021,
+    "lon": 74.32697
   },
   {
     "id": "rawalpindi:morgah",
@@ -776,36 +904,12 @@
     "lon": 73.13253
   },
   {
-    "id": "karachi:ii-chundrigar-road",
-    "label": "I. I. Chundrigar Road",
-    "city": "karachi",
-    "count": 6,
-    "lat": 24.85008,
-    "lon": 67.01045
-  },
-  {
     "id": "lahore:lake-city",
     "label": "Lake City",
     "city": "lahore",
     "count": 6,
     "lat": 31.35361,
     "lon": 74.25268
-  },
-  {
-    "id": "lahore:shadman",
-    "label": "Shadman",
-    "city": "lahore",
-    "count": 6,
-    "lat": 31.54021,
-    "lon": 74.32697
-  },
-  {
-    "id": "lahore:upper-mall",
-    "label": "Upper Mall",
-    "city": "lahore",
-    "count": 6,
-    "lat": 31.54477,
-    "lon": 74.3547
   },
   {
     "id": "faisalabad:sant-pura",
@@ -832,20 +936,12 @@
     "lon": 73.00915
   },
   {
-    "id": "karachi:dha-phase-1",
-    "label": "DHA Phase 1",
+    "id": "karachi:gulshan-e-hadeed-phase-2",
+    "label": "Gulshan e Hadeed Phase 2",
     "city": "karachi",
     "count": 5,
-    "lat": 24.84149,
-    "lon": 67.06567
-  },
-  {
-    "id": "karachi:dha-phase-8",
-    "label": "DHA Phase 8",
-    "city": "karachi",
-    "count": 5,
-    "lat": 24.77325,
-    "lon": 67.08085
+    "lat": 24.87182,
+    "lon": 67.36338
   },
   {
     "id": "lahore:harbanspura",
@@ -905,7 +1001,7 @@
   },
   {
     "id": "islamabad:b-17",
-    "label": "B 17",
+    "label": "B-17",
     "city": "islamabad",
     "count": 4,
     "lat": 33.6904,
@@ -926,6 +1022,22 @@
     "count": 4,
     "lat": 33.68031,
     "lon": 73.06205
+  },
+  {
+    "id": "karachi:dha-phase-4",
+    "label": "DHA Phase 4",
+    "city": "karachi",
+    "count": 4,
+    "lat": 24.82323,
+    "lon": 67.05653
+  },
+  {
+    "id": "karachi:karsaz",
+    "label": "Karsaz",
+    "city": "karachi",
+    "count": 4,
+    "lat": 24.87782,
+    "lon": 67.09897
   },
   {
     "id": "lahore:ichhra",
@@ -1022,6 +1134,14 @@
     "count": 3,
     "lat": 33.57552,
     "lon": 73.14391
+  },
+  {
+    "id": "karachi:shah-faisal-colony",
+    "label": "Shah Faisal Colony",
+    "city": "karachi",
+    "count": 3,
+    "lat": 24.8818,
+    "lon": 67.15039
   },
   {
     "id": "lahore:al-faisal-town",
@@ -1136,20 +1256,36 @@
     "lon": 73.12222
   },
   {
-    "id": "karachi:bahria-town",
-    "label": "Bahria Town Karachi",
+    "id": "karachi:baloch-colony",
+    "label": "Baloch Colony",
     "city": "karachi",
     "count": 2,
-    "lat": 25.06923,
-    "lon": 67.32885
+    "lat": 24.95111,
+    "lon": 67.01847
   },
   {
-    "id": "karachi:nazimabad",
-    "label": "Nazimabad",
+    "id": "karachi:korangi-creek-industrial-park",
+    "label": "Korangi Creek Industrial Park",
     "city": "karachi",
     "count": 2,
-    "lat": 24.90587,
-    "lon": 67.03072
+    "lat": 24.80313,
+    "lon": 67.10546
+  },
+  {
+    "id": "karachi:shamsi-society",
+    "label": "Shamsi Society",
+    "city": "karachi",
+    "count": 2,
+    "lat": 24.87956,
+    "lon": 67.17154
+  },
+  {
+    "id": "karachi:west-wharf",
+    "label": "West Wharf",
+    "city": "karachi",
+    "count": 2,
+    "lat": 24.84374,
+    "lon": 66.98027
   },
   {
     "id": "lahore:askari-11",
@@ -1246,6 +1382,14 @@
     "count": 2,
     "lat": 31.47983,
     "lon": 74.29067
+  },
+  {
+    "id": "rawalpindi:bahria-town-phase-3",
+    "label": "Bahria Town Phase 3",
+    "city": "rawalpindi",
+    "count": 2,
+    "lat": 33.54363,
+    "lon": 73.11524
   },
   {
     "id": "faisalabad:abdullah-pur",
@@ -1360,20 +1504,20 @@
     "lon": 73.16862
   },
   {
-    "id": "karachi:block-a-gulshan-e-jamal",
-    "label": "Block A Gulshan e Jamal",
+    "id": "karachi:buffer-zone",
+    "label": "Buffer Zone",
     "city": "karachi",
     "count": 1,
-    "lat": 24.90019,
-    "lon": 67.11043
+    "lat": 24.95525,
+    "lon": 67.06702
   },
   {
-    "id": "karachi:civil-lines",
-    "label": "Civil Lines",
+    "id": "karachi:dha-phase-3",
+    "label": "DHA Phase 3",
     "city": "karachi",
     "count": 1,
-    "lat": 24.8441,
-    "lon": 67.03349
+    "lat": 24.83275,
+    "lon": 67.04811
   },
   {
     "id": "karachi:fowler-lines",
@@ -1384,14 +1528,6 @@
     "lon": 67.04167
   },
   {
-    "id": "karachi:karsaz",
-    "label": "Karsaz",
-    "city": "karachi",
-    "count": 1,
-    "lat": 24.87782,
-    "lon": 67.09897
-  },
-  {
     "id": "karachi:kharadar",
     "label": "Kharadar",
     "city": "karachi",
@@ -1400,28 +1536,20 @@
     "lon": 66.99498
   },
   {
-    "id": "karachi:korangi-creek-industrial-park",
-    "label": "Korangi Creek Industrial Park",
+    "id": "karachi:lucknow-society",
+    "label": "Lucknow Society",
     "city": "karachi",
     "count": 1,
-    "lat": 24.80313,
-    "lon": 67.10546
+    "lat": 24.82292,
+    "lon": 67.12146
   },
   {
-    "id": "karachi:korangi-industrial-area",
-    "label": "Korangi Industrial Area",
+    "id": "karachi:metroville",
+    "label": "Metroville",
     "city": "karachi",
     "count": 1,
-    "lat": 24.84582,
-    "lon": 67.1355
-  },
-  {
-    "id": "karachi:model-colony",
-    "label": "Model Colony",
-    "city": "karachi",
-    "count": 1,
-    "lat": 24.90683,
-    "lon": 67.18942
+    "lat": 24.92325,
+    "lon": 66.99777
   },
   {
     "id": "karachi:modern-colony",
@@ -1432,20 +1560,52 @@
     "lon": 67.01992
   },
   {
-    "id": "karachi:smchs-block-a",
-    "label": "SMCHS Block A",
+    "id": "karachi:orangi-town",
+    "label": "Orangi Town",
     "city": "karachi",
     "count": 1,
-    "lat": 24.8624,
-    "lon": 67.05426
+    "lat": 24.95024,
+    "lon": 66.99395
   },
   {
-    "id": "karachi:west-wharf",
-    "label": "West Wharf",
+    "id": "karachi:parsi-colony",
+    "label": "Parsi Colony",
     "city": "karachi",
     "count": 1,
-    "lat": 24.84921,
-    "lon": 66.98349
+    "lat": 24.86878,
+    "lon": 67.02886
+  },
+  {
+    "id": "karachi:saadi-town",
+    "label": "Saadi Town",
+    "city": "karachi",
+    "count": 1,
+    "lat": 24.96762,
+    "lon": 67.17212
+  },
+  {
+    "id": "karachi:sector-15-a-4",
+    "label": "Sector 15-A/4",
+    "city": "karachi",
+    "count": 1,
+    "lat": 24.95925,
+    "lon": 67.0737
+  },
+  {
+    "id": "karachi:sindh-industrial-trading-estate",
+    "label": "Sindh Industrial Trading Estate",
+    "city": "karachi",
+    "count": 1,
+    "lat": 24.90366,
+    "lon": 66.98936
+  },
+  {
+    "id": "karachi:surjani-town-sector-8",
+    "label": "Surjani Town Sector 8",
+    "city": "karachi",
+    "count": 1,
+    "lat": 25.03305,
+    "lon": 67.08047
   },
   {
     "id": "lahore:bridge-colony",
@@ -1494,6 +1654,14 @@
     "count": 1,
     "lat": 31.51182,
     "lon": 74.34616
+  },
+  {
+    "id": "lahore:main-market",
+    "label": "Main Market",
+    "city": "lahore",
+    "count": 1,
+    "lat": 31.52421,
+    "lon": 74.34609
   },
   {
     "id": "lahore:mustafabad",
@@ -1552,6 +1720,14 @@
     "lon": 71.43981
   },
   {
+    "id": "multan:shadab-colony",
+    "label": "Shadab Colony",
+    "city": "multan",
+    "count": 1,
+    "lat": 30.21313,
+    "lon": 71.45274
+  },
+  {
     "id": "quetta:shahbaz-town",
     "label": "Shahbaz Town شھباز ٹاؤن",
     "city": "quetta",
@@ -1574,14 +1750,6 @@
     "count": 1,
     "lat": 33.57012,
     "lon": 73.11634
-  },
-  {
-    "id": "rawalpindi:bahria-town-phase-3",
-    "label": "Bahria Town Phase 3",
-    "city": "rawalpindi",
-    "count": 1,
-    "lat": 33.54363,
-    "lon": 73.11524
   },
   {
     "id": "rawalpindi:gulshanabad",
