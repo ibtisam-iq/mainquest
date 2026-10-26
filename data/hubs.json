@@ -7,7 +7,7 @@
       "islamabad",
       "rawalpindi"
     ],
-    "count": 4174
+    "count": 4255
   },
   {
     "id": "lahore",
@@ -16,7 +16,7 @@
     "cities": [
       "lahore"
     ],
-    "count": 3508
+    "count": 3608
   },
   {
     "id": "karachi",
@@ -34,7 +34,7 @@
     "cities": [
       "faisalabad"
     ],
-    "count": 739
+    "count": 744
   },
   {
     "id": "other-cities",
