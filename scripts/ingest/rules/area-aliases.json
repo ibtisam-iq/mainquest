@@ -1,5 +1,13 @@
 {
   "note": "Area ids are city:slug. aliases merges spellings of the same area; labels overrides the display name.",
-  "aliases": {},
-  "labels": {}
+  "aliases": {
+    "karachi:society": "karachi:smchs",
+    "karachi:smchs-block-a": "karachi:smchs",
+    "karachi:smchs-block-b": "karachi:smchs",
+    "karachi:kda-scheme-no-1": "karachi:kda-scheme-1"
+  },
+  "labels": {
+    "karachi:smchs": "SMCHS",
+    "islamabad:b-17": "B-17"
+  }
 }
