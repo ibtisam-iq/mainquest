@@ -2,63 +2,70 @@
   {
     "id": "karachi",
     "label": "Karachi",
-    "count": 5466,
+    "count": 5467,
     "lat": 24.8607,
     "lon": 67.0011
   },
   {
     "id": "lahore",
     "label": "Lahore",
-    "count": 3504,
+    "count": 3601,
     "lat": 31.5204,
     "lon": 74.3587
   },
   {
     "id": "islamabad",
     "label": "Islamabad",
-    "count": 2806,
+    "count": 2880,
     "lat": 33.693,
     "lon": 73.065
   },
   {
     "id": "rawalpindi",
     "label": "Rawalpindi",
-    "count": 1378,
+    "count": 1383,
     "lat": 33.595,
     "lon": 73.055
   },
   {
     "id": "faisalabad",
     "label": "Faisalabad",
-    "count": 738,
+    "count": 743,
     "lat": 31.4187,
     "lon": 73.0791
   },
   {
     "id": "multan",
     "label": "Multan",
-    "count": 25,
+    "count": 34,
     "lat": 30.1575,
     "lon": 71.5249
   },
   {
     "id": "peshawar",
     "label": "Peshawar",
-    "count": 22,
+    "count": 31,
     "lat": 34.0151,
     "lon": 71.5249
   },
   {
     "id": "hyderabad",
     "label": "Hyderabad",
-    "count": 14,
+    "count": 22,
     "lat": 25.396,
     "lon": 68.3578
   },
   {
+    "id": "quetta",
+    "label": "Quetta",
+    "count": 14,
+    "lat": 30.1798,
+    "lon": 66.975
+  },
+  {
     "id": "sialkot",
     "label": "Sialkot",
-    "count": 11,
+    "count": 12,
     "lat": 32.4945,
     "lon": 74.5229
   },
@@ -70,11 +77,11 @@
     "lon": 72.7511
   },
   {
-    "id": "quetta",
-    "label": "Quetta",
-    "count": 9,
-    "lat": 30.1798,
-    "lon": 66.975
+    "id": "gilgit",
+    "label": "Gilgit",
+    "count": 7,
+    "lat": 35.9208,
+    "lon": 74.308
   },
   {
     "id": "gujranwala",
@@ -91,11 +98,11 @@
     "lon": 73.2215
   },
   {
-    "id": "gilgit",
-    "label": "Gilgit",
+    "id": "bahawalpur",
+    "label": "Bahawalpur",
     "count": 6,
-    "lat": 35.9208,
-    "lon": 74.308
+    "lat": 29.3956,
+    "lon": 71.6836
   },
   {
     "id": "rahim-yar-khan",
@@ -105,11 +112,11 @@
     "lon": 70.30365
   },
   {
-    "id": "bahawalpur",
-    "label": "Bahawalpur",
+    "id": "sahiwal",
+    "label": "Sahiwal",
     "count": 5,
-    "lat": 29.3956,
-    "lon": 71.6836
+    "lat": 30.67151,
+    "lon": 73.11106
   },
   {
     "id": "jhelum",
@@ -119,18 +126,18 @@
     "lon": 73.7276
   },
   {
-    "id": "sahiwal",
-    "label": "Sahiwal",
-    "count": 4,
-    "lat": 30.67151,
-    "lon": 73.11106
-  },
-  {
     "id": "sargodha",
     "label": "Sargodha",
     "count": 4,
     "lat": 32.0836,
     "lon": 72.6711
+  },
+  {
+    "id": "sukkur",
+    "label": "Sukkur",
+    "count": 4,
+    "lat": 27.7052,
+    "lon": 68.8574
   },
   {
     "id": "taxila",
@@ -231,6 +238,13 @@
     "lon": 72.6797
   },
   {
+    "id": "chakwal",
+    "label": "Chakwal",
+    "count": 1,
+    "lat": 32.93283,
+    "lon": 72.86298
+  },
+  {
     "id": "chiniot",
     "label": "Chiniot",
     "count": 1,
@@ -322,6 +336,13 @@
     "lon": 70.65601
   },
   {
+    "id": "kharian",
+    "label": "Kharian",
+    "count": 1,
+    "lat": 32.81002,
+    "lon": 73.86632
+  },
+  {
     "id": "layyah",
     "label": "Layyah",
     "count": 1,
@@ -364,11 +385,11 @@
     "lon": 72.07641
   },
   {
-    "id": "sukkur",
-    "label": "Sukkur",
+    "id": "thatta",
+    "label": "Thatta",
     "count": 1,
-    "lat": 27.7052,
-    "lon": 68.8574
+    "lat": 24.7469,
+    "lon": 67.92403
   },
   {
     "id": "timergara",
